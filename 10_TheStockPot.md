@@ -1,8 +1,8 @@
 # NEVER TAKE YOUR EYES OFF THE STOCKPOT
 
-There's this momentâ€”somewhere between your first real burn and the day you finally stop flinching when someone shouts "Behind!"â€”when you realise the kitchen isn't simply a workplace. It's a living thing. Loud. Unpredictable. Slightly unhinged. And it has absolutely no interest in accommodating your feelings.
+There's this moment somewhere between your first real burn and the day you finally stop flinching when someone shouts "Behind!"â€”when you realise the kitchen isn't simply a workplace. It's a living thing. Loud. Unpredictable. Slightly unhinged. And it has absolutely no interest in accommodating your feelings.
 
-I'd just graduated from "onion hostage negotiator" to someone Chef trusted enough to give a job with actual consequences. Which, as it turns out, was its own kind of trapâ€”because the second a chef believes you're competent, that's when they start handing you tasks fully capable of ruining your entire week.
+I'd just graduated from "onion hostage negotiator" to someone Chef trusted enough to give a job with actual consequences. Which, as it turns out, was its own kind of trap! because the second a chef believes you're competent, that's when they start handing you tasks fully capable of ruining your entire week.
 
 He gestures toward this monstrous stockpot simmering on the back burner.
 
