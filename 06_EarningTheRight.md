@@ -54,8 +54,8 @@ Some from Chef. Some from Sam. Some from burnt fingers and broken bodies and nig
 
 I call them ChefTips.
 
-They're numberedâ€”but not by when I learned them. By how much they cost. The higher the number, the cheaper the lesson.
+They're numbered but not by when I learned them. By how much they cost. The higher the number, the cheaper the lesson.
 
 So here they are. Ten ChefTips.
 
-I'll even give you one for freeâ€”you're gonna need it if you want to survive this industry.
+I'll even give you one for free you're gonna need it if you want to survive this industry.
