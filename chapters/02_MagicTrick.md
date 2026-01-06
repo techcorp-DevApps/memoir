@@ -1,7 +1,4 @@
 # MAGIC TRICK
-
-## Draft v0.4 — December 2025
-
 ---
 
 I didn't go straight to prison.
