@@ -256,5 +256,3 @@ I'd been through worse.
 ... Or had I?
 
 ---
-
-*— End of CATCH YA ON THE FLIPSIDE —*
