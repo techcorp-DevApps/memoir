@@ -156,5 +156,3 @@ The other guy, I never saw again.
 Mara and I caught up on the outside, after release. But that's another story.
 
 ---
-
-*— End of MAGIC TRICK v0.4 —*
