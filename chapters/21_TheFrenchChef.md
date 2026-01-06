@@ -4,13 +4,13 @@ The thing about being the outsider is that nobody has to say it.
 
 You just know.
 
-It's in the way conversations pause half a beat when you walk into the cool room. The way jokes land and everyone laughsâ€”in sync, like they've rehearsed itâ€”except you. Not because you didn't get it, but because you weren't meant to. The way "this guy" gets muttered just loud enough for you to catch but quiet enough to deny.
+It's in the way conversations pause half a beat when you walk into the cool room. The way jokes land and everyone laughs in sync, like they've rehearsed it except you. Not because you didn't get it, but because you weren't meant to. The way "this guy" gets muttered just loud enough for you to catch but quiet enough to deny.
 
-I'd left a CDC position at a modern bistroâ€”hundred and fifty covers, double sittings, fifteen-plus staff under me, a beast by any definitionâ€”to take a pay cut and drop a couple of rungs to CDP at a fine dining Italian place in Melbourne. On paper, it looked like career suicide. In my head, it was the only move that made sense.
+I'd left a CDC position at a modern bistro hundred and fifty covers, double sittings, fifteen-plus staff under me, a beast by any definition to take a pay cut and drop a couple of rungs to CDP at a fine dining Italian place in Melbourne. On paper, it looked like career suicide. In my head, it was the only move that made sense.
 
 You can run a kitchen for years and still not know shit.
 
-I knew French. Classical technique, mother sauces, the whole architecture of it burned into my muscle memory. But Italian? Real Italianâ€”not the bastardised stuff that gets passed off in suburban trattorias? That was a different language. And I wanted to learn it badly enough to swallow my pride, take the demotion, and start again.
+I knew French. Classical technique, mother sauces, the whole architecture of it burned into my muscle memory. But Italian? Real Italian not the bastardised stuff that gets passed off in suburban trattorias? That was a different language. And I wanted to learn it badly enough to swallow my pride, take the demotion, and start again.
 
 The job was pasta section. Ballsy choice, looking back. Everything made in house, pasta its own section on the menu, and while I'd made pasta before, I'd made it in French kitchens. As I was about to find out, that didn't count for much when it came to authentic ingredient pairing, technique, or execution.
 
