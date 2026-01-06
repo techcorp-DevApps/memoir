@@ -1,7 +1,4 @@
 # CATCH YA ON THE FLIPSIDE
-
-## Draft v0.1 — December 2025
-
 ---
 
 The courtroom was old.
