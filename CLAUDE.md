@@ -84,8 +84,11 @@ The full profile lives at `/context/chef-writer-context-profile.md`. Key element
 
 | Section | ChefTip | Status |
 |---------|---------|--------|
-| CATCH YA ON THE FLIPSIDE | — | ✓ Draft v0.1 approved |
-| MAGIC TRICK | — | ✓ Draft v0.4 |
+| CATCH YA ON THE FLIPSIDE | — | ✓ complete |
+| MAGIC TRICK | — | ✓ complete |
+| FRESH FOR UNLOCK | — | ✓ Draft v0.4 |
+| TITLE TBC | — | ✓ Draft v0.1 |
+| TITLE TBC | — | not started |
 | CHICKEN AND MASH | — | ✓ Complete |
 | EARNING THE RIGHT | (intro) | ✓ Complete |
 | SET UP YOUR STATION | #11 (free) | ✓ Complete |
@@ -171,7 +174,7 @@ ChefTips are numbered by **cost** — higher number = cheaper lesson.
 | **Kein Do** | Senior Sous (Fine Dining) | Vietnamese. Quiet authority. Decades of experience. Noticed the standard without announcing it. |
 | **Dane & Robbie** | Sous Chefs (Production) | "Near enough" philosophy. Asked to have narrator transferred. |
 | **Sonny** | Demi → CDP (Bistro) | Indian, late twenties, visa-sponsored. Exceeded standards. Became strongest chef. |
-| **Jen** | CDP (Bistro) | Korean. Requested transfer. Infectious passion for learning. |
+| **Jen** | commis (Bistro) | Korean. Requested transfer. Infectious passion for learning. |
 | **Praveen** | Commis (Bistro) | Four foot eight. Beast on larder. Parents visited from India. "This is my chef." |
 
 ### Melbourne Era
@@ -180,7 +183,7 @@ ChefTips are numbered by **cost** — higher number = cheaper lesson.
 |-----------|------|-------------|
 | **Joe** | Head Chef (Italian) | Pork belly explosion caught his eye. Three weeks off. |
 | **Matt** | Sous Chef (Italian) | Previous pasta CDP. "This guy." Froze during emergency. |
-| **Carly** | CDP (Italian) | Joe's missus. Assisted plating. |
+| **Rachael** | CDP (Italian) | Joe's missus. Assisted plating. |
 | **Racina (Adam)** | Apprentice | Nineteen but wise beyond years. Asked about running service. |
 | **Dave** | French Chef | TBD — friendship arc, prank war, hiding timers at unreachable heights |
 
