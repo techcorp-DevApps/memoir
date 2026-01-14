@@ -46,12 +46,11 @@ Practical lessons numbered by cost—higher number means cheaper lesson. #1 is t
 
 ```
 ├── CLAUDE.md                 # AI assistant context file
+├── /chapters/                # Chapter files by part
 ├── /context/                 # Voice profile and project memory
-├── /planning/                # Structure and timeline documents
-├── /manuscript/              # Chapter files by part
 ├── /drafts/                  # Work in progress
-├── /archive/                 # Previous versions
-└── /exports/                 # Publication-ready files
+├── /planning/                # Structure and timeline documents
+├── /README.md/
 ```
 
 ---
