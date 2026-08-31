@@ -1,7 +1,7 @@
 ---
 artifact: draft
 version: 1.2.0
-status: RECOVERED — transcribed from chat paste 2026-08-30, NOT byte-verified
+status: RECOVERED — VERIFIED byte-exact against the v1.2.0 original, 2026-08-31
 source: "DIARY OF A CHEF — Restructured Draft v1.2.0, December 2025"
 provenance: |
   Never committed to TechCorp-DevApps/memoir. Recovered from a v1.2.0 draft set
@@ -11,7 +11,13 @@ supersedes: |
   Pull You Out)". Subtitle dropped. Dialogue rewritten to clipped pass-voice.
 chapter_number: 20 (per planning/manuscript-structure_v1.3.0.md — file number NOT assigned)
 cheftip: NONE
-verify: replace this file with the byte-exact original when Bosco uploads it
+verified: |
+  2026-08-31 — diffed against the v1.2.0 full manuscript. Body is byte-identical:
+  1,136 words, zero differences. The original additionally carries two
+  inter-chapter placeholders after this chapter — *[PLACEHOLDER: CHEFTIP #2]* and
+  *[PLACEHOLDER: LEAVING THE INDUSTRY NARRATIVE]* — which sit between §20 and §23
+  in v1.2.0's ordering and are deliberately not part of this chapter file.
+  B29 is closed for this chapter.
 ---
 
 # THE PEOPLE WHO LAUGH WHILE YOU'RE DROWNING

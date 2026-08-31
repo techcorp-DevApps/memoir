@@ -310,13 +310,44 @@ both planning docs · the repo name · the project name.
 
 **PART ONE needs a new name**, since the book has taken its old one.
 
-### B29 · Second content chunk — awaiting upload · OPEN
+### B29 · Second content chunk · **PART-ANSWERED** · 2026-08-31
 Bosco has found a further large body of material. His read: some duplicates what is
 already known, and it **likely contains further progression** beyond it.
 
-Not yet supplied. **Upload rather than paste** — same byte-exact reasoning as § 0.
-Assessment follows the same shape as this document: what is new, what migrated,
-what diverges, and — per § 4.1a — **which identities are disguised.**
+**The v1.2.0 full manuscript arrived 2026-08-31** — uploaded, not pasted, as § 0
+required. `DIARY_OF_A_CHEF_v1.2.0_FULL.md`, 2,902 lines, 19,808 words, clean UTF-8.
+
+**What it settles.** All three recovered chapters diffed against it:
+
+| Chapter | Result |
+|---|---|
+| §19 I CAN COOK BETTER THAN YOU | byte-identical — 1,083 words, zero differences |
+| §20 THE PEOPLE WHO LAUGH | byte-identical — 1,136 words, zero differences |
+| §23 YOU'RE ONLY AS GOOD AS YOUR LAST SERVICE | body byte-identical — 476 words, zero differences |
+
+**The transcription was accurate.** No replacement was needed; the three drafts
+were already exact. Their front matter now records the verification.
+
+**What it does not settle.** The manuscript is **truncated at the same point** as
+the paste — its final two lines carry the recovery marker itself, so the closing
+quote's tail and attribution are not in it. **B31 stays open and needs a different
+source.**
+
+**What it confirms about scope.** v1.2.0 is the **career arc only** — CHICKEN AND
+MASH through §23. It contains none of the origin arc (CATCH YA ON THE FLIPSIDE,
+MAGIC TRICK, FRESH FOR UNLOCK, FOUR FLIGHTS), which is later work. Its other
+chapters run 0.989–0.999 similarity against the repo's — close but not identical,
+consistent with a genuine separate document rather than an export of the repo.
+
+It also fixes where v1.2.0 placed the open ChefTips — #4 and #3 after THE FRENCH
+CHEF, #2 between §20 and §23, alongside the leaving-the-industry placeholder. That
+is **historical only**: the ladder's #4–#1 were since released from their
+provisional slots and stay unplaced. It is not a reason to reopen placement.
+
+**Still outstanding on B29:** the pre-memoir blog source, to be filed as
+`context/ORIGINAL-BLOG-SOURCE.md`, LOCKED. Assessment of that follows the same
+shape as this document: what is new, what migrated, what diverges, and — per
+§ 4.1a — **which identities are disguised.**
 
 ---
 

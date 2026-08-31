@@ -1,7 +1,7 @@
 ---
 artifact: draft
 version: 1.2.0
-status: RECOVERED — INCOMPLETE. Transcribed from chat paste 2026-08-30, NOT byte-verified
+status: RECOVERED — body VERIFIED byte-exact 2026-08-31, but STILL INCOMPLETE (see verified)
 source: "DIARY OF A CHEF — Restructured Draft v1.2.0, December 2025"
 provenance: |
   Never committed to TechCorp-DevApps/memoir. Recovered from a v1.2.0 draft set
@@ -9,7 +9,17 @@ provenance: |
 chapter_number: 23 (per planning/manuscript-structure_v1.3.0.md — file number NOT assigned)
 cheftip: "#1 — Make time for the people who matter. Not tomorrow. Now."
 jackson_material: NOT PRESENT. See the note below — this is deliberate, not a gap in recovery.
-verify: replace this file with the byte-exact original when Bosco uploads it
+verified: |
+  2026-08-31 — diffed against the v1.2.0 full manuscript. The body is
+  byte-identical: 476 words, zero differences. The transcription was accurate.
+  BUT THE ORIGINAL IS TRUNCATED AT THE SAME POINT. The uploaded manuscript ends
+  mid-quote and carries the same recovery marker at its final two lines, so the
+  closing quote's tail and attribution are NOT recoverable from it. B29 is closed
+  for the body; B31 stays open and needs a different source.
+  Note for B31: the quote reads "life—leaves marks on you", where the em-dashes
+  look like they bracket an omission. It reads the same in the original, so this
+  is not a transcription error — do not treat it as one. Verify against the
+  published text; attribution and permissions remain a publisher question.
 ---
 
 # YOU'RE ONLY AS GOOD AS YOUR LAST SERVICE

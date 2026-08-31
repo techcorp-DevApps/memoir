@@ -1,7 +1,7 @@
 ---
 artifact: draft
 version: 1.2.0
-status: RECOVERED — transcribed from chat paste 2026-08-30, NOT byte-verified
+status: RECOVERED — VERIFIED byte-exact against the v1.2.0 original, 2026-08-31
 source: "DIARY OF A CHEF — Restructured Draft v1.2.0, December 2025"
 provenance: |
   Never committed to TechCorp-DevApps/memoir. 79 commits of history confirm no
@@ -10,7 +10,11 @@ provenance: |
 supersedes: the blog version in the original pre-memoir source
 chapter_number: 19 (per planning/manuscript-structure_v1.3.0.md — file number NOT assigned)
 cheftip: NONE
-verify: replace this file with the byte-exact original when Bosco uploads it
+verified: |
+  2026-08-31 — diffed against "DIARY OF A CHEF — Restructured Draft v1.2.0"
+  (full manuscript, uploaded by Bosco). Body is byte-identical: 1,083 words,
+  5,877 characters, zero differences. The transcription was accurate.
+  B29 is closed for this chapter.
 ---
 
 # I CAN COOK BETTER THAN YOU
