@@ -1,4 +1,9 @@
-# CLAUDE.md — Diary of a Chef
+# CLAUDE.md — The Long Road To Nowhere
+
+> **Retitled 30 August 2026.** Title lineage: untitled piece → blog *Diary of an
+> Apprentice* → memoir *Diary of a Chef* → **The Long Road To Nowhere**. Earlier
+> titles in `context/` are correct for their era, not errors.
+> **PART ONE needs a new name** — the book has taken its old one.
 
 > **Project**: Culinary memoir chronicling a professional kitchen journey across New Zealand and Australia
 > **Author**: Bosco
@@ -87,8 +92,8 @@ The full profile lives at `/context/chef-writer-context-profile.md`. Key element
 | CATCH YA ON THE FLIPSIDE | — | ✓ complete |
 | MAGIC TRICK | — | ✓ complete |
 | FRESH FOR UNLOCK | — | ✓ Draft v0.4 |
-| TITLE TBC | — | ✓ Draft v0.1 |
-| TITLE TBC | — | not started |
+| FOUR FLIGHTS | — | ✓ Complete — `chapters/04_FourFlights.md` |
+| *[gap at 05 / 06 — parole officer, culinary school, Grant's kitchen]* | — | drafted inside `drafts/TheEarlyDays.md`, not split out |
 | CHICKEN AND MASH | — | ✓ Complete |
 | EARNING THE RIGHT | (intro) | ✓ Complete |
 | SET UP YOUR STATION | #11 (free) | ✓ Complete |
@@ -104,9 +109,9 @@ The full profile lives at `/context/chef-writer-context-profile.md`. Key element
 | COAST OR CLIMB | — | ✓ Complete |
 | GOOSE & GANDER | #5 | ✓ Complete |
 | THE FRENCH CHEF IN AN ITALIAN KITCHEN | — | ✓ Complete |
-| I CAN COOK BETTER THAN YOU | — | ✓ Complete |
-| THE PEOPLE WHO LAUGH WHILE YOU'RE DROWNING | — | ✓ Complete |
-| YOU'RE ONLY AS GOOD AS YOUR LAST SERVICE | #1 | ✓ Complete |
+| I CAN COOK BETTER THAN YOU | — | ✓ Written — **recovered 2026-08-30** to `drafts/19_ICanCookBetterThanYou_v1.2.0.md`. Never previously committed |
+| THE PEOPLE WHO LAUGH WHILE YOU'RE DROWNING | — | ✓ Written — **recovered 2026-08-30** to `drafts/20_ThePeopleWhoLaugh_v1.2.0.md`. Never previously committed |
+| YOU'RE ONLY AS GOOD AS YOUR LAST SERVICE | #1 | ✓ Written — **recovered 2026-08-30** to `drafts/23_YoureOnlyAsGoodAsYourLastService_v1.2.0.md`. Closing quote truncated. **Jackson material deliberately NOT in it — see below** |
 
 ### Active Development
 
@@ -120,10 +125,21 @@ The full profile lives at `/context/chef-writer-context-profile.md`. Key element
 
 ### Placeholders Remaining
 
-- ChefTips #2, #3, #4
-- Chef Gavin proper introduction
+- ChefTips #2, #3, #4 — **unplaced.** Released from their provisional Melbourne /
+  retrospective slots; they may land anywhere up to the close of the career arc
+- Chef Gavin proper introduction — placeholder marked in the v1.2.0 draft set
 - Leaving the industry narrative
-- Bridge content for Dave/Italian kitchen arc
+- Bridge content for Dave/Italian kitchen arc — `chapters/22_Dave.md` is a stub
+- **PART ZERO** — childhood to early teens, before incarceration. Sits in front of
+  `01_CatchYaOnTheFlipSide.md`. Raised 30 Aug 2026, unscoped
+- **PART SEVEN — after the ladder.** Jackson, the family's grief, Madison growing
+  up, and returning to work in a new line of work. Runs to the present day
+- RETURN TO YULARA — scoped (Segments 1–11), drafted to
+  `drafts/YULARA_ReturnToYulara_v1.0.md`. **One chapter** (ruled 30 Aug).
+  Interview paused at Segment 11; tenure's end and further flagship dishes
+  outstanding. `chapters/23_ReturnToYulara.md` remains a stub — only Bosco promotes
+- **Numbering**: files run 01–23 with gaps at 05/06. Alignment plus stub files for
+  unwritten chapters is ruled but **not executed** — see the ledger, B11
 
 ---
 
@@ -192,11 +208,35 @@ ChefTips are numbered by **cost** — higher number = cheaper lesson.
 | Character | Role | Key Moments |
 |-----------|------|-------------|
 | **Kate** | Lawyer | Could pick him out from behind. "Is concurrent the good one?" |
-| **Stacey** | Girlfriend | Every Sunday visits. Rain, hail, snow. Bet on him before there was anything to bet on. |
+| **Stacey** | Partner — late teens into young adulthood. Jackson's biological mother. | Every Sunday visits. Rain, hail, snow. Bet on him before there was anything to bet on. Relationship ends in separation; Tegan is the later partner. |
 | **Mara** | Prison mate | Stacey's distant cousin. Heroin addict on methadone. The magic trick. |
 | **Glen** | Culinary Tutor | Wool cardigan. Handled the confrontation. |
 | **Grant** | First Head Chef | Auckland. High-functioning alcoholic. Gave heads up about sale. |
 | **Sarah/Sharon** | Parole Officer | Young, by the book. Dying pot plant. Golden retriever photo. "You're starting a cooking course on Monday." |
+
+### Family
+
+| Character | Also known as | Role | Key Moments |
+|-----------|---------------|------|-------------|
+| **Tegan** | Tee | Partner, later in the writer's life. Madison's biological mother. Full-time care of Jackson. | Present the night before Jackson died. At the hospital, sat down beside him moments after the time of death was given. |
+| **Jackson** | Jacks | His son. Stacey is Jackson's biological mother; Tegan raised him full time. Madison's older brother. | Died aged 7, suddenly, of a severe asthma attack, the morning after. Dinosaurs, the allosaurus in particular. Literal-minded — took what was said exactly as said. Not physically affectionate by default; would stand at your side when he wanted a hug. Backchatted his father five or six times in his life. Made him a fill-in-the-blanks book while he was in ICU, and gave it back to him the night before he died. |
+| **Madison** | Madz, Maddie, Moozie, Moo | His daughter, with Tegan. Jackson's younger sister. | Had just turned 4 when Jackson died. Now 10. Early riser; Jackson would break her out over the baby gate every morning onto a landing pad of blankets and pillows. |
+
+Source: `interviews/jackson/SOURCE-VERBATIM.md` — status `LOCKED — VERBATIM`.
+
+**Naming on the page is unsettled.** This register carries full names; the source
+text uses *Tee*, *jacks*, *madz* in lower case throughout. Which form the prose
+uses is the author's call — do not normalise one into the other.
+
+### Composites and disguises
+
+| Character | Note |
+|---|---|
+| **Marco** | **Not a real person as portrayed — the only one in the manuscript.** The event is real (the grill chef who cut himself and kept flipping steaks) but it is **Geoffrey's** story, not the author's. Added for scene depth. Ruled 2026-08-30. |
+| **Geoffrey** | The vineyard **Chef**. Carried in this register only as "Chef". Spelling unconfirmed — `Geoffery` in `interviews/return-to-yulara/transcript.md`. |
+| **"Sam" (female sous)** | Appears in the pre-memoir blog source as a woman. That was the **anonymised** version. The memoir restores the real identity, **Fat Sam**. Ruled 2026-08-30. |
+| **The author's father** | **Machinist at a forestry mill; previously a cabinet maker / woodworker.** Dish: curried sausages. The blog's "dental surgeon" and "apple torte" were disguises. Has no row above — needs one. |
+| **The author's mother** | Dish: **bbq chicken**. The blog's "kangaroo curry" was a disguise. |
 
 ---
 
@@ -216,6 +256,10 @@ ChefTips are numbered by **cost** — higher number = cheaper lesson.
 | Bistro covers | 150 across double sittings |
 | Bistro staff | Started 15, ended 10 |
 | School leaving age | 13 |
+| Jackson's age at death | 7 |
+| Cause of death | Severe asthma attack, sudden, the morning after |
+| Madison's age at that time | 4, just turned |
+| Madison's age now | 10 |
 
 ### Timeline Anchors
 
@@ -230,6 +274,11 @@ ChefTips are numbered by **cost** — higher number = cheaper lesson.
 - Junior Sous — 6 months after CDP
 - CDC (Bistro) — ~2 years after Australia arrival, age 24
 - Melbourne Italian — step down to CDP for pasta
+- Jackson's death — very late in the career, after every anchor above.
+  ~6 years before Madison's current age of 10. The catalyst for not returning
+  to the industry.
+  **Year not established. Do not derive it from Madison's age — "now" in a
+  memoir is not the date the note was written.**
 
 ---
 
@@ -314,9 +363,9 @@ Each piece must pass:
 │
 ├── /drafts/                           # Work in progress
 │
-├── /archive/                          # Previous versions
-│   ├── Diary_of_a_Chef_v1_2_0.docx
-│   └── Editorial_Review_v1_2_0.docx
+├── /archive/                          # Source-of-record, kept byte-exact
+│   ├── README.md                      # what each file is authoritative for
+│   └── Diary_of_a_Chef_v1_2_0.md      # filed 31 Aug 2026 — truncated, see B31
 │
 └── /exports/                          # Publication-ready files
     └── Diary-of-a-Chef-v1_3_0.md
@@ -396,7 +445,7 @@ Each piece must pass:
 ## 12. Contact & Attribution
 
 **Author**: Bosco
-**Repository**: https://github.com/lufp005x/memoir.git
+**Repository**: https://github.com/TechCorp-DevApps/memoir.git
 **Project Start**: 2025
 **Target**: Publication-ready culinary memoir
 
@@ -406,5 +455,16 @@ Each piece must pass:
 
 ---
 
-*Last updated: January 2026*
-*Version: 1.0.0*
+*Last updated: 30 August 2026*
+*Version: 1.5.0*
+
+**Current open decisions: `planning/decision-ledger_2026-08-30.md`.**
+**Current plan: `planning/writing-plan_v1.4.0.md`.**
+
+**Structural ruling, 30 Aug 2026:** the manuscript has **no fixed extent** — it has
+grown at both ends. The **ChefTip ladder closes at §23, before the book does.** The
+Jackson material sits **after** §23, not inside it: §23 names ChefTip #1 and
+withholds the story so the reader carries the question. **No career chapter
+foreshadows the death.** `planning/register-patch-family.md` and
+`planning/next-session-kickoff.md` both say that material belongs *in* #23 — both
+are **superseded**.
