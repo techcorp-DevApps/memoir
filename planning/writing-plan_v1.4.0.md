@@ -237,13 +237,19 @@ What is known:
   for the people who matter. Not tomorrow. Now."* The cost behind it is Jackson's
   death, and that material is the catalyst for not returning to the industry.
 - v1.3.0 and `manuscript-structure_v1.3.0.md` both mark this section **✓ Complete**.
-  Direct repo access on 30 Aug proved **no file has ever existed** for it — 79
-  commits, every path ever added, no match. **§23 is an open writing task.**
+  Direct repo access on 30 Aug proved **no file had ever existed** for it — 79
+  commits, every path ever added, no match. A transcribed draft has since been
+  filed at `drafts/23_YoureOnlyAsGoodAsYourLastService_v1.2.0.md`, **not
+  byte-verified**, with its closing quote truncated mid-sentence. **§23 is an open
+  verification task, not an open writing task** — ledger **B29** (byte-exact
+  replacement) and **B31** (the truncated quote). Do not rewrite it.
 - **§19 and §20 are found.** Both were marked ✓ Complete with no file for the same
   reason, and both turned up on 30 Aug in the original pre-memoir blog source:
   **I CAN COOK BETTER THAN YOU** (~900w) and **THE PEOPLE WHO LAUGH WHILE YOU'RE
-  DROWNING** (~1,400w). Complete, never migrated, now recovered but **not yet
-  filed** — the original needs uploading so it can be stored byte-exact.
+  DROWNING** (~1,400w). Complete, never migrated. Transcribed drafts are now
+  filed at `drafts/19_ICanCookBetterThanYou_v1.2.0.md` and
+  `drafts/20_ThePeopleWhoLaugh_v1.2.0.md`, **not byte-verified** — the original
+  still needs uploading so both can be stored byte-exact. Ledger **B29**.
   See `reviews/source-recovery-assessment_2026-08-30.md`.
 - **§19 carries the real ChefTip origin story** — the blog framing the device
   actually came from. `08_EarningTheRight.md` currently introduces ChefTips with a
@@ -347,7 +353,7 @@ Numbered by **cost** — higher number, cheaper lesson. **#1 is the most expensi
 | #4 | TBD — "Trust your instincts" considered, may not remain | **Unplaced** | Open |
 | #3 | TBD | **Unplaced** | Open |
 | #2 | TBD | **Unplaced** | Open |
-| #1 | Make time for the people who matter. Not tomorrow. Now. | YOU'RE ONLY AS GOOD AS YOUR LAST SERVICE | Topic settled — **no file** |
+| #1 | Make time for the people who matter. Not tomorrow. Now. | YOU'RE ONLY AS GOOD AS YOUR LAST SERVICE | Topic settled — draft recovered, **pending byte-exact replacement** (B29) |
 
 **Governing rule, new in v1.4.0.** The ladder closes as the career writing closes.
 #4, #3, #2 and #1 are **unplaced** — released from the provisional Melbourne and

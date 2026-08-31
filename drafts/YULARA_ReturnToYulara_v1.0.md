@@ -9,7 +9,7 @@ continuity_read:
   - chapters/17_ProductionKitchen.md
   - chapters/18_TheBaseline.md
   - chapters/19_CoastOrClimb.md
-  - chapters/20_Goose_Gander.md
+  - chapters/20_Goose&Gander.md
 handover: interviews/return-to-yulara/RETURN-TO-YULARA-INTERVIEW-HANDOVER.md
 new_continuity_fact: Kuniya — supplied by owner; spelling unverified
 supersedes: drafts/YULARA_ReturnToYulara_v0.9.md

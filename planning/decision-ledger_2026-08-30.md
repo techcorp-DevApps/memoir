@@ -318,8 +318,10 @@ waiting on B5's dishes so the draft is opened once.
 | B5 | Flagship dishes, **when supplied**. The `[More dishes…]` marker stays until then |
 | B7 | **Unresolved.** Line is not in v1.0 and stays out unless ruled A or B |
 
-Front-matter also needs correcting on the next pass: `continuity_read` points at
-`chapters/20_Goose_Gander.md`; the real file is `chapters/20_Goose&Gander.md`.
+Front-matter **corrected 31 Aug 2026**: `continuity_read` now points at
+`chapters/20_Goose&Gander.md` (was `chapters/20_Goose_Gander.md`). Metadata only —
+no prose touched, so the single v1.1 prose revision above remains unopened and
+still waits on B5.
 
 ---
 
