@@ -13,7 +13,7 @@ discover that the hard way again. It was discovered the hard way on 30 August 20
 |---|---|---|
 | **This repo** | Committed chapters, drafts, planning, reviews | The baseline for anything committed |
 | **claude.ai project knowledge** (`chef-writer`) | Everything below under "Project-only" | **Ahead of the repo** for those files |
-| **Bosco's disk / chat history** | Original pre-memoir source; the v1.2.0 restructured draft set | Ahead of both. Only Bosco indexes this |
+| **Bosco's disk / chat history** | Original pre-memoir source. *(The v1.2.0 restructured draft set is now filed at `archive/Diary_of_a_Chef_v1_2_0.md`.)* | Ahead of both. Only Bosco indexes this |
 
 **Do not assume the repo is complete.** On 30 Aug 2026 three sections were marked
 ✓ Complete in both planning documents with no file in 79 commits of history. All
@@ -53,7 +53,7 @@ a working context to do so.
 | Source | Status |
 |---|---|
 | **The original pre-memoir blog piece** — headed *The Diary of a Chef* | Pasted to chat 30 Aug, **never filed**. Should become `context/ORIGINAL-BLOG-SOURCE.md`, `LOCKED — VERBATIM`. Contains the blog-era §19 and §20 with **identities disguised** |
-| **"DIARY OF A CHEF — Restructured Draft v1.2.0, December 2025"** | Pasted to chat 30 Aug. The three recovered chapters in `drafts/` are **transcribed from it, not byte-verified**. Upload it and replace them |
+| **"DIARY OF A CHEF — Restructured Draft v1.2.0, December 2025"** | **No longer off-repo.** Uploaded 31 Aug and filed byte-exact as `archive/Diary_of_a_Chef_v1_2_0.md`. All three recovered chapters diffed against it and **verified byte-identical** — the transcription was accurate, nothing needed replacing. **It is truncated**: its last two lines are the recovery marker, so §23's closing quote is not in it (B31, open). See `archive/README.md` |
 
 ### The disguise rule — important
 
@@ -82,6 +82,7 @@ material is unverified until Bosco confirms them.
 3. `planning/writing-plan_v1.4.0.md` — current plan and the book's shape
 4. `reviews/manuscript-audit_2026-08-30.md` — repo vs planning discrepancies
 5. `reviews/source-recovery-assessment_2026-08-30.md` — what was recovered and what diverged
+6. `archive/README.md` — what the archived v1.2.0 manuscript is authoritative for, and what it is not
 
 **Superseded, do not quote as current:** `planning/writing-plan_v1.3.0.md`,
 `planning/manuscript-structure_v1.3.0.md` (both close at #23),

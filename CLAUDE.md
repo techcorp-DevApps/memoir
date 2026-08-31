@@ -363,9 +363,9 @@ Each piece must pass:
 │
 ├── /drafts/                           # Work in progress
 │
-├── /archive/                          # Previous versions
-│   ├── Diary_of_a_Chef_v1_2_0.docx
-│   └── Editorial_Review_v1_2_0.docx
+├── /archive/                          # Source-of-record, kept byte-exact
+│   ├── README.md                      # what each file is authoritative for
+│   └── Diary_of_a_Chef_v1_2_0.md      # filed 31 Aug 2026 — truncated, see B31
 │
 └── /exports/                          # Publication-ready files
     └── Diary-of-a-Chef-v1_3_0.md
