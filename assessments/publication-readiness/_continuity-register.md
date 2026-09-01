@@ -103,3 +103,104 @@ None. No factual, timeline, or naming contradictions found against Batch 1's reg
 - This does not resolve the underlying finding: Ivian is still named twice in
   ch.04 with no prior introduction in chs. 01-03. The gender confirmation
   narrows what any introductory beat needs to say; it doesn't close the gap.
+
+---
+
+## Batch 3 — chapters 14–18 (2026-09-01_231520)
+
+### Entry Bridge resolution for ch.14 — the pending 11–13 pattern question
+Per dispatch instruction, read `13_HotTrays.md`'s actual close before assessing
+14. Confirmed: 13 ends "...In the kitchen, nothing warns you before it hurts
+you" preceded by the explicit forced-epiphany construction "I realised
+something important" (line 49), and the chapter's final sentence ("survival
+becomes instinct") carries no closing punctuation.
+
+**Verdict: the 11–13 pattern partially carries into 14, then breaks cleanly
+from 15 onward.** `14_TheOnesWhoStay.md:33` — "That's when I realised: this
+isn't cruelty. This is survival." — is a near-verbatim echo of the same
+forced-epiphany construction, and the chapter closes with a second
+explained-thesis passage ("That's why we stay," lines 115–147) that
+over-explains a beat ("You're starting to look like you belong here") that
+had already landed on its own. Neither of 11–13's *other* defect types
+(generic pop-culture comparison, unanchored strawman characters,
+rendering-vs-stating "I felt" constructions) recur in 14 — its scene work
+(Marco, Sam) is as specific and well-anchored as the manuscript's strong
+tier. **Chapters 15, 16, 17, and 18 show no recurrence of any 11–13 defect
+type** — all four read at or near the manuscript's strong-tier register
+(comparable to `09`/`10`), with 15 (TASTE IT) and 18 (THE BASELINE) as clear
+standouts. The pattern is therefore narrow and appears contained to 14; no
+further recurrence found through the end of this batch.
+
+### People established / expanded
+- **Kein Do** — first unnamed appearance in `17_ProductionKitchen.md:303`
+  ("An older Vietnamese man appeared to be running the kitchen"), fully named
+  and characterised in `18_TheBaseline.md` ("Senior Sous... The kitchen moved
+  around him like water around a stone"). Matches `canon.md` exactly, no
+  contradiction.
+- **Dane & Robbie** — first full-scene appearance in `17_ProductionKitchen.md`
+  (the "vege sticks"/frozen-fish day-one scene). Matches CLAUDE.md § 5's
+  "'Near enough' philosophy. Asked to have narrator transferred" summary —
+  this chapter is the source scene.
+- **Gavin (Chef Gavin)** — first full-scene appearance in `17_ProductionKitchen.md`
+  ("Good morning, sir. Come, take a seat"). Matches CLAUDE.md § 5's "Called
+  everyone 'sir'" anchor. This is **not** the "proper introduction chapter"
+  the writing plan still calls for (`writing-plan_v1.4.0.md` § Writing notes
+  — Australia arc) — that item remains open, not resolved by this batch.
+- **Unnamed exec sous** — Filipino woman, also runs the pastry kitchen,
+  `17_ProductionKitchen.md:349`. New minor character, no name given. Flagged
+  in case she recurs later in the manuscript.
+- **Marco** (composite, per `canon.md`) recurs in `14_TheOnesWhoStay.md`
+  (the cut-himself-and-kept-flipping-steaks scene) — matches canon exactly,
+  not a new discovery.
+- New fact: the vineyard **Chef** and Gavin are established as "old mates
+  from way back" (`16_TwoGlasses.md:57–58`) — explains the "shining"
+  reference HR gave the narrator when hiring him into the resort. Not
+  previously on record.
+
+### Facts / sequence confirmed
+- CDP promotion 4 months after Australia arrival, Junior Sous 6 months after
+  that, CDC ~2 years after arrival at age 24 — all confirmed exactly as
+  stated in `canon.md`'s Sequence table, sourced to `18_TheBaseline.md:109,
+  111, 113, 125`.
+- Vineyard tenure "three years" reconfirmed in `16_TwoGlasses.md:51` and
+  `18_TheBaseline.md` ("Three years. Peeling potatoes...").
+
+### New finding — resolves a canon.md "Unverified" gap
+`18_TheBaseline.md:7` states **"Fifty covers on a big night"** for the
+fine-dining restaurant at the resort. `canon.md` § Unverified currently
+states no chapter supports a fine-dining-covers figure of 50 and treats any
+such figure in prose as needing confirmation, distinct from the "fifty
+seats" at Grant's Auckland kitchen. This chapter directly supplies the
+missing source in the correct (fine-dining) context. **Governing-file
+issue**, not a chapter defect: `canon.md`'s Unverified entry and
+`continuity_check.py`'s `fine_dining_covers` check are now out of date and
+should be updated to cite `18_TheBaseline.md:7` — flagged for the Phase 6
+reconciliation report, not corrected here.
+
+### New finding — cross-chapter verbatim duplication
+`16_TwoGlasses.md:97–99` and `17_ProductionKitchen.md:3–5` share two full
+sentences verbatim: *"That was New Zealand. That was where it started. / A
+lot of kitchens have happened since then. Different cities. Different
+countries. Different ways of being told I wasn't good enough yet."* One
+occurrence sits mid-chapter in 16, the other opens 17. Reads as an
+unintentional duplication (the same bridging paragraph drafted into both
+files) rather than a deliberate varied echo. Flagged as a Developmental
+finding in both chapters' assessment files; recorded once here to avoid
+double-counting.
+
+### Running items / not new, cited for completeness
+- Narrator named **"Chris"** at `17_ProductionKitchen.md:143` — confirmed
+  matches `canon.md`'s existing note that this is the only place in 21
+  chapters the narrator is named. Not a new discovery.
+- `15_TasteIt.md`'s `# TASTE IT` heading vs. its longer canon title ("IF YOU
+  DIDN'T TASTE IT, IT ISN'T YOURS") — already tracked in `canon.md` § Known
+  repo defects, not new.
+- Inherited encoding damage (mojibake) confirmed present at the counts
+  `canon.md` already logs for `14` (9), `15` (12), `16` (9), `17` (11), `18`
+  (15) — not introduced, not new findings.
+
+### Contradictions found against register or CLAUDE.md
+None. No factual, timeline, or naming contradictions found against Batch 1's
+or Batch 2's register entries, `CLAUDE.md`, or `canon.md` in chapters 14–18.
+The two items above (fine-dining covers, cross-chapter duplication) are new
+findings, not contradictions of prior material.
