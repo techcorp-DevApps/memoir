@@ -204,3 +204,161 @@ None. No factual, timeline, or naming contradictions found against Batch 1's
 or Batch 2's register entries, `CLAUDE.md`, or `canon.md` in chapters 14–18.
 The two items above (fine-dining covers, cross-chapter duplication) are new
 findings, not contradictions of prior material.
+
+---
+
+## Batch 4 — chapters 19–21 (2026-09-01_231520)
+
+### The 11–13 voice-drift pattern — does not recur
+Read `19_CoastOrClimb.md`, `20_Goose&Gander.md`, `21_TheFrenchChef.md` in full,
+in order, per dispatch. **None of the three defect types from the 11–13 pattern
+(generic pop-culture comparison, rendering-vs-stating "I felt" constructions,
+forced-epiphany "I realised something important" constructions) recur anywhere
+in this batch.** All three chapters read at the manuscript's strong tier,
+consistent with 15–18. This closes out the open editorial question Batch 3
+raised: the pattern is confirmed narrow and contained to chapter 14, with no
+further recurrence anywhere in chapters 15–21 — i.e. across the entire
+remaining manuscript from that point forward.
+
+### People established / expanded
+- **Sonny, Jen, Praveen** — all recur/are fully introduced in
+  `19_CoastOrClimb.md`, matching `CLAUDE.md` § 5 and `canon.md` exactly
+  (Sonny: Demi → CDP, "My strongest chef"; Praveen: four foot eight, larder,
+  parents visit from India, "This is my chef"). Jen given no rank on the page —
+  the already-open item B13 (`CLAUDE.md` says commis, `manuscript-structure`
+  says CDP), not new, first batch to actually confirm the chapter itself is
+  silent on it.
+- **Joe, Matt, Racina (Adam)** — all fully match `CLAUDE.md` § 5 / `canon.md`
+  Melbourne-era anchors exactly, confirmed in `21_TheFrenchChef.md`.
+- **Carly** — appears four times in `21_TheFrenchChef.md` (lines 105, 107, 223,
+  235) as Joe's "missus," CDP. This is the already-tracked Carly vs Rachael
+  source conflict (`canon.md` Source conflicts; `CLAUDE.md:186` says Rachael).
+  Not new — confirmed present exactly where `canon.md` says it is.
+- **New minor characters, not yet in `CLAUDE.md` § 5's Melbourne table:**
+  **Scotty** (FOH manager, hospitality veteran, takes charge during the Joe
+  emergency — hands off his car keys, later returns with beers for the brigade);
+  **Raj** (Nepalese dishie, described as silent, begins anticipating the
+  narrator's calls after the crisis); **Dylan** (named once, at the moment
+  Scotty "must've handed Joe off to Dylan" — role/identity ambiguous, possibly
+  the previously-unnamed food runner, possibly a distinct person; flagged as a
+  minor Reading Quality clarity issue in the ch.21 assessment). All three are
+  legitimate first appearances in `21_TheFrenchChef.md`, consistent with the
+  Batch 3 pattern (Kein Do, Dane & Robbie, Gavin) of the prose running ahead of
+  `CLAUDE.md` § 5's reference tables.
+
+### Facts / sequence confirmed
+- CDC promotion at 24, 150 covers, 15 staff, cut to 10 with no replacements —
+  all reconfirmed exactly in `19_CoastOrClimb.md` (lines 5, 117, 213–225),
+  matching `canon.md`'s Hard facts table (which cites this chapter as its
+  source).
+- Melbourne move — CDC to CDP, deliberate pay cut and demotion to learn pasta
+  properly — confirmed in both `20_Goose&Gander.md` and `21_TheFrenchChef.md`,
+  matching `canon.md` Sequence step 14 exactly ("Writing it as a promotion
+  inverts the chapter's entire meaning" — neither chapter makes that error).
+- No career-arc foreshadowing of Jackson's death found anywhere in 19–21,
+  consistent with the B30 boundary ruling. The Yulara/no-shadow rule holds
+  through the end of the currently-written manuscript.
+
+### New finding — soft cross-chapter redundancy of a stated insight (not verbatim duplication)
+`20_Goose&Gander.md` opens its central insight with "That's when I understood
+something I'd felt but never put into words. You can't demand what you won't
+demonstrate." `19_CoastOrClimb.md` already gives the narrator nearly identical
+wording for the same idea, attributed to the same source (the vineyard, Sam and
+Chef): "Here's the thing about standards. You can't demand what you won't
+demonstrate. I'd learned that at the vineyard" (`19:125–129`). Ch.20's framing
+of this as newly "never put into words" sits awkwardly against ch.19 already
+having put it into nearly the same words. This is a lesser-severity instance of
+the same class of issue as the verbatim ch.16/ch.17 duplication flagged in
+Batch 3 — not copied sentences here, but an independently-arrived-at repeat of
+the same formulation across adjacent chapters. Flagged in full in the
+`20_Goose&Gander.md` assessment file.
+
+### New finding — recap redundancy at each Part-transition seam in this batch
+Each entry bridge in this batch (18→19, 19→20 less so, 20→21) restates facts
+the immediately preceding chapter already gave: `19_CoastOrClimb.md` opens by
+re-stating the CDC promotion/age 24/150 covers/15 staff that `18_TheBaseline.md`
+already closed on; `21_TheFrenchChef.md` opens by re-stating, in fuller detail,
+the CDC-to-CDP Melbourne move `20_Goose&Gander.md` already summarised at its own
+close. Neither is verbatim duplication and both do legitimate work (fuller
+detail, a different narrative purpose), but the pattern recurs at both Part
+boundaries in this batch and is worth Bosco's awareness as a house tendency,
+not a defect in any single chapter. Recorded once here to avoid double-counting
+across the two chapter assessment files where it is flagged individually.
+
+### Governing-File Reconciliation — reconfirmed, not new
+- ChefTip #5 heading in `20_Goose&Gander.md:55` uses the **bold** rule-line
+  form — the already-tracked lone outlier against the other six approved
+  ChefTips' italic form, per `canon.md`'s Source conflicts table. Confirmed
+  present exactly as `canon.md` describes; not newly discovered.
+- Carly vs Rachael conflict reconfirmed present in `21_TheFrenchChef.md` at the
+  four lines `canon.md` already cites. Not newly discovered.
+- Inherited mojibake reconfirmed present at the counts `canon.md` already logs
+  for `19` (37), `20` (6), `21` (30) — including the specific `21:111` "Ã  la
+  carte" instance `canon.md` flags as cleanly repairable. Not introduced, not
+  new findings.
+
+### Contradictions found against register or CLAUDE.md
+None. No factual, timeline, or naming contradictions found against any prior
+batch's register entries, `CLAUDE.md`, or `canon.md` in chapters 19–21.
+
+---
+
+## Batch 4 — final batch, manuscript read complete
+
+This closes the full-manuscript read for the publication-readiness audit as
+scoped. Chapters read across all four batches: 01, 02, 03, 04 → [gap: 05, 06,
+tracked as ledger B11, not a defect] → 07, 08, 09, 10, 11, 12, 13, 14, 15, 16,
+17, 18, 19, 20, 21. Chapters 22 (`22_Dave.md`) and 23 (`23_ReturnToYulara.md`)
+are content-free placeholder stubs, not run through the rubric, recorded
+separately per the batch dispatch — they are not part of this read-complete
+statement.
+
+**For the manuscript-level assessment phase, without re-deriving from scratch:**
+
+- **Strongest verdicts across the full run:** `15_TasteIt.md` and
+  `18_TheBaseline.md` were called out in Batch 3 as clear standouts. This
+  batch's `20_Goose&Gander.md` (4.7/5, tightest chapter in the manuscript for
+  its length) and the Praveen-parents scene in `19_CoastOrClimb.md` (cited by
+  the author himself as the Australia arc's emotional peak, and confirmed here
+  to earn that status through restraint) belong in the same tier. `09` and
+  `10` (Batch 2) were also strong. As a rough map: 09, 10, 15, 18, 19, 20, 21
+  all read at the manuscript's strong-to-publication-ready tier, with no
+  chapter below "Strong/Minor Revision" from 15 onward.
+- **Weakest verdicts across the full run:** the three-chapter block
+  `11_TheOnion.md`, `12_TheStockPot.md`, `13_HotTrays.md` (Batch 2) is the
+  single worst stretch in the manuscript — the only place multiple chapters in
+  a row showed the generic-register/rendering-vs-stating/forced-epiphany
+  pattern together. `14_TheOnesWhoStay.md` (Batch 3) carries a partial,
+  single-instance echo of that same forced-epiphany defect before the pattern
+  breaks cleanly and does not return through the rest of the manuscript (05,
+  06 were never read — they don't exist as chapter files; see the B11 gap
+  below).
+- **The 05/06 gap** (ledger B11/B14) is the one structural absence across the
+  whole read: `04_FourFlights.md` ends in prison, `07_Chicken&Mash.md` opens
+  cold at the vineyard, and the intervening release/parole-officer/culinary-
+  school/Grant's-kitchen material exists only, unsplit, in
+  `drafts/TheEarlyDays.md` — outside this audit's chapter-file scope. Not a
+  chapter defect; a known, already-tracked repo state.
+- **Cross-chapter duplication findings, full list:** the verbatim
+  `16_TwoGlasses.md`/`17_ProductionKitchen.md` two-sentence duplication (Batch
+  3, most severe) and the softer `19_CoastOrClimb.md`/`20_Goose&Gander.md`
+  restated-insight redundancy plus the recap-at-Part-boundary pattern (this
+  batch, less severe) are the only duplication-class findings across the whole
+  manuscript.
+- **Governing-file issues accumulated across all batches, not yet actioned:**
+  Ivian's unintroduced appearance in ch.04 (Batch 1); the fine-dining-covers
+  canon.md gap now resolved by `18_TheBaseline.md:7` (Batch 3); the ChefTip #5
+  bold-heading outlier (`20_Goose&Gander.md:55`, reconfirmed this batch); the
+  Carly/Rachael conflict (reconfirmed this batch); several Melbourne-era minor
+  characters (Scotty, Raj, Dylan) and Australia-era ones from Batch 3 (the
+  unnamed Filipino exec sous) not yet added to `CLAUDE.md` § 5. None of these
+  are chapter defects — all are reference-table/governing-file lag behind
+  finished prose, per the reconciliation framework, and are compiled here for
+  the Phase 6 reconciliation report.
+- **No instance across any batch** of a chapter contradicting a hard fact in
+  `canon.md`'s Hard facts or Sequence tables. Every age, covers count, staff
+  count, and career-sequence claim checked across all 19 read chapters matched
+  canon exactly.
+
+The manuscript read is complete as scoped. The next phase (manuscript-level
+assessment) can proceed from this register without re-reading any chapter.
