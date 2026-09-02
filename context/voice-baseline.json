@@ -1,0 +1,144 @@
+{
+  "generated": "2026-09-01T23:15:20+00:00",
+  "files_analysed": 19,
+  "total_words": 23106,
+  "metric_ranges": {
+    "mean_sentence_words": {
+      "min": 6.15,
+      "max": 11.06,
+      "mean": 8.516,
+      "files": 19
+    },
+    "rhythm_variance_cv": {
+      "min": 0.658,
+      "max": 0.944,
+      "mean": 0.804,
+      "files": 19
+    },
+    "pct_single_sentence_paragraphs": {
+      "min": 34.7,
+      "max": 74.6,
+      "mean": 54.442,
+      "files": 19
+    },
+    "pct_sentences_under_5_words": {
+      "min": 21.7,
+      "max": 54.1,
+      "mean": 36.216,
+      "files": 19
+    },
+    "second_person_per_1000": {
+      "min": 6.7,
+      "max": 63.83,
+      "mean": 25.348,
+      "files": 19
+    },
+    "mean_paragraph_words": {
+      "min": 9.1,
+      "max": 24.0,
+      "mean": 16.747,
+      "files": 19
+    }
+  },
+  "total_sentences": 2901,
+  "total_paragraphs": 1504,
+  "sentence_length": {
+    "mean": 7.96,
+    "median": 6.0,
+    "p10": 2.0,
+    "p90": 17.0,
+    "max": 55,
+    "pct_under_5_words": 38.3,
+    "pct_over_30_words": 1.2
+  },
+  "paragraph_shape": {
+    "mean_words": 15.4,
+    "median_words": 10.0,
+    "p90_words": 36.0,
+    "mean_sentences": 1.93,
+    "pct_single_sentence": 56.2,
+    "pct_staccato_under_6_words": 26.9
+  },
+  "dialogue": {
+    "blockquote_count": 18,
+    "blockquotes_per_1000_words": 0.78,
+    "mean_blockquote_words": 7.4,
+    "median_blockquote_words": 5.5
+  },
+  "density_per_1000_words": {
+    "profanity": 4.11,
+    "kitchen_terms": 10.26,
+    "em_dashes": 13.03,
+    "ellipses": 0.91,
+    "italics": 3.29,
+    "second_person": 19.13,
+    "sentence_initial_conjunctions": 9.09,
+    "questions": 2.16
+  },
+  "structure": {
+    "mean_section_breaks_per_chapter": 7.2,
+    "mean_words_per_chapter": 1216
+  },
+  "distinctive_lexicon": [
+    "kitchen",
+    "didn't",
+    "i'd",
+    "chef",
+    "every",
+    "way",
+    "before",
+    "something",
+    "wasn't",
+    "time",
+    "never",
+    "that's",
+    "kind",
+    "someone",
+    "first",
+    "got",
+    "thing",
+    "people",
+    "now",
+    "through",
+    "service",
+    "room",
+    "it's",
+    "get",
+    "years",
+    "came",
+    "said",
+    "don't",
+    "looked",
+    "know",
+    "everything",
+    "three",
+    "walked",
+    "you're",
+    "enough",
+    "made",
+    "started",
+    "good",
+    "day",
+    "everyone",
+    "he'd",
+    "look",
+    "anything",
+    "fuck",
+    "moment",
+    "work",
+    "doesn't",
+    "after",
+    "see",
+    "different",
+    "went",
+    "around",
+    "nothing",
+    "sam",
+    "already",
+    "watching",
+    "new",
+    "asked",
+    "right",
+    "who'd"
+  ]
+}
