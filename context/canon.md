@@ -19,6 +19,7 @@ remediation plan's REM-045).
 | Fact | Detail | Source |
 |---|---|---|
 | Ivian's gender | Male (confirmed by Bosco) | `CLAUDE.md` §5 Pre-Kitchen Life table |
+| Ivian's relationship to narrator | Celly, also wing-cleaning partner | `CLAUDE.md` §5 Pre-Kitchen Life table |
 | Marco | Not a real person as portrayed — a composite. The grill-chef, cut-himself-and-kept-flipping-steaks event is real, but it's **Geoffrey Welham's** story, not the author's. Added for scene depth. | `CLAUDE.md` §5 Composites and disguises |
 | Geoffrey Welham | The vineyard **Chef**, carried on the page only as "Chef." Full name confirmed 2026-09-02 (ledger B21). | `CLAUDE.md` §5 Composites and disguises |
 | "Sam" (female sous), pre-memoir blog | Anonymised version. Real identity restored in the memoir: **Fat Sam**. | `CLAUDE.md` §5 Composites and disguises |

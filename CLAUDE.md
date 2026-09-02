@@ -216,7 +216,7 @@ ChefTips are numbered by **cost** — higher number = cheaper lesson.
 | **Glen** | Culinary Tutor | Wool cardigan. Handled the confrontation. |
 | **Grant** | First Head Chef | Auckland. High-functioning alcoholic. Gave heads up about sale. |
 | **Sarah/Sharon** | Parole Officer | Young, by the book. Dying pot plant. Golden retriever photo. "You're starting a cooking course on Monday." |
-| **Ivian** | Wing cleaner partner | Male (confirmed). Mopping, bins, extra unlock, extra milk. |
+| **Ivian** | Celly; wing cleaner partner | Male (confirmed). Mopping, bins, extra unlock, extra milk. |
 
 ### Family
 
