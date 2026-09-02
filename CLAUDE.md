@@ -205,7 +205,7 @@ ChefTips are numbered by **cost** — higher number = cheaper lesson.
 | **Dave** | French Chef | TBD — friendship arc, prank war, hiding timers at unreachable heights |
 | **Scotty** | FOH Manager | Hospitality veteran. Took charge during Joe's medical emergency, handed off his car keys, later returned with beers for the brigade. |
 | **Raj** | Dishie | Nepalese. Silent. Began anticipating the narrator's calls after the crisis. |
-| **Dylan** | Food runner (Italian) | Handed Scotty's keys during Joe's injury; drove Chef to A&E and brought him back. Same person as the food runner at first mention — ruled 2026-09-02 (ledger B35). |
+| **Dylan** | Food runner (Italian) | Given Scotty's keys during Joe's injury; drove Chef to A&E and brought him back. Same person as the food runner at first mention — ruled 2026-09-02 (ledger B35). |
 
 ### Pre-Kitchen Life
 
