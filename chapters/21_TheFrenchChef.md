@@ -102,9 +102,9 @@ First sitting hits at six. They want three courses in ninety minutes because the
 
 The rail was loaded.
 
-Matt was on larder and cold entrées with the apprentice—a young guy named Adam, though everyone called him Racina. Acted like an old man and was wiser than his age by decades despite being barely nineteen. I had pasta. Joe and his missus Carly were on mains and plating.
+Matt was on larder and cold entrées with the apprentice—a young guy named Adam, though everyone called him Racina. Acted like an old man and was wiser than his age by decades despite being barely nineteen. I had pasta. Joe and his missus Rachael were on mains and plating.
 
-Carly was also CDP, though not really warranted of the position. She assisted in plating for both mains and occasionally pasta—when I gave her the chance, of course.
+Rachael was also CDP, though not really warranted of the position. She assisted in plating for both mains and occasionally pasta—when I gave her the chance, of course.
 
 Chef called dockets as expected. The rhythm locked in. Bodies moving in that tight choreography where you stop thinking and just become the station.
 
@@ -154,7 +154,7 @@ Scotty—the FOH manager, a hospo veteran who'd been doing this longer than most
 
 Joe was just swearing. Holding his eye.
 
-Scotty didn't wait for an answer. He grabbed his keys, handed them to a food runner.
+Scotty didn't wait for an answer. He grabbed his keys and handed them to the closest food runner — Dylan.
 
 "I'm parked in the Chinatown laneway. Go get my car and take Chef to A&E."
 
@@ -220,7 +220,7 @@ And just to boot, I continued to cook and plate my own section at the same time.
 
 The rhythm came back. Different now—tighter, more deliberate, running through me instead of around me. I could feel the kitchen settling, finding its feet, trusting that someone was steering.
 
-Carly's hands stopped shaking around the forty-minute mark. Matt found his timing. Even Raj—the silent Nepalese dishie I'd never heard speak—started anticipating my calls, running pans back before I had to ask.
+Rachael's hands stopped shaking around the forty-minute mark. Matt found his timing. Even Raj—the silent Nepalese dishie I'd never heard speak—started anticipating my calls, running pans back before I had to ask.
 
 The night went without a hitch.
 
@@ -232,7 +232,7 @@ Just pure orchestrated success.
 
 The last ticket went out and Scotty came into the kitchen—which was oddly silent—with a round of Peronis. The staple knock-offs in this particular kitchen.
 
-He handed one to Matt. One to Carly. Then pressed an extra into my hands.
+He handed one to Matt. One to Rachael. Then pressed an extra into my hands.
 
 "Well deserved, Chef. Thank you."
 

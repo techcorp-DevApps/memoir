@@ -290,4 +290,6 @@ I never told her any of the heavy stuff. Didn't want her worrying for no reason.
 
 She was betting on me before there was anything to bet on.
 
+Same board. Same day. Different histories.
+
 ---

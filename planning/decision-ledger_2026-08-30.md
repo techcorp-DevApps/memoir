@@ -421,6 +421,19 @@ and the answer arrives later.
 full. If it stays, a real named public figure is quoted in a published memoir —
 attribution and permissions are a publisher question.
 
+### B35 · Dylan identity (REM-016) — RESOLVED: same person, the food runner
+
+`21_TheFrenchChef.md:157` named an unidentified food runner sent for Scotty's
+car; line 189 later named "Dylan" with no introduction. Bosco confirmed: same
+person. Line 157 now reads "...handed them to the closest food runner — Dylan."
+
+### B36 · Carly/Rachael (REM-032) — RESOLVED: Rachael is correct
+
+Ch.21's prose used "Carly" four times, consistently; `CLAUDE.md` said "Rachael."
+The evidence favoured the chapter, but Bosco's direct call went the other way —
+Rachael is correct. All four chapter instances (lines 105, 107, 223, 235)
+updated to Rachael; `CLAUDE.md`'s existing "Rachael" row needed no change.
+
 **B32 · Losses from blog → v1.2.0 in §20.** Two lines were cut that were stronger
 in the earlier version. Chef's close went from *"You caught it before I had to.
 That's the job."* to *"alright lets go."*, and the chorus lost *"NO, THE OTHER
@@ -674,8 +687,10 @@ or `14_TheOnesWhoStay.md`.
 
 - `17_ProductionKitchen.md` names the narrator **Chris** — the only place in 21
   chapters. Sits under B4/B18
-- `04_FourFlights.md` drops the *"Same board. Same day. Different histories."*
-  close its own review said to keep. Deliberate?
+- ~~`04_FourFlights.md` drops the *"Same board. Same day. Different histories."*
+  close its own review said to keep. Deliberate?~~ **RESOLVED 2026-09-02**: restored
+  as the chapter's final line, after "She was betting on me before there was
+  anything to bet on."
 - `CLAUDE.md`, `README.md`, `context/project-memory.md` — stale word counts, version
   numbers, phantom directory tree, old repo URL. Mechanical, once B10/B11 land
 - `project-memory.md` exists at repo root **and** at `context/`. One is authoritative
