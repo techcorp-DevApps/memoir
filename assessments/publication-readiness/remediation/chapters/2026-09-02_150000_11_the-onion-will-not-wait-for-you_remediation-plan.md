@@ -31,7 +31,8 @@ None — the voice profile is accurate and current; this chapter departs from it
 ## Completion criteria
 
 - [x] No TV/pop-culture comparison remains as the narrator's own descriptive frame. — 2026-09-02: "sexy, Gordon Ramsay-lit fantasy" replaced with "whatever you'd built up in your head."
-- [x] "Darren" is either anchored to a real, previously-established detail or removed. — 2026-09-02: removed; no new character invented.
+- [x] "Darren" is either anchored to a real, previously-established detail or removed. — 2026-09-02: removed (the cut option), no new character invented. **Open, carried to Batch 7**: an independent review notes the beat is de-invented but not re-anchored, and that both replacement lines (`:3`, `:51`) read flatter than what they replaced. Bosco's call whether to re-point them at an existing anchor — ch.11 already offers "home economics class" and "negotiating with the onion" two paragraphs up — or leave them cut.
+- Item 3 of this plan (trim stacked metaphor in the opening two paragraphs, "optional but recommended") — **not pursued**; density judged in-register on the read-through. Recorded so Batch 7 doesn't re-litigate it as an oversight.
 - [ ] Re-scored Voice Standard Adherence ≥4/5 against the original rubric. — pending Batch 7 re-validation.
 - [x] ChefTip #10 text and structural pattern unchanged.
 - [x] Entry/exit bridges re-confirmed functional post-edit. — fixes are mid-narrative only; ch.12's opening callback is unaffected.

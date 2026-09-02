@@ -46,7 +46,7 @@ He just nodded with this grim, almost affectionate acknowledgement—the kind se
 
 Because in kitchens, some lessons aren't taught. They're inherited through suffering.
 
-Later, I wrapped my hand in a bandage job that looked more like modern art than first aid.
+Later, I wrapped my hand. The bandage job looked more like modern art than first aid.
 
 Nothing warns you before it hurts you.
 

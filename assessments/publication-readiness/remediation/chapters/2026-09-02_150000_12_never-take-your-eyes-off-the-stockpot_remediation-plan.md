@@ -32,6 +32,6 @@ None — the governing files (CLAUDE.md's Hard "No" List, the voice profile's Re
 
 - [x] Neither flagged line contains a bare "I felt X" / "I am Y" construction after rewriting. — 2026-09-02: both lines rewritten to physical tells (eyes/hand; shoulders dropping).
 - [x] A reader can identify the intended emotion from the rewritten action/detail alone, without needing it named.
-- [x] ChefTip block trimmed to roughly half its current length, with the rule stated once and not repeated as a list. — cut from 6 paragraphs/9 sentences to 4 paragraphs/5 sentences.
+- [x] ChefTip block trimmed to roughly half its current length, with the rule stated once and not repeated as a list. — block cut from ~176 to ~120 words, the five-item how-to list gone. The skim/heat-check mechanics were restored after an independent review found the first trim had stripped every practical instruction from the block, brushing master plan §10's "no REM item removes a kitchen mechanic" preservation requirement; they now sit as two short sentences rather than a list, so both REM-003 and §10 hold.
 - [ ] Re-scored Voice Standard Adherence ≥4/5. — pending Batch 7 re-validation.
 - [x] ChefTip #9 rule text unchanged.

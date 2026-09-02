@@ -29,11 +29,11 @@
 | 23 | 1 | REM-044 (execute) | LOW | P4 | `CLAUDE.md` §5 | REM-044 (decision) | Governing-file edit | Spelling confirmed, hedge removed | PLANNED |
 | 24 | 1 | REM-045 | MEDIUM | P1 | `context/project-memory.md` | after other CLAUDE.md edits | Governing-file regeneration | No disagreement vs CLAUDE.md | PLANNED |
 | 25 | 1 | REM-047 | LOW | P4 | `CLAUDE.md` §9 | after other batches | Governing-file edit | Diagram matches actual repo tree | PLANNED |
-| 26 | 2 | REM-001 | MEDIUM | P2 | `chapters/11_TheOnion.md` | none | Line/scene edit | Voice-checklist re-pass, no TV-trope framing | DONE — 2026-09-02 |
+| 26 | 2 | REM-001 | MEDIUM | P2 | `chapters/11_TheOnion.md` | none | Line/scene edit | Voice-checklist re-pass, no TV-trope framing | PARTIAL — 2026-09-02 (TV-trope frame removed and the invented "Darren" beat cut; the humour beat is de-invented but not re-anchored to a named person/incident — stays open into Batch 7) |
 | 27 | 2 | REM-002 | HIGH | P2 | `chapters/12_TheStockPot.md` | none | Line edit (2 instances) | No bare stated-emotion construction remains | DONE — 2026-09-02 |
 | 28 | 2 | REM-003 | MEDIUM | P2 | `chapters/12_TheStockPot.md` | REM-002 (same file) | ChefTip-block trim | Word count roughly halved | DONE — 2026-09-02 |
 | 29 | 2 | REM-004 | CRITICAL | P2 | `chapters/13_HotTrays.md` | none | Line/scene edit | No "I realised" construction remains | DONE — 2026-09-02 |
-| 30 | 2 | REM-005 | MEDIUM | P2 | `chapters/13_HotTrays.md` | REM-004 (same file) | Imagery trim | Comparison density matches ch.10/19 | DONE — 2026-09-02 |
+| 30 | 2 | REM-005 | MEDIUM | P2 | `chapters/13_HotTrays.md` | REM-004 (same file) | Imagery trim | Comparison density matches ch.10/19 | PARTIAL — 2026-09-02 (one of the three flagged comparisons cut; "Instant. Biblical." and "modern art than first aid" retained as the single image on their own beats — density call stays open into Batch 7) |
 | 31 | 2 | REM-006 | LOW | P2 | `chapters/13_HotTrays.md` | REM-004 (same file) | ChefTip-close edit | Bosco read-through | DONE — 2026-09-02 (executed per required outcome; Bosco read-through still pending, per plan's own optional-refinement note) |
 | 32 | 2 | REM-008 | HIGH | P2 | `chapters/14_TheOnesWhoStay.md` | none | Line cut | Section break reads cleanly post-cut | DONE — 2026-09-02 |
 | 33 | 2 | REM-009 | MEDIUM | P2 | `chapters/14_TheOnesWhoStay.md` | REM-008 (same file) | Paragraph trim | Close lands without restated thesis | DONE — 2026-09-02 |
@@ -48,7 +48,7 @@
 | 42 | 4 | REM-025 | LOW | P3 | `chapters/08_EarningTheRight.md` | none | Optional image swap | Bosco read-through | PLANNED |
 | 43 | 4 | REM-023 (execute) | MEDIUM | P1→P2 | `chapters/08_EarningTheRight.md` | REM-023/042 decision | Line edit | Count matches final ChefTip scheme | PLANNED |
 | 44 | 4 | REM-024 (execute, conditional) | MEDIUM | P1→P2 | front/back matter (new file, if disclosure chosen) | REM-024 (decision) | New author's-note file, or no-op | Bosco confirms; Marco scenes untouched | PLANNED |
-| 45 | 5 | REM-007 | LOW | P4 | `chapters/13_HotTrays.md` | bundle with Batch 2 pass on ch.13 (run after Batch 2 closes) | Punctuation fix | Diff shows only the mark changed | PLANNED |
+| 45 | 5 | REM-007 | LOW | P4 | `chapters/13_HotTrays.md` | bundle with Batch 2 pass on ch.13 (run after Batch 2 closes) | Punctuation fix | Diff shows only the mark changed | DONE — 2026-09-02 (executed inside the Batch 2 ch.13 pass, as the plan's own bundling note directs; the diff shows more than the mark alone because REM-006 cut the line immediately before it) |
 | 46 | 5 | REM-013 | LOW | P4 | `chapters/19_CoastOrClimb.md` | none | Grammar/spelling fix | Line 259 clean | PLANNED |
 | 47 | 5 | REM-014 | LOW | P4 | `chapters/19_CoastOrClimb.md` | bundle with REM-013 | Formatting fix | Em dash used at both instances | PLANNED |
 | 48 | 5 | REM-018 | LOW | P4 | `chapters/04_FourFlights.md` | none | Word-correction fix | Zero remaining phase/phased misuse | PLANNED |

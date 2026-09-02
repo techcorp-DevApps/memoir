@@ -14,7 +14,7 @@ I nod, pretending I'm ready. My eyes flick to the pot and away too fast. My hand
 
 For the first few minutes, I'm hyper-attentive.
 
-Watching the surface ripple. Listening to the gentle murmur of boiling stock. My shoulders came down an inch for the first time all shift.
+Watching the surface ripple. Listening to the gentle murmur of boiling stock. My shoulders come down an inch for the first time all shift.
 
 Then service starts tightening around us like a vise.
 
@@ -56,7 +56,7 @@ It doesn't care about incoming dockets or your rising panic or the grill cook's 
 
 It demands presence—real presence—the kind you can't fake.
 
-If you have to leave your station, you hand it off. Out loud, to someone who acknowledges it. Anything less and you're just hoping.
+You skim it. You check the heat hasn't crept up. And if you have to leave your station, you hand it off—out loud, to someone who acknowledges it. Anything less and you're just hoping.
 
 Stock is hours of work and the foundation of every sauce, jus, and braise that comes out of that kitchen. Boil it over and you haven't just made a mess—you've told Chef his time means less to you than whatever pulled your eyes away.
 
