@@ -462,8 +462,16 @@ Each piece must pass:
 Ruled 2026-09-02 after a session's reports became long enough to bury what
 was actually being raised.
 
-A report — chat reply, PR body, commit message, handoff — says **what changed,
-what it cost, and what needs Bosco's decision.** Nothing else.
+A report — chat reply, PR body, commit message — says **what changed, what it
+cost, and what needs Bosco's decision.** Nothing else.
+
+**Handoff documents are exempt from "nothing else"** (`HANDOFF.md`, the
+`*-handoff.md` files under `assessments/`). They are written for a session
+starting cold, not for Bosco, and their job is to carry state forward:
+binding rules, preservation constraints, settled rulings, known traps,
+ordered next work, definition of done. Cutting that context is how work gets
+repeated and rulings get reversed. Laconic still applies to their *prose* —
+no narration, no recap of how the work went — but not to their coverage.
 
 | Rule | Meaning |
 |---|---|
@@ -489,8 +497,8 @@ Applies to every session. A thorough investigation still gets a short report.
 
 ---
 
-*Last updated: 30 August 2026*
-*Version: 1.5.0*
+*Last updated: 2 September 2026*
+*Version: 1.6.0*
 
 **Current open decisions: `planning/decision-ledger_2026-08-30.md`.**
 **Current plan: `planning/writing-plan_v1.4.0.md`.**
