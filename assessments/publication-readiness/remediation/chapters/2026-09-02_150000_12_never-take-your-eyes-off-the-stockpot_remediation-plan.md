@@ -30,8 +30,8 @@ None — the governing files (CLAUDE.md's Hard "No" List, the voice profile's Re
 
 ## Completion criteria
 
-- [ ] Neither flagged line contains a bare "I felt X" / "I am Y" construction after rewriting.
-- [ ] A reader can identify the intended emotion from the rewritten action/detail alone, without needing it named.
-- [ ] ChefTip block trimmed to roughly half its current length, with the rule stated once and not repeated as a list.
-- [ ] Re-scored Voice Standard Adherence ≥4/5.
-- [ ] ChefTip #9 rule text unchanged.
+- [x] Neither flagged line contains a bare "I felt X" / "I am Y" construction after rewriting. — 2026-09-02: both lines rewritten to physical tells (eyes/hand; shoulders dropping).
+- [x] A reader can identify the intended emotion from the rewritten action/detail alone, without needing it named.
+- [x] ChefTip block trimmed to roughly half its current length, with the rule stated once and not repeated as a list. — **176 → 86 words** (under half, per the stated validation), explanatory portion down to a 3-sentence paragraph. Reached in two passes: the first trim stripped every practical instruction from the block, which an independent review flagged against master plan §10 ("no REM item removes a kitchen mechanic") — the skim and heat-check mechanics were restored, and the redundancy the scene had already dramatised ("A pot doesn't wait for your attention", the dockets/panic/grill-cook restatement) was cut instead, which is what REM-003's own strategy asks for. Both REM-003's word target and §10's credibility requirement now hold.
+- [ ] Re-scored Voice Standard Adherence ≥4/5. — pending Batch 7 re-validation.
+- [x] ChefTip #9 rule text unchanged.

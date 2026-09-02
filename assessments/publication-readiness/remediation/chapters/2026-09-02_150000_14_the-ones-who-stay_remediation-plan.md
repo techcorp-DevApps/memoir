@@ -29,8 +29,8 @@ None — the governing files are accurate and current; this chapter departs from
 
 ## Completion criteria
 
-- [ ] Line 33 removed; transition into the following section confirmed clean.
-- [ ] Closing paragraph trimmed; ritual close confirmed to still land (or replaced if it doesn't survive the cut cleanly — Bosco's call if so).
-- [ ] Marco scene and Sam "Go smoke" sequence completely unchanged.
-- [ ] Re-scored Voice Standard Adherence ≥4/5.
-- [ ] Cross-check against ch.13's REM-004 fix confirms neither chapter retains the forced-epiphany pattern.
+- [x] Line 33 removed; transition into the following section confirmed clean. — 2026-09-02: cut; the Marco scene now runs straight into the section break, "showing" stands alone.
+- [x] Closing paragraph trimmed; ritual close confirmed to still land (or replaced if it doesn't survive the cut cleanly — Bosco's call if so). — trimmed the "That's why we stay... worth keeping" restatement (lines 143–147 pre-edit); the "You're starting to look like you belong here" beat and the ritual close both survive the cut cleanly with no replacement needed.
+- [x] Marco scene and Sam "Go smoke" sequence completely unchanged.
+- [ ] Re-scored Voice Standard Adherence ≥4/5. — pending Batch 7 re-validation.
+- [x] Cross-check against ch.13's REM-004 fix confirms neither chapter retains the forced-epiphany pattern.

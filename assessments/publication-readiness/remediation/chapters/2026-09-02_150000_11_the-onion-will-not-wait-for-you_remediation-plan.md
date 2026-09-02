@@ -30,8 +30,12 @@ None — the voice profile is accurate and current; this chapter departs from it
 
 ## Completion criteria
 
-- [ ] No TV/pop-culture comparison remains as the narrator's own descriptive frame.
-- [ ] "Darren" is either anchored to a real, previously-established detail or removed.
-- [ ] Re-scored Voice Standard Adherence ≥4/5 against the original rubric.
-- [ ] ChefTip #10 text and structural pattern unchanged.
-- [ ] Entry/exit bridges re-confirmed functional post-edit.
+- [x] No TV/pop-culture comparison remains as the narrator's own descriptive frame. — 2026-09-02: the flagged "sexy, Gordon Ramsay-lit fantasy" clause is gone (`:3`, now "whatever you'd built up in your head").
+  **`:11` "trauma documentaries" — RULED BY BOSCO, 2026-09-02: stays.** An automated review flagged it as a second media comparison in the narrator's own descriptive voice. Ruled acceptable and the criterion closed on that basis: the comparison is grim rather than glamorising, and the voice profile's objection is specifically to MasterChef-style delusions. Not to be re-raised at Batch 7.
+- [x] "Darren" is either anchored to a real, previously-established detail or removed. — **RULED BY BOSCO, 2026-09-02: the original stays, finding overridden.**
+  History: the first pass replaced the beat with "Could you? Come stand at my station for ten minutes and find out."; two independent reviews read that as the same unanchored rhetorical shape with the name filed off, so it was cut outright. Bosco then ruled the original lines back in verbatim — "Could you, Darren? Could you really? / You cried cutting one shallot at Christmas and had to sit down." — on the grounds that the bit works and the invented strawman is acceptable to him as the author.
+  **Consequence for Batch 7: REM-001's "unanchored strawman" half is CLOSED BY AUTHOR RULING, not by remediation. Do not re-flag it.** The chapter file is byte-identical to its pre-batch state at this beat; the only REM-001 change that survives in ch.11 is the `:3` Ramsay clause.
+- Item 3 of this plan (trim stacked metaphor in the opening two paragraphs, "optional but recommended") — **not pursued**; density judged in-register on the read-through. Recorded so Batch 7 doesn't re-litigate it as an oversight.
+- [ ] Re-scored Voice Standard Adherence ≥4/5 against the original rubric. — pending Batch 7 re-validation.
+- [x] ChefTip #10 text and structural pattern unchanged.
+- [x] Entry/exit bridges re-confirmed functional post-edit. — fixes are mid-narrative only; ch.12's opening callback is unaffected.

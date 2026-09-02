@@ -10,11 +10,11 @@ The thing looked like it contained the remains of a medieval feast. Bones, herbs
 
 "Keep an eye on that," he says.
 
-I nod, pretending I'm ready, while internally acknowledging that I am absolutely not built for the level of responsibility that pot required. But that's the thing about kitchens: they don't wait for you to feel ready. They assume readiness is something you'll discover in the aftermath.
+I nod, pretending I'm ready. My eyes flick to the pot and away too fast. My hand finds the edge of the bench before I've decided to reach for it. But that's the thing about kitchens: they don't wait for you to feel ready. They assume readiness is something you'll discover in the aftermath.
 
 For the first few minutes, I'm hyper-attentive.
 
-Watching the surface ripple. Listening to the gentle murmur of boiling stock. Feeling almost... capable?
+Watching the surface ripple. Listening to the gentle murmur of boiling stock. My shoulders come down an inch for the first time all shift.
 
 Then service starts tightening around us like a vise.
 
@@ -50,16 +50,10 @@ Which, in kitchen terms, is borderline devastating.
 
 *"Never turn your back on a stockpot. If you're responsible for it, you're present for it."*
 
-A pot doesn't wait for your attention.
+A pot demands presence—the kind you can't fake.
 
-It doesn't care about incoming dockets or your rising panic or the grill cook's latest meltdown.
+You skim it. You check the heat hasn't crept up. If you have to leave your station, you hand it off—out loud, to someone who acknowledges it.
 
-It demands presence—real presence—the kind you can't fake.
-
-Here's what "keeping an eye on it" actually means: You skim it every ten to fifteen minutes. Every time you pass, you glance. You know where the heat is set, and you check it hasn't crept up. You never assume "it was fine five minutes ago" means it's fine now. And if you have to leave your station, you hand it off—verbally, out loud, to a specific person who acknowledges the handoff.
-
-Stock isn't just liquid—it's hours of work and the foundation of every sauce, jus, and braise that comes out of that kitchen. Let it boil over, and you're not just cleaning a stovetop. You're diluting flavour, losing body, and telling Chef that his time means less to you than whatever distraction pulled you away.
+Stock is hours of work and the foundation of every sauce, jus, and braise that comes out of that kitchen. Boil it over and you haven't just made a mess—you've told Chef his time means less to you than whatever pulled your eyes away.
 
 Stay with it. Stay connected. Stay aware.
-
-Because the kitchen will test your attention long before it rewards it.
