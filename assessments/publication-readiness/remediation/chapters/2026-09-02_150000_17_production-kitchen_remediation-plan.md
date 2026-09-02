@@ -29,8 +29,8 @@
 
 ## Completion criteria
 
-- [ ] Lines 3–5 reworded with materially different wording from `16_TwoGlasses.md:97-99`.
-- [ ] Text-diff confirms zero verbatim sentence overlap between the two files.
-- [ ] Entry bridge from ch.16 re-confirmed strong.
-- [ ] Exiting bridge to ch.18 confirmed unaffected.
-- [ ] Rest of chapter confirmed unchanged.
+- [x] Lines 3–5 reworded with materially different wording from `16_TwoGlasses.md:97-99`. — DONE 2026-09-02: "New Zealand was behind me. Three years, and I'd come out the other side a different cook to the one who'd walked in. / Since then it's been kitchen after kitchen. Different cities, different countries, different people telling me I still wasn't good enough." Same information (vineyard era ending, three-year tenure, pattern of subsequent kitchens), same list-structure rhythm, zero shared sentences.
+- [x] Text-diff confirms zero verbatim sentence overlap between the two files. — confirmed 2026-09-02.
+- [x] Entry bridge from ch.16 re-confirmed strong. — confirmed 2026-09-02.
+- [x] Exiting bridge to ch.18 confirmed unaffected. — untouched.
+- [x] Rest of chapter confirmed unchanged. — untouched.

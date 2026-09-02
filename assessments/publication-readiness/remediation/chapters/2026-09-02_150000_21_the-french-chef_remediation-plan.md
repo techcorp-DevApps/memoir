@@ -7,15 +7,15 @@
 
 ## Required remediation, in sequence
 
-1. **REM-015 — punctuate the opening sentence (line 9)**: "I'd left a CDC position at a modern bistro hundred and fifty covers, double sittings, fifteen-plus staff under me, a beast by any definition to take a pay cut and drop a couple of rungs to CDP at a fine dining Italian place in Melbourne" stacks four descriptive clauses without connecting punctuation. Add a comma or two (e.g., after "modern bistro" and before "a beast by any definition") — a punctuation fix only; the content and density are intentional and correct (it packs the whole career-move context in one breath) and must not be shortened or simplified.
-2. **REM-016 — Dylan clarification (P1 Bosco decision first, then P2 execute)**: An unnamed food runner fetches Scotty's car (lines 157–159); Dylan is introduced later (line 189, "Scotty must've handed Joe off to Dylan") with no indication of whether he's the same person. **Bosco must confirm which reading is intended before any text is added.** Once confirmed: if the same person, add a short clarifying clause at first mention ("the food runner — Dylan, I'd learn later — ..." — illustrative wording only, not prescriptive); if distinct, add a one-clause introduction at Dylan's first appearance. The added clause must be minimal — one clause, not a new scene.
+1. **REM-015 — DONE.** Line 9 already carries the commas ("I'd left a CDC position at a modern bistro, hundred and fifty covers, double sittings, fifteen-plus staff under me, a beast by any definition, to take a pay cut..."). Verified 2026-09-02 (Batch 3) — no further action.
+2. **REM-016 — DONE.** Ledger **B35** ruled Dylan is the same person as the food runner sent for Scotty's car. The clarifying clause is already in the prose at line 157: "He grabbed his keys and handed them to the closest food runner — Dylan." `context/canon.md` carries the ruling. Verified 2026-09-02 (Batch 3) — no further action; row closed.
 
 ## What to explicitly preserve
 
 - The pork-belly brine-vs-cure/confit physics sequence in full — the standout realism passage in the batch ("You do not mix water and fat...").
 - The Saturday pre-theatre service crisis sequence, Matt freezing, and the narrator stepping up — untouched.
 - The dark humour, including its most extreme instance in the manuscript ("Does the Pope touch little boys?") — per the audit's own finding, this lands within the profile's stated territory (adrenaline-charged banter after a survived crisis, not gratuitous) and is explicitly not a defect; no REM item touches it.
-- Carly's name and characterisation exactly as written, four consistent uses — the fix for the Carly/Rachael conflict (REM-032) happens in `CLAUDE.md`, never in this chapter's prose, regardless of Bosco's eventual sign-off.
+- **Rachael's name in the prose — Rachael, not Carly.** Superseded 2026-09-02: this section previously said to preserve "Carly." Ledger **B36** ruled Rachael correct, against this chapter's own evidence, and PR #5 changed all four instances (lines 105, 107, 223, 235). `context/canon.md:29` carries the ruling. Do not "restore" Carly.
 - The closing line ("I still wasn't part of the family. But I was definitely part of the team. And there was a lot more respect.") — the exiting bridge into the still-unwritten ch.22 (Dave) depends on this exact framing; do not touch it.
 
 ## Transition impact
@@ -32,7 +32,7 @@
 
 ## Completion criteria
 
-- [ ] Line 9 parses cleanly on a first read; content and density unchanged.
-- [ ] Bosco has confirmed Dylan's identity; the chapter carries a minimal clarifying clause matching that confirmation.
-- [ ] Pork-belly sequence, service-crisis sequence, and closing line confirmed unchanged.
-- [ ] `CLAUDE.md` §5 updated for Scotty, Raj, Dylan (once confirmed), and Carly, with zero change to this chapter's prose.
+- [x] Line 9 parses cleanly on a first read; content and density unchanged. — DONE, verified 2026-09-02.
+- [x] Dylan's identity confirmed (ledger B35); the chapter carries a minimal clarifying clause matching that confirmation. — DONE, verified 2026-09-02.
+- [x] Pork-belly sequence, service-crisis sequence, and closing line confirmed unchanged. — verified 2026-09-02.
+- [ ] `CLAUDE.md` §5 updated for Scotty, Raj, Dylan, and Rachael (not Carly — see ledger B36), with zero change to this chapter's prose.

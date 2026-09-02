@@ -29,7 +29,7 @@
 
 ## Completion criteria
 
-- [ ] Line 33–35 no longer claims novelty for an idea ch.19 already stated, while preserving the sentiment.
-- [ ] Bosco has decided REM-031's direction; this chapter's heading format matches the decided convention across all seven ChefTip chapters.
-- [ ] Brigade-anticipation scene and range-hood reversal confirmed unchanged.
-- [ ] Exiting bridge to ch.21 confirmed unaffected.
+- [x] Line 33–35 no longer claims novelty for an idea ch.19 already stated, while preserving the sentiment. — DONE 2026-09-02, via the Alternative (explicit callback), not the plan's original preferred cut: "That's when the vineyard lesson stopped being something I knew and started being something I lived." Named "the vineyard" outright so it reads as the same lesson proven true here, not a fresh discovery — the lightest cut alone ("...something I'd felt.") was judged not to clear REM-011's own validation, since it would still frame this scene as the moment of understanding against ch.19:129's "I'd learned that at the vineyard."
+- [x] Bosco has decided REM-031's direction; this chapter's heading format matches the decided convention across all seven ChefTip chapters. — resolved prior to Batch 3 (REM-031 execute, matrix row 18/21); this chapter's rule line at line 55 already uses italic, matching `CLAUDE.md:155`.
+- [x] Brigade-anticipation scene and range-hood reversal confirmed unchanged.
+- [x] Exiting bridge to ch.21 confirmed unaffected.

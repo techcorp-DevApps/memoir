@@ -4,29 +4,29 @@
 
 | Order | Batch | REM ID | Severity | Priority | Chapter/File | Dependency | Action Type | Validation | Status |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | 0 | REM-036 | HIGH | P0 | `CLAUDE.md` §5/§6 | none | Decision + mechanical addition | Two new facts cite manuscript source lines | PLANNED |
-| 2 | 0 | REM-021 | HIGH | P1 | `chapters/07_Chicken&Mash.md` | none | Bosco read/decision only | Recorded in decision ledger (new key) | PLANNED |
-| 3 | 0 | REM-020 | MEDIUM | P1 | `chapters/03_FreshForUnlock.md` | none | Decision (A or B) | Ledger B15 answered | PLANNED |
-| 4 | 0 | REM-023 | MEDIUM | P1 | `chapters/08_EarningTheRight.md` | REM-042 | Decision | Ledger new key answered | PLANNED |
-| 5 | 0 | REM-042 | LOW | P2 | none yet | none | Decision (future scope) | Writing-plan ladder table updated once placed | PLANNED |
-| 6 | 0 | REM-024 | MEDIUM | P1 | `chapters/08_EarningTheRight.md`, `chapters/14_TheOnesWhoStay.md` | none | Decision (ledger B22) | Ledger B22 answered | PLANNED |
-| 7 | 0 | REM-031 | MEDIUM | P1 | `CLAUDE.md`, `context/chef-writer-context-profile.md` | none | Decision | Ledger new key answered | PLANNED |
-| 8 | 0 | REM-032 | MEDIUM | P1 | `CLAUDE.md` §5 | none | Decision (sign-off) | Ledger B12 answered | PLANNED |
-| 9 | 0 | REM-016 | MEDIUM | P1 | `chapters/21_TheFrenchChef.md` | none | Decision | Ledger new key answered | PLANNED |
-| 10 | 0 | REM-019 | LOW | P1 | `chapters/04_FourFlights.md` | none | Decision | Ledger note promoted/answered | PLANNED |
-| 11 | 0 | REM-037 | LOW | P2 | `CLAUDE.md`, `planning/writing-plan_v1.4.0.md` | none | Decision (naming) | Ledger new key answered | PLANNED |
-| 12 | 0 | REM-039 | MEDIUM | P1 | `context/chef-writer-context-profile.md` | none | Decision not required (mechanical) | — | PLANNED |
-| 13 | 0 | REM-041 | LOW | P2 | `CLAUDE.md` §5 | none | Decision (ledger B13) | Ledger B13 answered | PLANNED |
-| 14 | 0 | REM-044 | LOW | P4 | `CLAUDE.md` §5 | none | Decision (ledger B21) | Ledger B21 answered | PLANNED |
-| 15 | 1 | REM-032 (execute) | MEDIUM | P1 | `CLAUDE.md:202` | REM-032 (decision) | Governing-file edit | Chapter and table agree | PLANNED |
-| 16 | 1 | REM-033 | LOW | P2 | `CLAUDE.md` §5 | none | Governing-file edit (addition) | Two new rows added | PLANNED |
-| 17 | 1 | REM-016 (execute) | MEDIUM | P2 | `CLAUDE.md` §5, `chapters/21_TheFrenchChef.md` | REM-016 (decision) | Governing-file edit + minimal chapter clause | Reader can identify Dylan | PLANNED |
-| 18 | 1 | REM-031 (execute) | MEDIUM | P1 | `CLAUDE.md:155,171`, ChefTip chapters | REM-031 (decision) | Governing-file edit + possible chapter formatting edit(s) | All 7 ChefTip chapters match; CLAUDE.md self-consistent | PLANNED |
-| 19 | 1 | REM-036 (execute) | HIGH | P0 | `CLAUDE.md` §5/§6 | REM-036 (decision) | Governing-file addition | Two facts added, cited | PLANNED |
-| 20 | 1 | REM-037 (execute) | LOW | P2 | `CLAUDE.md`, `planning/writing-plan_v1.4.0.md` | REM-037 (decision) | Governing-file edit | Both files agree | PLANNED |
-| 21 | 1 | REM-039 (execute) | MEDIUM | P1 | `context/chef-writer-context-profile.md` | none | Governing-file edit | Title matches CLAUDE.md | PLANNED |
-| 22 | 1 | REM-040 | MEDIUM | P1 | `context/chef-writer-context-profile.md` | bundle with REM-039 | Encoding repair | Zero mojibake remaining | PLANNED |
-| 23 | 1 | REM-044 (execute) | LOW | P4 | `CLAUDE.md` §5 | REM-044 (decision) | Governing-file edit | Spelling confirmed, hedge removed | PLANNED |
+| 1 | 0 | REM-036 | HIGH | P0 | `CLAUDE.md` §5/§6 | none | Decision + mechanical addition | Two new facts cite manuscript source lines | DECISION DONE, EXECUTION PARTIAL — ledger B38 ruled yes, `context/canon.md` added; only one source-cited fact confirmed in `CLAUDE.md` (see row 19) |
+| 2 | 0 | REM-021 | HIGH | P1 | `chapters/07_Chicken&Mash.md` | none | Bosco read/decision only | Recorded in decision ledger (new key) | DONE — ledger B34, "does not violate [B30], no edit" |
+| 3 | 0 | REM-020 | MEDIUM | P1 | `chapters/03_FreshForUnlock.md` | none | Decision (A or B) | Ledger B15 answered | DONE — ledger B15, Option A; chapter carries one H1 + `## GENERAL POPULATION` |
+| 4 | 0 | REM-023 | MEDIUM | P1 | `chapters/08_EarningTheRight.md` | REM-042 | Decision | Ledger new key answered | **OPEN — genuinely unresolved.** `chapters/08_EarningTheRight.md:59` still reads "Ten ChefTips"; `planning/writing-plan_v1.4.0.md` still lists ChefTips #2/#3/#4 Unplaced/Open. Do not close |
+| 5 | 0 | REM-042 | LOW | P2 | none yet | none | Decision (future scope) | Writing-plan ladder table updated once placed | **OPEN — genuinely unresolved,** blocks REM-023 above |
+| 6 | 0 | REM-024 | MEDIUM | P1 | `chapters/08_EarningTheRight.md`, `chapters/14_TheOnesWhoStay.md` | none | Decision (ledger B22) | Ledger B22 answered | DONE — ledger B22, stays undisclosed; both Marco scenes stand as written, no edit |
+| 7 | 0 | REM-031 | MEDIUM | P1 | `CLAUDE.md`, `context/chef-writer-context-profile.md` | none | Decision | Ledger new key answered | DONE — resolved to italic; `CLAUDE.md:172` states it, no remaining bold reference found anywhere in the file |
+| 8 | 0 | REM-032 | MEDIUM | P1 | `CLAUDE.md` §5 | none | Decision (sign-off) | Ledger B12 answered | DONE — ledger B36 (supersedes the still-OPEN B12 header), Rachael is correct |
+| 9 | 0 | REM-016 | MEDIUM | P1 | `chapters/21_TheFrenchChef.md` | none | Decision | Ledger new key answered | DONE — ledger B35, same person as the food runner |
+| 10 | 0 | REM-019 | LOW | P1 | `chapters/04_FourFlights.md` | none | Decision | Ledger note promoted/answered | OPEN — genuinely unresolved, Bosco's decision, not this batch's to make |
+| 11 | 0 | REM-037 | LOW | P2 | `CLAUDE.md`, `planning/writing-plan_v1.4.0.md` | none | Decision (naming) | Ledger new key answered | DONE — ledger B37, no part name needed |
+| 12 | 0 | REM-039 | MEDIUM | P1 | `context/chef-writer-context-profile.md` | none | Decision not required (mechanical) | — | PLANNED — verified NOT done: `context/chef-writer-context-profile.md:400` still names the old title "Diary of an Apprentice"; `:115,313,316` still mandate `### ChefTip Number X` against the manuscript's actual `## ChefTip #N`. Batch 1 scope, not touched this batch |
+| 13 | 0 | REM-041 | LOW | P2 | `CLAUDE.md` §5 | none | Decision (ledger B13) | Ledger B13 answered | DONE — ledger B13, Jen is commis |
+| 14 | 0 | REM-044 | LOW | P4 | `CLAUDE.md` §5 | none | Decision (ledger B21) | Ledger B21 answered | DONE — ledger B21, Geoffrey Welham; `CLAUDE.md:240` confirmed spelled correctly |
+| 15 | 1 | REM-032 (execute) | MEDIUM | P1 | `CLAUDE.md:202` | REM-032 (decision) | Governing-file edit | Chapter and table agree | DONE — chapter confirmed reading Rachael throughout (verified 2026-09-02) |
+| 16 | 1 | REM-033 | LOW | P2 | `CLAUDE.md` §5 | none | Governing-file edit (addition) | Two new rows added | DONE — Scotty and Raj rows both present, `CLAUDE.md` §5 Melbourne Era table |
+| 17 | 1 | REM-016 (execute) | MEDIUM | P2 | `CLAUDE.md` §5, `chapters/21_TheFrenchChef.md` | REM-016 (decision) | Governing-file edit + minimal chapter clause | Reader can identify Dylan | DONE — clause present at `21_TheFrenchChef.md:157` |
+| 18 | 1 | REM-031 (execute) | MEDIUM | P1 | `CLAUDE.md:155,171`, ChefTip chapters | REM-031 (decision) | Governing-file edit + possible chapter formatting edit(s) | All 7 ChefTip chapters match; CLAUDE.md self-consistent | DONE — `CLAUDE.md:172` states italic, no bold reference remains; ch.20:55 confirmed italic |
+| 19 | 1 | REM-036 (execute) | HIGH | P0 | `CLAUDE.md` §5/§6 | REM-036 (decision) | Governing-file addition | Two facts added, cited | PARTIAL — only one source-cited fact found (`18_TheBaseline.md:7`, §6 Fine-dining covers row); the validation calls for two. Not this batch's to invent a second |
+| 20 | 1 | REM-037 (execute) | LOW | P2 | `CLAUDE.md`, `planning/writing-plan_v1.4.0.md` | REM-037 (decision) | Governing-file edit | Both files agree | DONE — `CLAUDE.md` header carries no "needs a name" flag |
+| 21 | 1 | REM-039 (execute) | MEDIUM | P1 | `context/chef-writer-context-profile.md` | none | Governing-file edit | Title matches CLAUDE.md | PLANNED — verified NOT done, see row 12 |
+| 22 | 1 | REM-040 | MEDIUM | P1 | `context/chef-writer-context-profile.md` | bundle with REM-039 | Encoding repair | Zero mojibake remaining | DONE — zero mojibake confirmed in chapters and this file |
+| 23 | 1 | REM-044 (execute) | LOW | P4 | `CLAUDE.md` §5 | REM-044 (decision) | Governing-file edit | Spelling confirmed, hedge removed | DONE — `CLAUDE.md:240` reads "Geoffrey Welham", no hedge |
 | 24 | 1 | REM-045 | MEDIUM | P1 | `context/project-memory.md` | after other CLAUDE.md edits | Governing-file regeneration | No disagreement vs CLAUDE.md | PLANNED |
 | 25 | 1 | REM-047 | LOW | P4 | `CLAUDE.md` §9 | after other batches | Governing-file edit | Diagram matches actual repo tree | PLANNED |
 | 26 | 2 | REM-001 | MEDIUM | P2 | `chapters/11_TheOnion.md` | none | Line/scene edit | Voice-checklist re-pass, no TV-trope framing | CLOSED — 2026-09-02, part remediated / part ruled by Bosco. Ramsay clause at `:3` removed (the remediation). Darren strawman: **author ruled the original back in verbatim**, overriding the finding. `:11` "trauma documentaries": **author ruled it stays**. Both rulings are final — Batch 7 must not re-flag either |
@@ -37,11 +37,11 @@
 | 31 | 2 | REM-006 | LOW | P2 | `chapters/13_HotTrays.md` | REM-004 (same file) | ChefTip-close edit | Bosco read-through | DONE — 2026-09-02, **Bosco read-through completed and confirmed**: the stated-thesis line stays cut, close lands on "Eventually, survival becomes instinct." Validation satisfied, not pending |
 | 32 | 2 | REM-008 | HIGH | P2 | `chapters/14_TheOnesWhoStay.md` | none | Line cut | Section break reads cleanly post-cut | DONE — 2026-09-02 |
 | 33 | 2 | REM-009 | MEDIUM | P2 | `chapters/14_TheOnesWhoStay.md` | REM-008 (same file) | Paragraph trim | Close lands without restated thesis | DONE — 2026-09-02 |
-| 34 | 3 | REM-010 | MEDIUM | P3 | `chapters/16_TwoGlasses.md`, `chapters/17_ProductionKitchen.md` | none | Reword (one side) | Zero verbatim overlap post-edit | PLANNED |
-| 35 | 3 | REM-011 | LOW | P3 | `chapters/20_Goose&Gander.md` | none | Clause cut | No false novelty claim remains | PLANNED |
-| 36 | 3 | REM-012 | LOW | P3 | `chapters/19,20,21` (entry bridges) | none | Awareness only — likely no edit | Full read-through pacing check post-assembly | PLANNED |
-| 37 | 3 | REM-017 | MEDIUM | P2 | `chapters/04_FourFlights.md` | REM-026 (check draft material first) | Conditional beat addition, or no-op | Confirmed via 05/06 review | PLANNED |
-| 38 | 3 | REM-016 (chapter clause) | MEDIUM | P2 | `chapters/21_TheFrenchChef.md` | REM-016 (decision) | Minimal clarifying clause | Chapter reads naturally, not as a patch | PLANNED |
+| 34 | 3 | REM-010 | MEDIUM | P3 | `chapters/16_TwoGlasses.md`, `chapters/17_ProductionKitchen.md` | none | Reword (one side) | Zero verbatim overlap post-edit | DONE — 2026-09-02. Ch.17:3-5 reworded; ch.16 unchanged; zero verbatim sentence overlap confirmed |
+| 35 | 3 | REM-011 | LOW | P3 | `chapters/20_Goose&Gander.md` | none | Reword (Alternative — explicit callback, not the plan's preferred clause-cut) | No false novelty claim remains | DONE — 2026-09-02. Plain clause-cut judged insufficient against ch.19:129 ("I'd learned that at the vineyard"); reworded ch.20:33 as an explicit callback to the vineyard instead |
+| 36 | 3 | REM-012 | LOW | P3 | `chapters/19,20,21` (entry bridges) | none | Awareness only — likely no edit | Full read-through pacing check post-assembly | NO ACTION — 2026-09-02, per plan disposition. All three bridges do legitimate work; any trim awaits a full assembled read-through (not yet run) and is not this batch's call |
+| 37 | 3 | REM-017 | MEDIUM | P2 | `chapters/04_FourFlights.md` | REM-026 (check draft material first) | Conditional beat addition, or no-op | Confirmed via 05/06 review | DONE — 2026-09-02. `drafts/TheEarlyDays.md` checked (467 lines, zero "Ivian" occurrences) — gap confirmed real; one-clause beat added at ch.04:11 ("Ivian, my wing-cleaning partner, was out in the yard") |
+| 38 | 3 | REM-016 (chapter clause) | MEDIUM | P2 | `chapters/21_TheFrenchChef.md` | REM-016 (decision) | Minimal clarifying clause | Chapter reads naturally, not as a patch | CLOSED — verified already done pre-Batch-3 (ledger B35, clause present at ch.21:157). No edit; row closed, stale ch.21 chapter plan corrected in Batch 3 |
 | 39 | 4 | REM-021 (execute, conditional) | HIGH | P1→P3 | `chapters/07_Chicken&Mash.md` | REM-021 (Bosco read) | Reword or no-op | Bosco confirms resolved reading | PLANNED |
 | 40 | 4 | REM-022 | LOW | P3 | `chapters/07_Chicken&Mash.md` | REM-021 must resolve first | Optional line trim | Bosco read-through | PLANNED |
 | 41 | 4 | REM-015 | LOW | P3 | `chapters/21_TheFrenchChef.md` | none | Punctuation fix | Read-aloud parses cleanly | PLANNED |
@@ -53,7 +53,7 @@
 | 47 | 5 | REM-014 | LOW | P4 | `chapters/19_CoastOrClimb.md` | bundle with REM-013 | Formatting fix | Em dash used at both instances | PLANNED |
 | 48 | 5 | REM-018 | LOW | P4 | `chapters/04_FourFlights.md` | none | Word-correction fix | Zero remaining phase/phased misuse | PLANNED |
 | 49 | 5 | REM-028 | MEDIUM | P4 | 15 chapter files | run after Batches 2–3 close | Scripted encoding repair | Zero mojibake, diff-reviewed | PLANNED |
-| 50 | 5 | REM-029 | LOW | P4 | `chapters/09_SetUpYoutStation.md` | none | `git mv` + reference updates | History preserved, refs updated | PLANNED |
+| 50 | 5 | REM-029 | LOW | P4 | `chapters/09_SetUpYourStation.md` | none | `git mv` + reference updates | History preserved, refs updated | PARTIAL — 2026-09-02 (`git mv` landed pre-Batch-3, verified; the operational cross-reference sweep — this matrix and the master plan's own Batch 5 file list — completed in Batch 3. Dated historical records left as-is per the plan's own distinction) |
 | 51 | 5 | REM-030 | LOW | P4 | `chapters/15_TasteIt.md` | none | Heading fix | H1 matches canonical title | PLANNED |
 | 52 | 6 | REM-026 | HIGH | P0 (scoping) | `drafts/TheEarlyDays.md` → new `chapters/05_*.md`, `06_*.md` | REM-020 (if Option B chosen) | Drafting/promotion (Bosco-only) | New chapters pass full rubric | PLANNED |
 | 53 | 6 | REM-027 | LOW | P2 | none yet (future chapter) | none | No action — future scope | N/A | PLANNED |

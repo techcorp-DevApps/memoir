@@ -8,7 +8,7 @@ No air con. Confined spaces. The kind of temperature that turns minor irritation
 
 Yard time came and I didn't take it.
 
-I'd finished my jobs for the day — mopping floors, emptying bins, the wing cleaner shit that bought me extra unlock time and additional milk portions. Ivian was out in the yard. Most of the others too. I stayed inside for a couple of games of pool while the wing was quiet.
+I'd finished my jobs for the day — mopping floors, emptying bins, the wing cleaner shit that bought me extra unlock time and additional milk portions. Ivian, my wing-cleaning partner, was out in the yard. Most of the others too. I stayed inside for a couple of games of pool while the wing was quiet.
 
 Small freedoms. They matter when every hour feels the same.
 

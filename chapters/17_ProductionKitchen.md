@@ -1,8 +1,8 @@
 # PRODUCTION KITCHEN
 
-That was New Zealand. That was where it started.
+New Zealand was behind me. Three years, and I'd come out the other side a different cook to the one who'd walked in.
 
-A lot of kitchens have happened since then. Different cities. Different countries. Different ways of being told I wasn't good enough yet.
+Since then it's been kitchen after kitchen. Different cities, different countries, different people telling me I still wasn't good enough.
 
 Australia was first.
 

@@ -33,8 +33,8 @@
 
 ## Completion criteria
 
-- [ ] 05/06 draft material checked for an existing Ivian introduction before any ch.04 edit is made.
-- [ ] Ivian gap resolved (either naturally via sequencing, or via a minimal added beat).
-- [ ] Both phase/phased instances corrected to faze/fazed.
-- [ ] Bosco has answered whether the closing line was a deliberate cut; action taken (or explicitly not taken) accordingly.
-- [ ] `fucken` spelling untouched throughout.
+- [x] 05/06 draft material checked for an existing Ivian introduction before any ch.04 edit is made. — DONE: `drafts/TheEarlyDays.md` (467 lines, CONCURRENT → GRANT'S KITCHEN) contains zero occurrences of "Ivian."
+- [x] Ivian gap resolved via a minimal added beat. — DONE 2026-09-02: line 11 now reads "Ivian, my wing-cleaning partner, was out in the yard." One clause, matches canon (male, wing-cleaner partner — mopping, bins, extra unlock, extra milk), invents nothing beyond it.
+- [x] Both phase/phased instances corrected to faze/fazed. — already correct as of Batch 3 (verified lines 45, 261 read "faze"/"fazed").
+- [ ] Bosco has answered whether the closing line ("Same board. Same day. Different histories.") was a deliberate cut; action taken (or explicitly not taken) accordingly. — **still open, Bosco's decision, not actioned this batch.**
+- [x] `fucken` spelling untouched throughout.

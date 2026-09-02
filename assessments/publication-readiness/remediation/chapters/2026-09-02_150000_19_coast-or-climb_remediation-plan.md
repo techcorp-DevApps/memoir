@@ -30,7 +30,7 @@ None beyond the standard encoding pass (REM-028).
 
 ## Completion criteria
 
-- [ ] Line 259 grammatically clean, spelling corrected.
-- [ ] Lines 281/283 use em dash.
-- [ ] Praveen scene, public-accountability sequence, and kitchen-state description confirmed unchanged.
-- [ ] Cross-check with ch.20's REM-011 fix confirms the "never put into words" claim no longer disagrees with this chapter's own earlier phrasing.
+- [ ] Line 259 grammatically clean, spelling corrected. — **not yet done; REM-013 is Batch 5 scope, not Batch 3.**
+- [ ] Lines 281/283 use em dash. — **not yet done; REM-014 is Batch 5 scope, not Batch 3.**
+- [x] Praveen scene, public-accountability sequence, and kitchen-state description confirmed unchanged. — this file untouched by Batch 3.
+- [x] Cross-check with ch.20's REM-011 fix confirms the claim no longer disagrees with this chapter's own earlier phrasing. — DONE 2026-09-02: ch.20:33 now reads "That's when the vineyard lesson stopped being something I knew and started being something I lived," an explicit callback to this chapter's "I'd learned that at the vineyard" (line 129) rather than a competing claim of first discovery.

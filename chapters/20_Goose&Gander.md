@@ -30,7 +30,7 @@ Sonny was already breaking down the six-top burner. I climbed up under the range
 
 ---
 
-That's when I understood something I'd felt but never put into words.
+That's when the vineyard lesson stopped being something I knew and started being something I lived.
 
 You can't demand what you won't demonstrate.
 
