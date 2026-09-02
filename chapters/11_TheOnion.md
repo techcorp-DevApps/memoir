@@ -48,8 +48,6 @@ It makes you faster. Cleaner. More consistent.
 
 And consistency is the only thing separating us from the lunatics who cook one good meal a month and then tell us they "could've been a chef, you know."
 
-Could you? Come stand at my station for ten minutes and find out.
-
 Anyway.
 
 Square your ingredients. Square your life while you're at it.

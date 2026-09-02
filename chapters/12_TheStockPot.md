@@ -50,13 +50,9 @@ Which, in kitchen terms, is borderline devastating.
 
 *"Never turn your back on a stockpot. If you're responsible for it, you're present for it."*
 
-A pot doesn't wait for your attention.
+A pot demands presence—the kind you can't fake.
 
-It doesn't care about incoming dockets or your rising panic or the grill cook's latest meltdown.
-
-It demands presence—real presence—the kind you can't fake.
-
-You skim it. You check the heat hasn't crept up. And if you have to leave your station, you hand it off—out loud, to someone who acknowledges it. Anything less and you're just hoping.
+You skim it. You check the heat hasn't crept up. If you have to leave your station, you hand it off—out loud, to someone who acknowledges it.
 
 Stock is hours of work and the foundation of every sauce, jus, and braise that comes out of that kitchen. Boil it over and you haven't just made a mess—you've told Chef his time means less to you than whatever pulled your eyes away.
 

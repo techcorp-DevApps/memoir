@@ -29,7 +29,7 @@
 | 23 | 1 | REM-044 (execute) | LOW | P4 | `CLAUDE.md` §5 | REM-044 (decision) | Governing-file edit | Spelling confirmed, hedge removed | PLANNED |
 | 24 | 1 | REM-045 | MEDIUM | P1 | `context/project-memory.md` | after other CLAUDE.md edits | Governing-file regeneration | No disagreement vs CLAUDE.md | PLANNED |
 | 25 | 1 | REM-047 | LOW | P4 | `CLAUDE.md` §9 | after other batches | Governing-file edit | Diagram matches actual repo tree | PLANNED |
-| 26 | 2 | REM-001 | MEDIUM | P2 | `chapters/11_TheOnion.md` | none | Line/scene edit | Voice-checklist re-pass, no TV-trope framing | PARTIAL — 2026-09-02 (TV-trope frame removed and the invented "Darren" beat cut; the humour beat is de-invented but not re-anchored to a named person/incident — stays open into Batch 7) |
+| 26 | 2 | REM-001 | MEDIUM | P2 | `chapters/11_TheOnion.md` | none | Line/scene edit | Voice-checklist re-pass, no TV-trope framing | PARTIAL — 2026-09-02 (flagged Ramsay clause removed; Darren beat cut outright per the plan's option (b), not re-anchored. One unflagged media comparison remains at `:11`, "trauma documentaries", left standing rather than widening the fix — stays open into Batch 7) |
 | 27 | 2 | REM-002 | HIGH | P2 | `chapters/12_TheStockPot.md` | none | Line edit (2 instances) | No bare stated-emotion construction remains | DONE — 2026-09-02 |
 | 28 | 2 | REM-003 | MEDIUM | P2 | `chapters/12_TheStockPot.md` | REM-002 (same file) | ChefTip-block trim | Word count roughly halved | DONE — 2026-09-02 |
 | 29 | 2 | REM-004 | CRITICAL | P2 | `chapters/13_HotTrays.md` | none | Line/scene edit | No "I realised" construction remains | DONE — 2026-09-02 |
