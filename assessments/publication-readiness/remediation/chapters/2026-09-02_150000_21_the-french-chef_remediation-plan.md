@@ -35,4 +35,4 @@
 - [x] Line 9 parses cleanly on a first read; content and density unchanged. — DONE, verified 2026-09-02.
 - [x] Dylan's identity confirmed (ledger B35); the chapter carries a minimal clarifying clause matching that confirmation. — DONE, verified 2026-09-02.
 - [x] Pork-belly sequence, service-crisis sequence, and closing line confirmed unchanged. — verified 2026-09-02.
-- [ ] `CLAUDE.md` §5 updated for Scotty, Raj, Dylan, and Rachael (not Carly — see ledger B36), with zero change to this chapter's prose.
+- [x] `CLAUDE.md` §5 updated for Scotty, Raj, Dylan, and Rachael (not Carly — see ledger B36), with zero change to this chapter's prose. — Scotty/Raj landed pre-Batch-3; the **Dylan row was still missing** and was added 2026-09-02, facts drawn only from this chapter's prose.

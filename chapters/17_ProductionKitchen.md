@@ -1,8 +1,8 @@
 # PRODUCTION KITCHEN
 
-New Zealand was behind me. Three years, and I'd come out the other side a different cook to the one who'd walked in.
+Three years at the vineyard, then the door shut behind me.
 
-Since then it's been kitchen after kitchen. Different cities, different countries, different people telling me I still wasn't good enough.
+Everything after it was somewhere else — the same job, learned over again in a room that did it differently.
 
 Australia was first.
 

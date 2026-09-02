@@ -26,7 +26,7 @@ remediation plan's REM-045).
 | Author's father | Machinist at a forestry mill; previously a cabinet maker/woodworker. Dish: curried sausages. Blog's "dental surgeon"/"apple torte" were disguises. | `CLAUDE.md` §5 Composites and disguises |
 | Author's mother | Dish: bbq chicken. Blog's "kangaroo curry" was a disguise. | `CLAUDE.md` §5 Composites and disguises |
 | Marco composite disclosure | Ruled 2026-09-02 (ledger B22): stays **undisclosed** on the page. No author's note; both Marco scenes (chs.08, 14) stand as written. | Ledger B22 |
-| Dylan (ch.21) | Same person as the food runner sent for Scotty's car — not a separate character. | Ledger B35 |
+| Dylan (ch.21) | Same person as the food runner sent for Scotty's car — not a separate character. Registry row added to `CLAUDE.md` §5 Melbourne Era, 2026-09-02. | Ledger B35 |
 | Carly / Rachael (ch.21) | **Rachael** is correct, not Carly. | Ledger B36 |
 | Jen's rank (ch.19) | **Commis.** Superseded `manuscript-structure_v1.3.0.md` said CDP — not maintained going forward. | Ledger B13 |
 
