@@ -8,7 +8,7 @@ intended_use:
   - reflective memory pieces
 profile_type: author_voice
 title: Author Context Profile — Professional Chef Narrative Voice
-version: 2.1.0
+version: 2.2.0
 ---
 
 # ✔️ AUTHOR CONTEXT PROFILE — THE LONG ROAD TO NOWHERE
@@ -112,8 +112,8 @@ Most pieces naturally follow one of these shapes (often combined):
 5. **Reflection**
    - What it actually taught about craft, presence, standards, responsibility.
 6. **ChefTip Block**
-   - Markdown heading: `### ChefTip Number X`  
-   - Short, quotable rule in **bold**, followed by explanation and expansion.
+   - Markdown heading: `## ChefTip #X`  
+   - Short, quotable rule in *italics*, followed by explanation and expansion.
 
 ### 5.2 "Kitchen Camaraderie Essay" Pattern
 
@@ -309,15 +309,15 @@ To immerse readers in the kitchen environment, use **ambient dialogue and sound*
 
 When writing a **ChefTip**:
 
+- The chapter's own title is the H1. The ChefTip is a block *inside* that chapter — not a second titled chapter, and not a separate section repeating the heading.
 - Heading format:
-  - `## ChefTip Number X — "Short Title In Quotes If Needed."`
-- Follow with:
-  - Narrative episode leading into the lesson.
-  - Separate `### ChefTip Number X` section that:
-    - States the rule in italics, e.g.  
+  - `## ChefTip #X` — the number alone. No appended short title.
+- The block runs:
+  - Narrative episode leading into the lesson, then the heading, then:
+    - The rule in italics, in double quotes, on its own line, e.g.  
       `*"If you didn't taste it, it isn't yours."*`
-    - Explains why the rule exists (craft, safety, consistency, responsibility).
-    - Expands to broader life/career implications.
+    - Why the rule exists (craft, safety, consistency, responsibility).
+    - Expansion to broader life/career implications.
 - ChefTips are always:
   - Practical.
   - Memorable.
@@ -397,7 +397,7 @@ When generating new content in this voice:
     - Does the piece avoid over-explaining or forcing epiphany?
     - Is there trust in the reader to feel what isn't said?
 
-If any of these answers are "no", adjust the piece until it feels like it belongs in the same universe as *Diary of an Apprentice* and the existing entries.
+If any of these answers are "no", adjust the piece until it feels like it belongs in the same universe as *The Long Road To Nowhere* and the existing entries.
 
 ---
 
@@ -417,4 +417,4 @@ The key is **intentionality**: know what the piece is trying to do, and let the 
 
 ---
 
-*End of Author Context Profile v2.1.0*
+*End of Author Context Profile v2.2.0*

@@ -20,6 +20,7 @@ remediation plan's REM-045).
 |---|---|---|
 | Ivian's gender | Male (confirmed by Bosco) | `CLAUDE.md` §5 Pre-Kitchen Life table |
 | Ivian's relationship to narrator | Celly, also wing-cleaning partner | `CLAUDE.md` §5 Pre-Kitchen Life table |
+| Ivian = the mate at `03:213` | Same person as the unnamed mate with the spare bunk and the TV, whose cell the narrator moved into. **Not** the classification celly at `03:207`, who is a different, unnamed man. | Ledger B39 |
 | Marco | Not a real person as portrayed — a composite. The grill-chef, cut-himself-and-kept-flipping-steaks event is real, but it's **Geoffrey Welham's** story, not the author's. Added for scene depth. | `CLAUDE.md` §5 Composites and disguises |
 | Geoffrey Welham | The vineyard **Chef**, carried on the page only as "Chef." Full name confirmed 2026-09-02 (ledger B21). | `CLAUDE.md` §5 Composites and disguises |
 | "Sam" (female sous), pre-memoir blog | Anonymised version. Real identity restored in the memoir: **Fat Sam**. | `CLAUDE.md` §5 Composites and disguises |
@@ -55,9 +56,12 @@ Full timeline anchors: `CLAUDE.md` §6.
 - **B30 (binding).** No career chapter foreshadows Jackson's death — no shadow,
   no dramatic irony, anywhere before §23 closes the ChefTip ladder. The
   Jackson material sits *after* §23, not inside it.
-- **ChefTip rule-line formatting.** All seven ChefTip chapters (09, 11, 12,
-  13, 15, 18, 20) state the quotable rule in *italics*, not bold. Resolved
-  2026-09-02 (REM-031 / `CLAUDE.md` §4).
+- **ChefTip block formatting.** All seven ChefTip chapters (09, 11, 12, 13,
+  15, 18, 20) use `## ChefTip #N`, then the quotable rule in *italics*, not
+  bold, inside double quotes. No appended short title, no repeated heading in
+  a separate section. Resolved 2026-09-02 (REM-031 / `CLAUDE.md` §4 / ledger
+  B40); `context/chef-writer-context-profile.md` v2.2.0 was aligned to this
+  practice rather than the reverse.
 - **PART ONE.** Needs no name of its own — the book title (*The Long Road To
   Nowhere*) plus named chapters is sufficient structure. Resolved 2026-09-02
   (ledger B37).

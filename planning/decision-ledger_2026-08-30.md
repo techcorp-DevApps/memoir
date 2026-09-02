@@ -526,6 +526,12 @@ is the real problem: its `description` still says **'Diary of an Apprentice'**, 
 old title, and the file mandates `### ChefTip Number X` while every chapter uses
 `## ChefTip #N`.
 
+> **Since resolved, in part — 2026-09-02.** The mojibake was repaired
+> (REM-028/REM-040) and the stale title is gone (REM-039; the `description` was
+> already correct, the surviving instance was at `:400`). The heading-form
+> mismatch belonged to **REM-031**, per the governing-files plan `:93` — not to
+> REM-039 — and is **now also resolved**, see B40 below.
+
 ### B11 · Numbering + `manuscript-structure` · **ANSWERED: A-variant** · 2026-08-30
 
 **RULING.** Align numbering and completed-chapter points into one clear sequence,
@@ -569,10 +575,17 @@ of the book gets a reserved block rather than exact numbers.
 
 ## TIER 4 — facts in dispute
 
-### B12 · Carly vs Rachael · OPEN
-`21_TheFrenchChef.md` says **Carly**, twice. `CLAUDE.md` § 5 says **Rachael**.
-**A** Carly — fix CLAUDE.md **(repo)** · **B** Rachael — fix the chapter ·
-**C** neither, she's renamed
+### B12 · Carly vs Rachael · CLOSED — superseded by B36, answer B
+
+`21_TheFrenchChef.md` said **Carly** (four times, not twice). `CLAUDE.md` § 5
+says **Rachael**. Options were: **A** Carly — fix CLAUDE.md · **B** Rachael —
+fix the chapter · **C** neither, she's renamed.
+
+**Answered B, at B36 below.** The evidence favoured the chapter; Bosco's call
+went the other way. All four chapter instances (lines 105, 107, 223, 235) were
+changed to Rachael; `CLAUDE.md` needed no change. `context/canon.md:29` carries
+it. This header sat at `OPEN` for a day after B36 answered it and was read as a
+live question by a later pass — refreshed 2026-09-02.
 
 ### B13 · Jen — commis or CDP · CLOSED — commis
 `CLAUDE.md` says commis. `manuscript-structure` says CDP (superseded, not
@@ -709,13 +722,46 @@ carried only that role. Bosco corrected it on read-back: **celly.** The line now
 reads "Ivian, my celly, was out in the yard." `CLAUDE.md` §5 and
 `context/canon.md` updated to carry both — celly, and wing-cleaning partner.
 
-**One thing this opens, for Bosco, not to be settled by anyone else.**
-`03_FreshForUnlock.md:207-213` already has two cellmates: the classification
-celly he did not want to share with, and "my mate" with the spare bunk and the
-TV, whose cell he moved into. Naming Ivian "my celly" in ch.04 implicitly makes
-him one of those two — almost certainly the mate. The register carries them as
-separate, unnamed people. If Ivian *is* the mate with the TV, ch.03 and the
-register should say so; if he is not, ch.04 needs a word that doesn't collide.
+**RESOLVED 2026-09-02 — same person.** `03_FreshForUnlock.md:207-213` carries
+two cellmates: the classification celly he refused to stay with, and "my mate"
+with the spare bunk and the TV, whose cell he moved into. Bosco confirms **Ivian
+is that mate.** So ch.04's "my celly" is consistent, not a collision, and the
+register now carries the link.
+
+**Still Bosco's, not settled here:** whether ch.03 should *name* Ivian at
+`:213` ("But my mate had a spare bunk in his cell") instead of leaving him
+unnamed until ch.04. Naming him there would introduce him at his true first
+appearance and make ch.04's one-clause introduction redundant. That is a prose
+change to an approved chapter, so it waits on Bosco.
+
+### B40 · ChefTip heading form (REM-031, second half) — RESOLVED: the profile changes
+
+REM-031's first half (italic, not bold) was settled earlier. Its second half —
+`context/chef-writer-context-profile.md` mandating `ChefTip Number X` while every
+chapter uses `## ChefTip #N` — was left open as a genuine either/or: change the
+profile to match the manuscript, or the manuscript to match the profile.
+
+**Bosco's ruling:** the profile changes.
+
+> *"If all chapters are already using a consistent format that is against that of
+> the profile then the reasonable route would be to update the profile to match
+> that in practice."*
+
+Verified before editing — all seven ChefTip chapters (09, 11, 12, 13, 15, 18, 20)
+already agree with each other: `## ChefTip #N`, blank line, then the rule in
+italics inside double quotes, no appended short title. The profile was the only
+dissenting document.
+
+Profile taken to **v2.2.0**. Three drifts closed, all of them describing a form no
+chapter ever used:
+
+1. §5.1 item 6 — `### ChefTip Number X` → `## ChefTip #X`.
+2. §5.1 item 6 — rule in **bold** → *italics*. This was REM-031's *first* half,
+   which had been recorded as fully executed on the strength of `CLAUDE.md`
+   alone; the profile still said bold.
+3. §10 — dropped the `## ChefTip Number X — "Short Title In Quotes If Needed."`
+   heading, and the separate `### ChefTip Number X` section that repeated it. In
+   practice the chapter title is the H1 and the ChefTip is one block inside it.
 
 ---
 
