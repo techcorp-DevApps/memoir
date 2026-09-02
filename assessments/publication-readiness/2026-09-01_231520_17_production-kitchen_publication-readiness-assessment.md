@@ -5,6 +5,20 @@
 - Intended manuscript position: PART THREE: TRANSITION / AUSTRALIA, § 11 — no ChefTip
 - Assessment date/time: 2026-09-01 23:15
 
+> **Note on `canon.md` citations in this file, added 2026-09-02:** an
+> automated PR reviewer (Codex) correctly flagged that `canon.md` does not
+> exist anywhere in this repository, so its citations below could not be
+> verified by anyone reading only `techcorp-DevApps/memoir`. This is accurate
+> and worth being explicit about: `canon.md` is a reference file bundled with
+> the **memoir-studio Claude Code skill** that produced this audit
+> (`references/canon.md` inside that skill's own directory, not this
+> project). It was read directly, for real, during this audit — the citations
+> reflect actual content, not invention — but it is external to this repo and
+> only accessible to a session with that skill installed. Treat every
+> `canon.md` citation below as traceable only via the skill, not via this
+> repository alone, until/unless Bosco decides to bring an equivalent
+> reference into the repo itself (e.g. under `context/`).
+
 # Publication Readiness Scorecard
 | Criterion | Rating /5 | Status | Key Finding |
 |---|---|---|---|

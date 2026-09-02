@@ -8,6 +8,19 @@ Road To Nowhere" (`TechCorp-DevApps/memoir`)
 (all four batches plus the mid-audit owner correction), and §17 of the
 manuscript-level synthesis
 (`2026-09-01_231520_complete-manuscript_publication-readiness-assessment.md`).
+
+> **Note on `canon.md` citations throughout this file, added 2026-09-02:** an
+> automated PR reviewer (Codex) correctly flagged that `canon.md` does not
+> exist anywhere in this repository, so its citations could not be verified
+> by anyone reading only `techcorp-DevApps/memoir`. This is accurate:
+> `canon.md` is a reference file bundled with the **memoir-studio Claude Code
+> skill** that produced this audit (`references/canon.md` inside that skill's
+> own directory, not this project). It was read directly, for real, during
+> this audit — the citations reflect actual content, not invention — but it
+> is external to this repo and only accessible to a session with that skill
+> installed. Every `canon.md` citation below is traceable only via the skill
+> until/unless Bosco decides to bring an equivalent reference into the repo
+> itself (e.g. under `context/`).
 Each item below was checked against the current text of the governing file it
 concerns before being recorded here.
 

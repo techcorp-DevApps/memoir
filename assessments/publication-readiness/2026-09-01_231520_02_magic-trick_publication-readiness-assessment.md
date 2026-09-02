@@ -5,6 +5,20 @@
 - Intended manuscript position: PART ONE (origin arc), §0.2a per `writing-plan_v1.4.0.md`
 - Assessment date/time: 2026-09-01 23:15:20
 
+> **Note on `canon.md` citations in this file, added 2026-09-02:** an
+> automated PR reviewer (Codex) correctly flagged that `canon.md` does not
+> exist anywhere in this repository, so its citations below could not be
+> verified by anyone reading only `techcorp-DevApps/memoir`. This is accurate
+> and worth being explicit about: `canon.md` is a reference file bundled with
+> the **memoir-studio Claude Code skill** that produced this audit
+> (`references/canon.md` inside that skill's own directory, not this
+> project). It was read directly, for real, during this audit — the citations
+> reflect actual content, not invention — but it is external to this repo and
+> only accessible to a session with that skill installed. Treat every
+> `canon.md` citation below as traceable only via the skill, not via this
+> repository alone, until/unless Bosco decides to bring an equivalent
+> reference into the repo itself (e.g. under `context/`).
+
 # Publication Readiness Scorecard
 | Criterion | Rating /5 | Status | Key Finding |
 |---|---|---|---|
@@ -20,7 +34,15 @@
 | Cross-Manuscript Continuity | 5 | Publication Ready | Matches `CLAUDE.md` § 5 and `canon.md` exactly: Mara, prison mate, Stacey's distant cousin, heroin addict on methadone, "the magic trick" |
 | Publication Standards | 5 | Publication Ready | No issues found; chapter is on the clean-encoding list |
 
-Overall readiness score: 5/5 average (one 4 on Exiting Bridge is a deliberate craft choice, not a deficiency), no critical defects.
+Overall readiness score: 4.9/5 average (10 criteria at 5, Exiting Bridge at 4 —
+(10×5 + 4) / 11 = 4.91, reported to one decimal as 4.9 per this audit's own
+convention). **Correction, 2026-09-02:** this line originally read "5/5
+average", which was an arithmetic error caught in review — flagged directly
+against the scorecard above by an automated PR reviewer (Codex), verified by
+recomputing the mean from the table's own numbers, and corrected here. The
+scorecard numbers themselves were never wrong; only this summary line was. The
+one 4 remains a deliberate craft choice, not a deficiency, and does not change
+the chapter's PUBLICATION READY status.
 
 # Context Profile Assessment
 The narrator's flat delivery of a genuinely dangerous moment (unsupervised first-time IV heroin use in custody) is handled with the profile's required restraint — no self-pity, no glamorisation, no moralising aftermath. Mara's quiet vigilance ("He'd grabbed my lunch. Kept an eye on me while the high worked through.") is the loyalty-under-misery beat the profile calls for, rendered through action rather than stated.

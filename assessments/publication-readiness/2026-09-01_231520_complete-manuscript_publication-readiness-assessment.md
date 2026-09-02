@@ -5,6 +5,21 @@ Synthesis of the chapter-by-chapter publication-readiness audit — this documen
 
 ---
 
+> **Note on `canon.md` citations throughout this file, added 2026-09-02:** an
+> automated PR reviewer (Codex) correctly flagged that `canon.md` does not
+> exist anywhere in this repository, so its citations could not be verified
+> by anyone reading only `techcorp-DevApps/memoir`. This is accurate:
+> `canon.md` is a reference file bundled with the **memoir-studio Claude Code
+> skill** that produced this audit (`references/canon.md` inside that skill's
+> own directory, not this project). It was read directly, for real, during
+> this audit — the citations reflect actual content, not invention — but it
+> is external to this repo and only accessible to a session with that skill
+> installed. Every `canon.md` citation below is traceable only via the skill
+> until/unless Bosco decides to bring an equivalent reference into the repo
+> itself (e.g. under `context/`).
+
+---
+
 ## 1. Scope of this audit
 
 **19 chapters run through the full publication-readiness rubric:** 01, 02, 03, 04, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21.
@@ -216,7 +231,7 @@ The two placeholder chapters (22, 23) and the unsplit 05/06 material are unfinis
 | Chapter # | Title | Final Status | One-line reason |
 |---|---|---|---|
 | 01 | CATCH YA ON THE FLIPSIDE | PUBLICATION READY | 5/5 across every criterion; textbook execution of the identity blend and restrained close |
-| 02 | MAGIC TRICK | PUBLICATION READY | 5/5 across every criterion; causal, specific, unsentimental |
+| 02 | MAGIC TRICK | PUBLICATION READY | 4.9/5 average (one deliberate 4 on Exiting Bridge, corrected 2026-09-02 — see ch.02 file); causal, specific, unsentimental |
 | 03 | FRESH FOR UNLOCK | PUBLICATION READY — MINOR EDIT | Strong throughout; held at minor-edit only by the known, unresolved dual-H1 structural question (ledger B15) |
 | 04 | FOUR FLIGHTS | PUBLICATION READY — MINOR EDIT | Strong, tense chapter; held at minor-edit by the newly identified Ivian introduction gap and the 05/06 exit-side structural gap |
 | 07 | CHICKEN AND MASH | PUBLICATION READY — MINOR EDIT | Strong scene and voice; held by inherited encoding damage and a B30 foreshadowing tension needing Bosco's read |

@@ -13,6 +13,21 @@ rubric — see the stub records in the matrix).
 
 ---
 
+> **Note on `canon.md` citations throughout this file, added 2026-09-02:** an
+> automated PR reviewer (Codex) correctly flagged that `canon.md` does not
+> exist anywhere in this repository, so its citations could not be verified
+> by anyone reading only `techcorp-DevApps/memoir`. This is accurate:
+> `canon.md` is a reference file bundled with the **memoir-studio Claude Code
+> skill** that produced this audit (`references/canon.md` inside that skill's
+> own directory, not this project). It was read directly, for real, during
+> this audit — the citations reflect actual content, not invention — but it
+> is external to this repo and only accessible to a session with that skill
+> installed. Every `canon.md` citation below is traceable only via the skill
+> until/unless Bosco decides to bring an equivalent reference into the repo
+> itself (e.g. under `context/`).
+
+---
+
 ## Batch 1 — chapters 01–04 (2026-09-01_231520)
 
 ### People established
@@ -21,7 +36,9 @@ rubric — see the stub records in the matrix).
 - **Si** — narrator's best mate. Present in courtroom gallery, ch.01 only so far.
 - **Narrator's brother** — unnamed, aged 15 in ch.01 and still 15 in ch.04 (~3 months later — no birthday crossed, consistent). Wagged school for both the sentencing and the parole board.
 - **Mara** — prison mate, Stacey's distant cousin, heroin addict on methadone, orchestrates "the magic trick" (methadone diversion) — `02_MagicTrick.md`. Matches `canon.md` exactly.
-- **Unnamed cellmate #1** (classification-wing station) — Māori, early twenties, burglary charge — `02_MagicTrick.md`.
+- **Unnamed cellmate #1** (police-station day room, NOT the classification
+  wing — corrected 2026-09-02, see note near the end of this file) — Māori,
+  early twenties, burglary charge — `02_MagicTrick.md`.
 - **Classification-wing cellmate #2** — unnamed, late twenties, first-time drunk-driving charge, terrified — `03_FreshForUnlock.md`.
 - **Perko, Waitane** — named minor characters, celled together, traded for cigarettes — `03_FreshForUnlock.md`.
 - **Unnamed Black Power prospect** (~19) — punched narrator over a noise complaint, lost the resulting fight — `03_FreshForUnlock.md`.
@@ -362,3 +379,25 @@ statement.
 
 The manuscript read is complete as scoped. The next phase (manuscript-level
 assessment) can proceed from this register without re-reading any chapter.
+
+## Post-audit correction — 2026-09-02, PR review
+
+An automated PR reviewer (Codex) flagged the "Unnamed cellmate #1" entry above
+(Batch 1, People established) as mislocated. Verified directly against source
+before correcting:
+
+- `02_MagicTrick.md:6` — "The facility was at capacity, so they held me at the
+  local police station instead." The narrator is held in a police-station day
+  room (`:12`) for the two-week span of the whole chapter, not the prison.
+- `03_FreshForUnlock.md:5` — "If it's your first sentence, you go to the
+  classification wing." The classification wing is a distinct place the
+  narrator only reaches at the start of chapter 03.
+
+The original label, "(classification-wing station)", conflated the two —
+attaching ch.02's police-station location to the classification-wing term
+that only applies from ch.03 onward, risking confusion with the separate,
+correctly-labelled "Classification-wing cellmate #2" entry from ch.03. This
+was Batch 1's error, not a manuscript defect. Corrected in place above to
+"(police-station day room)". No other register entry, individual chapter
+assessment, or synthesis document referenced the mislabelled term — checked
+directly rather than assumed.

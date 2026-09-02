@@ -5,6 +5,20 @@
 - Intended manuscript position: PART ONE (origin arc), §0.2c per `writing-plan_v1.4.0.md`
 - Assessment date/time: 2026-09-01 23:15:20
 
+> **Note on `canon.md` citations in this file, added 2026-09-02:** an
+> automated PR reviewer (Codex) correctly flagged that `canon.md` does not
+> exist anywhere in this repository, so its citations below could not be
+> verified by anyone reading only `techcorp-DevApps/memoir`. This is accurate
+> and worth being explicit about: `canon.md` is a reference file bundled with
+> the **memoir-studio Claude Code skill** that produced this audit
+> (`references/canon.md` inside that skill's own directory, not this
+> project). It was read directly, for real, during this audit — the citations
+> reflect actual content, not invention — but it is external to this repo and
+> only accessible to a session with that skill installed. Treat every
+> `canon.md` citation below as traceable only via the skill, not via this
+> repository alone, until/unless Bosco decides to bring an equivalent
+> reference into the repo itself (e.g. under `context/`).
+
 # Publication Readiness Scorecard
 | Criterion | Rating /5 | Status | Key Finding |
 |---|---|---|---|
@@ -18,7 +32,7 @@
 | Entry Bridge | 5 | Publication Ready | Opens directly on the pool-table confrontation ch.03 set up — no redundant recap |
 | Internal Continuity | 4 | Publication Ready — Minor Note | Ivian appears twice (a passing name-drop, "Ivian was out in the yard," and later "Ivian kept close as we went to dinner") with no introduction anywhere in this chapter or the three preceding it — see Continuity Assessment |
 | Cross-Manuscript Continuity | 5 | Publication Ready | Jay, Joel, and the parole-board denial all match `canon.md` § Sequence and § People exactly; "between the ages of thirteen and nineteen" matches the canon age-at-sentencing fact |
-| Publication Standards | 5 | Publication Ready | No new copy-editing issues; a known content omission from a prior review is noted below, not newly discovered |
+| Publication Standards | 4 | Publication Ready — Minor Note | **Corrected 2026-09-02:** two copy-editing errors were missed on first pass — "phase/phased" for "faze/fazed" at lines 45 and 261, caught in review. See Publication Standards Assessment below |
 
 Overall readiness score: high average (4.8), no critical defect. The Ivian-introduction gap is a genuine developmental finding but is minor (a single unestablished name, not a factual contradiction) and does not cap the chapter.
 
@@ -61,7 +75,14 @@ New characters/facts for the register: Joel (near-seven-foot, Road Knights-affil
 # Publication Standards Assessment
 **Developmental:** New finding — Ivian introduced without any prior establishing beat (see Continuity Assessment). Recommend either a brief introductory beat for Ivian somewhere in this chapter, or resolving it when the 05/06 material is split in (per ledger B11/B14), since that draft material may already contain Ivian's introduction.
 **Line-editing:** None found.
-**Copy-editing:** None found. Chapter is on the clean-encoding list (01–04).
+**Copy-editing:** **Correction, 2026-09-02** — this originally read "None
+found", which missed two real errors caught in review by an automated PR
+reviewer (Codex) and confirmed directly against the source file:
+`chapters/04_FourFlights.md:45` ("Still didn't **phase** me.") and `:261` ("I
+wasn't **phased** by it.") both use "phase/phased" where the intended word is
+"faze/fazed" — a common homophone confusion, not a voice choice. Two
+copy-editing errors, not zero. Chapter remains on the clean-encoding list
+(01–04) — this is a spelling defect, not encoding damage.
 **Proofreading:** None found. Minor factual note (not an error): the text says "Six of them, I think. Three women, three men" — the "I think" hedge is intentional first-person uncertainty, consistent with memoir voice, not a copy error.
 
 # Governing-File Reconciliation Findings
@@ -77,6 +98,7 @@ None.
 ## Recommended improvement
 - Introduce Ivian with a brief establishing beat before or at first use, or resolve via the planned 05/06 split (ledger B11/B14) if that draft material covers it.
 - Flag to Bosco whether the missing "Same board. Same day. Different histories." closing line (noted in the ledger's "Also on the list" section) was a deliberate cut.
+- **Added 2026-09-02:** correct "phase" to "faze" at `chapters/04_FourFlights.md:45` and "phased" to "fazed" at `:261` — both are the wrong word, not house spelling or voice. See the Publication Standards correction above.
 
 ## Optional editorial refinement
 None.
