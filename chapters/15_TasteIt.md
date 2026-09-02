@@ -1,4 +1,4 @@
-# TASTE IT
+# IF YOU DIDN'T TASTE IT, IT ISN'T YOURS
 
 There's a particular kind of shame that only happens in a kitchen.
 
@@ -12,17 +12,17 @@ It was a midweek dinner service, one of those nights that pretends to be gentle 
 
 By seven-thirty, the printer was having a breakdown.
 
-Tickets spitting out in clumps. Starters, mains, modifiers, allergies, someone wanting a "chef's choice vegetarian" even though there was already a vegetarian main on the menuâ€”but apparently this one needed a custom identity arc.
+Tickets spitting out in clumps. Starters, mains, modifiers, allergies, someone wanting a "chef's choice vegetarian" even though there was already a vegetarian main on the menu—but apparently this one needed a custom identity arc.
 
-I'd been bumped up to work a little corner of the hot line. For an apprentice, that's not a promotionâ€”it's a test. "You can either swim or we'll let you sink in front of everyone and see if you crawl out on your own."
+I'd been bumped up to work a little corner of the hot line. For an apprentice, that's not a promotion—it's a test. "You can either swim or we'll let you sink in front of everyone and see if you crawl out on your own."
 
 My list was simple on paper: warm the garnish, bring the jus back to life, keep plates looking like they came from the same kitchen and not a community fundraiser.
 
-We had a red wine jus on that weekâ€”veal stock base, reduced down, glossy, expensive, the sort of thing that makes people think the dish is "worth it" when they see the price. The base lived in a deep pan on the back, ticking over gently, and for service we'd pull off what we needed into smaller pans, reduce, mount with butter, adjust, send.
+We had a red wine jus on that week—veal stock base, reduced down, glossy, expensive, the sort of thing that makes people think the dish is "worth it" when they see the price. The base lived in a deep pan on the back, ticking over gently, and for service we'd pull off what we needed into smaller pans, reduce, mount with butter, adjust, send.
 
 Tonight, one of those little pans was mine.
 
-I took a ladle of base, dropped it into a sautÃ© pan, set it over the flame. Let it reduce while I threw a garnish into another pan, listened to the pass call tickets, tried to see ten minutes into the future like everyone else on the line.
+I took a ladle of base, dropped it into a sauté pan, set it over the flame. Let it reduce while I threw a garnish into another pan, listened to the pass call tickets, tried to see ten minutes into the future like everyone else on the line.
 
 It looked right.
 
@@ -72,7 +72,7 @@ Then he turned to the rest of the section.
 
 "Taste this," he said.
 
-Not the whole brigadeâ€”just the people around me. Grill, garnish, the guy on fish. Quick, efficient, one spoon each, tap-tap into the pan, taste, move on. No speeches.
+Not the whole brigade—just the people around me. Grill, garnish, the guy on fish. Quick, efficient, one spoon each, tap-tap into the pan, taste, move on. No speeches.
 
 Every single one of them pulled the same face.
 
@@ -86,13 +86,13 @@ Chef didn't drag it out. He tipped the contents of my pan into the bin, gave the
 
 "You're back on garnish. I'll finish the jus," he said.
 
-No screaming, no big sceneâ€”which somehow felt worse. It meant I wasn't important enough to yell at, just wrong enough to be removed.
+No screaming, no big scene—which somehow felt worse. It meant I wasn't important enough to yell at, just wrong enough to be removed.
 
 Service rolled on. Plates went up. The line stayed intact.
 
 The only thing that really took damage was my ego and a four-plate run on table ten's first impression.
 
-It wasn't until after serviceâ€”when the grills were off and the dining room had finally spat everyone back out into the nightâ€”that he circled back.
+It wasn't until after service—when the grills were off and the dining room had finally spat everyone back out into the night—that he circled back.
 
 He pulled a small pot, ladled some of the same base in, set it over a low flame, and nodded at me.
 
@@ -110,7 +110,7 @@ When it looked right, he shoved the spoon pot towards me.
 
 This time I tasted it before he asked.
 
-And I actually thought about itâ€”the texture, the balance, the way it sat. Not just "is it salty enough," but *does this say what it's supposed to say?*
+And I actually thought about it—the texture, the balance, the way it sat. Not just "is it salty enough," but *does this say what it's supposed to say?*
 
 It was good.
 
@@ -132,9 +132,9 @@ It was the part of my brain that quietly rewired itself to never let anything le
 
 If your hands have touched it, your name is on it. Full stop.
 
-Sauces, purÃ©es, dressings, oils, marinades, the last second of seasoning on a steakâ€”if you haven't tasted it in the state it's going out, you don't know what you're serving.
+Sauces, purées, dressings, oils, marinades, the last second of seasoning on a steak—if you haven't tasted it in the state it's going out, you don't know what you're serving.
 
-Not what it was. What it is nowâ€”after reduction, after being held on the corner of the stove, after the fifteenth "just one more minute" while you juggle three other tickets.
+Not what it was. What it is now—after reduction, after being held on the corner of the stove, after the fifteenth "just one more minute" while you juggle three other tickets.
 
 Flavours move. Salt creeps up. Acidity dulls. Heat digs out bitterness you didn't know was hiding.
 
@@ -142,7 +142,7 @@ Tasting isn't insecurity.
 
 It's responsibility.
 
-Every spoon is you saying: *If this comes back, it comes back with my fingerprints on itâ€”and I'm not finding out what's wrong from a waiter.*
+Every spoon is you saying: *If this comes back, it comes back with my fingerprints on it—and I'm not finding out what's wrong from a waiter.*
 
 And yeah, when you get it wrong, it stings.
 

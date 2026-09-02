@@ -22,7 +22,7 @@ I came back in old jeans and a ratty t-shirt.
 
 The whole kitchen went quiet.
 
-Then someone laughed â€” not at me, just in surprise â€” and suddenly they were all talking at once. Grinning. Elbowing each other. The mood flipped so fast it was almost disorienting.
+Then someone laughed — not at me, just in surprise — and suddenly they were all talking at once. Grinning. Elbowing each other. The mood flipped so fast it was almost disorienting.
 
 Sonny was already breaking down the six-top burner. I climbed up under the range hood, started pulling filters, passed them down to him.
 
@@ -44,7 +44,7 @@ Chefs who'd barked about standards from the pass but never touched a mop. Sous c
 
 You could feel it the moment you walked in. The resentment. The hollowness. Everyone doing the minimum because why the fuck would you give more than someone who won't give anything themselves?
 
-That's what coasting looks like. Not in the food â€” in the air.
+That's what coasting looks like. Not in the food — in the air.
 
 ---
 
@@ -52,7 +52,7 @@ There's a phrase I heard somewhere along the way. Might've been my mother. Might
 
 ## ChefTip #5
 
-**"What's good for the goose is good for the gander."**
+*"What's good for the goose is good for the gander."*
 
 Same rules. Same standard. Top to bottom.
 
@@ -68,13 +68,13 @@ You can hold a title and still be part of the brigade. You can run a kitchen and
 
 The standard you set is the standard you live. No exceptions.
 
-The moment you start exempting yourself â€” the moment you decide the title means you've earned the right to stop doing the hard shit â€” you lose the room.
+The moment you start exempting yourself — the moment you decide the title means you've earned the right to stop doing the hard shit — you lose the room.
 
 Maybe not immediately. Maybe not loudly.
 
 But you lose it.
 
-Because your team is watching. Not for your words â€” for your actions. They're clocking every moment you could've pulled rank and didn't. Every time you did the shit job alongside them instead of delegating it and disappearing.
+Because your team is watching. Not for your words — for your actions. They're clocking every moment you could've pulled rank and didn't. Every time you did the shit job alongside them instead of delegating it and disappearing.
 
 That's how trust gets built. Plate by plate. Shift by shift. One scrubbing brush at a time.
 
@@ -82,13 +82,13 @@ Don't forget where you came from.
 
 Don't forget you're still one of them.
 
-And never â€” not once â€” ask for something you're not willing to give yourself.
+And never — not once — ask for something you're not willing to give yourself.
 
 ---
 
 The bistro ran itself by the end.
 
-That's the strange thing about building something properly â€” eventually it doesn't need you anymore. The team I'd trained could handle whatever walked through the door. The standards were theirs now, not just mine.
+That's the strange thing about building something properly — eventually it doesn't need you anymore. The team I'd trained could handle whatever walked through the door. The standards were theirs now, not just mine.
 
 Which meant it was time to go.
 

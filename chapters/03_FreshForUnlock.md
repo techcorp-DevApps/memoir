@@ -182,7 +182,7 @@ Problem solved either way.
 
 ---
 
-# GENERAL POPULATION
+## GENERAL POPULATION
 
 ---
 

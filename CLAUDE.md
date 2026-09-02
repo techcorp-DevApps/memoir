@@ -3,7 +3,8 @@
 > **Retitled 30 August 2026.** Title lineage: untitled piece → blog *Diary of an
 > Apprentice* → memoir *Diary of a Chef* → **The Long Road To Nowhere**. Earlier
 > titles in `context/` are correct for their era, not errors.
-> **PART ONE needs a new name** — the book has taken its old one.
+> **PART ONE needs no name of its own** (ruled 2026-09-02) — the book title plus
+> named chapters is sufficient structure.
 
 > **Project**: Culinary memoir chronicling a professional kitchen journey across New Zealand and Australia
 > **Author**: Bosco
@@ -168,7 +169,7 @@ ChefTips are numbered by **cost** — higher number = cheaper lesson.
 3. **Escalation** — The error, near-miss, or stressful moment
 4. **Humiliation/Realisation** — Internal monologue, shame, public calling-out
 5. **Reflection** — What it taught about craft, presence, standards
-6. **ChefTip Block** — `## ChefTip #X` with bold quotable rule and expansion
+6. **ChefTip Block** — `## ChefTip #X` with the quotable rule in *italics* and expansion
 
 ---
 
@@ -202,6 +203,8 @@ ChefTips are numbered by **cost** — higher number = cheaper lesson.
 | **Rachael** | CDP (Italian) | Joe's missus. Assisted plating. |
 | **Racina (Adam)** | Apprentice | Nineteen but wise beyond years. Asked about running service. |
 | **Dave** | French Chef | TBD — friendship arc, prank war, hiding timers at unreachable heights |
+| **Scotty** | FOH Manager | Hospitality veteran. Took charge during Joe's medical emergency, handed off his car keys, later returned with beers for the brigade. |
+| **Raj** | Dishie | Nepalese. Silent. Began anticipating the narrator's calls after the crisis. |
 
 ### Pre-Kitchen Life
 
@@ -213,6 +216,7 @@ ChefTips are numbered by **cost** — higher number = cheaper lesson.
 | **Glen** | Culinary Tutor | Wool cardigan. Handled the confrontation. |
 | **Grant** | First Head Chef | Auckland. High-functioning alcoholic. Gave heads up about sale. |
 | **Sarah/Sharon** | Parole Officer | Young, by the book. Dying pot plant. Golden retriever photo. "You're starting a cooking course on Monday." |
+| **Ivian** | Wing cleaner partner | Male (confirmed). Mopping, bins, extra unlock, extra milk. |
 
 ### Family
 
@@ -233,7 +237,7 @@ uses is the author's call — do not normalise one into the other.
 | Character | Note |
 |---|---|
 | **Marco** | **Not a real person as portrayed — the only one in the manuscript.** The event is real (the grill chef who cut himself and kept flipping steaks) but it is **Geoffrey's** story, not the author's. Added for scene depth. Ruled 2026-08-30. |
-| **Geoffrey** | The vineyard **Chef**. Carried in this register only as "Chef". Spelling unconfirmed — `Geoffery` in `interviews/return-to-yulara/transcript.md`. |
+| **Geoffrey Welham** | The vineyard **Chef**. Carried in this register only as "Chef". |
 | **"Sam" (female sous)** | Appears in the pre-memoir blog source as a woman. That was the **anonymised** version. The memoir restores the real identity, **Fat Sam**. Ruled 2026-08-30. |
 | **The author's father** | **Machinist at a forestry mill; previously a cabinet maker / woodworker.** Dish: curried sausages. The blog's "dental surgeon" and "apple torte" were disguises. Has no row above — needs one. |
 | **The author's mother** | Dish: **bbq chicken**. The blog's "kangaroo curry" was a disguise. |
@@ -255,6 +259,7 @@ uses is the author's call — do not normalise one into the other.
 | Age at CDC promotion | 24 years old |
 | Bistro covers | 150 across double sittings |
 | Bistro staff | Started 15, ended 10 |
+| Fine-dining covers (resort) | Fifty covers on a big night — `18_TheBaseline.md:7` |
 | School leaving age | 13 |
 | Jackson's age at death | 7 |
 | Cause of death | Severe asthma attack, sudden, the morning after |

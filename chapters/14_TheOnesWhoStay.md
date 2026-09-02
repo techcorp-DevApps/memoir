@@ -2,7 +2,7 @@
 
 Nobody warns you about the quiet parts.
 
-The industry loves to talk about the noiseâ€”the screaming, the heat, the chaos, the adrenaline. That's the sexy stuff. That's what makes it onto Netflix and into the fantasies of people who think "chef" means white coat and tasting spoons and someone filming you being dramatic about a soufflÃ©.
+The industry loves to talk about the noise—the screaming, the heat, the chaos, the adrenaline. That's the sexy stuff. That's what makes it onto Netflix and into the fantasies of people who think "chef" means white coat and tasting spoons and someone filming you being dramatic about a soufflé.
 
 But no one tells you about 11:47pm on a Tuesday, sitting on an upturned milk crate in the alley, knees screaming, feet numb, watching steam rise off your own forearms because you've been standing over heat so long your body doesn't know how to cool down anymore.
 
@@ -12,17 +12,17 @@ That's the part that decides who stays.
 
 The first time I properly understood kitchen humour, I thought I was witnessing a crime.
 
-It was maybe three months in. I'd graduated from "liability" to "tolerable"â€”which, in kitchen terms, is basically a promotion. Still at the bottom of the ladder, but at least no one actively flinched when I walked past the pass.
+It was maybe three months in. I'd graduated from "liability" to "tolerable"—which, in kitchen terms, is basically a promotion. Still at the bottom of the ladder, but at least no one actively flinched when I walked past the pass.
 
 We'd had a brutal Friday. One of those nights where the rail never emptied and every docket seemed to come with a modification designed by someone who hated joy. Dairy-free but with butter. Medium rare but not pink. "Chef's choice" followed by a list of seventeen things they didn't want.
 
-Somewhere around the two-hundredth cover, one of the senior chefsâ€”a guy named Marco who'd been on grill for six years and had forearms like industrial cablesâ€”cut himself.
+Somewhere around the two-hundredth cover, one of the senior chefs—a guy named Marco who'd been on grill for six years and had forearms like industrial cables—cut himself.
 
 Not badly. Just a slip. The kind of nick you'd bandage at home and complain about for three days. In the kitchen, he didn't even look down. Just grabbed a blue bandage from the kit, wrapped it tight with his teeth holding one end, and kept flipping steaks.
 
 Blood was already seeping through by the time plates went up.
 
-And the first thingâ€”the first thingâ€”anyone said was the guy on fish, without looking up from his pan:
+And the first thing—the first thing—anyone said was the guy on fish, without looking up from his pan:
 
 "Finally. Some actual fucking flavour from your section."
 
@@ -50,7 +50,7 @@ They won't tell you they're helping. They'll just be there, beside you, hands mo
 
 ---
 
-There was one afternoonâ€”maybe eight months inâ€”when Sam showed me who he actually was.
+There was one afternoon—maybe eight months in—when Sam showed me who he actually was.
 
 He had this way of appearing behind you at the exact moment you were about to fuck something up. Not after. During. Like he had a sixth sense for incompetence.
 
@@ -62,7 +62,7 @@ I spent the first few months convinced he hated me. That he'd been assigned to w
 
 Then one night, I came in wrecked.
 
-Not physicallyâ€”though that too. I'd had one of those days where everything outside the kitchen was falling apart. Relationship stuff. The kind of thing you're supposed to leave at the door but can't always manage to.
+Not physically—though that too. I'd had one of those days where everything outside the kitchen was falling apart. Relationship stuff. The kind of thing you're supposed to leave at the door but can't always manage to.
 
 I thought I was hiding it. I wasn't.
 
@@ -118,7 +118,7 @@ The hours are inhumane. The pay is laughable. The toll on your body is permanent
 
 And yet.
 
-There was a night last winterâ€”one of those marathon services where everything went right and everything hurt and by the end we were so tired we could barely speak.
+There was a night last winter—one of those marathon services where everything went right and everything hurt and by the end we were so tired we could barely speak.
 
 I was wiping down my station. The kitchen was finally quiet. Chef was doing his walk-through, the way he always does, checking everything's locked down before we go.
 
@@ -132,7 +132,7 @@ That was it.
 
 He walked off. I finished wiping down. We locked up. I went home and slept like the dead.
 
-But that sentenceâ€”six words, no fanfare, probably already forgotten by the time he said themâ€”that's the thing I carry.
+But that sentence—six words, no fanfare, probably already forgotten by the time he said them—that's the thing I carry.
 
 Not because it was praise.
 

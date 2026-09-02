@@ -421,12 +421,57 @@ and the answer arrives later.
 full. If it stays, a real named public figure is quoted in a published memoir —
 attribution and permissions are a publisher question.
 
+### B37 · PART ONE naming (REM-037) — RESOLVED: no part name needed
+
+Raised when the book was retitled *The Long Road To Nowhere*, taking PART ONE's
+old working name with it. Bosco's ruling: no additional naming is needed — the
+book title plus named chapters is sufficient structure. `CLAUDE.md`'s header
+note and `planning/writing-plan_v1.4.0.md` §PART ONE updated to reflect this;
+neither carries an open "needs a name" flag any longer.
+
+### B38 · Bring a canon.md-equivalent into the repo (REM-036) — RESOLVED: yes
+
+The original audit cited a `references/canon.md` bundled with the memoir-studio
+skill — external to this repository, unreachable by a session working here
+alone. Bosco's ruling: bring an equivalent in. Added `context/canon.md`,
+mirroring the settled facts already in `CLAUDE.md` §5/§6 plus the structural
+rulings and open items a canon-check needs, with `CLAUDE.md` explicitly kept
+as the source of truth if the two ever disagree. `context/SOURCES.md`'s
+reading order updated to include it.
+
+### B35 · Dylan identity (REM-016) — RESOLVED: same person, the food runner
+
+`21_TheFrenchChef.md:157` named an unidentified food runner sent for Scotty's
+car; line 189 later named "Dylan" with no introduction. Bosco confirmed: same
+person. Line 157 now reads "...handed them to the closest food runner — Dylan."
+
+### B36 · Carly/Rachael (REM-032) — RESOLVED: Rachael is correct
+
+Ch.21's prose used "Carly" four times, consistently; `CLAUDE.md` said "Rachael."
+The evidence favoured the chapter, but Bosco's direct call went the other way —
+Rachael is correct. All four chapter instances (lines 105, 107, 223, 235)
+updated to Rachael; `CLAUDE.md`'s existing "Rachael" row needed no change.
+
 **B32 · Losses from blog → v1.2.0 in §20.** Two lines were cut that were stronger
 in the earlier version. Chef's close went from *"You caught it before I had to.
 That's the job."* to *"alright lets go."*, and the chorus lost *"NO, THE OTHER
 PAN—USE YOUR FUCKING EYES"* for *"IN THE OPEN YOUR FUCKEN EYES SECTION"*. The
 second is arguably more authentic pass-voice; the first reads as a loss. Restore,
 or let v1.2.0 stand?
+
+### B34 · ch.07 closing paragraph vs. B30 — ANSWERED: does not violate, no edit
+
+Flagged by the 2026-09-02 remediation pass (REM-021): "I didn't know yet what
+that would cost... The birthdays and anniversaries and ordinary Tuesday nights
+that would slip past..." read close enough to B30's no-foreshadowing line to
+need Bosco's own read against it directly, since only he could know whether it
+was written with Jackson in mind.
+
+Bosco's ruling: it does not breach B30. Read as intended, the paragraph sets
+up the realisation of a life given up unknowingly for the career, and the
+weight/reason for eventually leaving the industry — a payoff that belongs to
+chapters still to come, not a shadow cast specifically over Jackson. No edit
+made to `chapters/07_Chicken&Mash.md`.
 
 ---
 
@@ -529,10 +574,11 @@ of the book gets a reserved block rather than exact numbers.
 **A** Carly — fix CLAUDE.md **(repo)** · **B** Rachael — fix the chapter ·
 **C** neither, she's renamed
 
-### B13 · Jen — commis or CDP · OPEN
-`CLAUDE.md` says commis. `manuscript-structure` says CDP. `19_CoastOrClimb.md`
-gives no rank.
-**A** commis · **B** CDP · **C** commis then CDP — she progressed
+### B13 · Jen — commis or CDP · CLOSED — commis
+`CLAUDE.md` says commis. `manuscript-structure` says CDP (superseded, not
+maintained going forward). `19_CoastOrClimb.md` gives no rank. Bosco confirms:
+commis. `CLAUDE.md` already stated this correctly; no chapter edit — her rank
+stays unstated on the page, which was never a contradiction, just an absence.
 
 ### B14 · `drafts/TheEarlyDays.md` · OPEN
 First third is pre-correction (age **23**, visits **behind glass**) and superseded.
@@ -540,10 +586,10 @@ The rest is the only copy of the parole officer, culinary school and Grant's kit
 **A** split into 05/06, retire the stale third · **B** supersede whole, rewrite from
 interview · **C** archive, leave the gaps
 
-### B15 · `03_FreshForUnlock.md` — two H1s · OPEN
-Carries `# FRESH FOR UNLOCK` and `# GENERAL POPULATION`. Every other chapter has one.
-**A** one chapter — drop the second to `##` · **B** two chapters — GENERAL POPULATION
-becomes **05**, closing one gap
+### B15 · `03_FreshForUnlock.md` — two H1s · CLOSED — Option A
+Carried `# FRESH FOR UNLOCK` and `# GENERAL POPULATION`. Every other chapter has one.
+Resolved: one chapter — the second heading dropped to `##`. Ch.03 stays a single
+chapter; the 05/06 gap is unaffected by this decision.
 
 ---
 
@@ -645,22 +691,26 @@ this ledger, the transcript addendum, plus the uncommitted `22_Dave.md` /
 **A** push it all · **B** push nothing, you commit by hand · **C** push a
 specified subset
 
-### B21 · `Geoffery` or `Geoffrey` · OPEN
+### B21 · `Geoffery` or `Geoffrey` · CLOSED — Geoffrey Welham
 Spelled `Geoffery` in the transcript, `Geoffrey` by Bosco this session. One letter,
-goes in print.
+goes in print. Resolved with full name: **Geoffrey Welham**. `CLAUDE.md` § 5
+updated; "spelling unconfirmed" hedge removed.
 
-### B22 · Disclose the composite · OPEN
-Author's note, or leave it. Nothing else depends on it.
+### B22 · Disclose the composite · CLOSED — leave undisclosed
+Author's note, or leave it. Bosco's ruling: leave it. Composite characters are
+standard, legitimate memoir-craft — no author's note, no edit to `08_EarningTheRight.md`
+or `14_TheOnesWhoStay.md`.
 
 ---
 
 ## Also on the list, not blocking
 
-- `chapters/09_SetUpYoutStation.md` — filename typo, `Yout` → `Your`
 - `17_ProductionKitchen.md` names the narrator **Chris** — the only place in 21
   chapters. Sits under B4/B18
-- `04_FourFlights.md` drops the *"Same board. Same day. Different histories."*
-  close its own review said to keep. Deliberate?
+- ~~`04_FourFlights.md` drops the *"Same board. Same day. Different histories."*
+  close its own review said to keep. Deliberate?~~ **RESOLVED 2026-09-02**: restored
+  as the chapter's final line, after "She was betting on me before there was
+  anything to bet on."
 - `CLAUDE.md`, `README.md`, `context/project-memory.md` — stale word counts, version
   numbers, phantom directory tree, old repo URL. Mechanical, once B10/B11 land
 - `project-memory.md` exists at repo root **and** at `context/`. One is authoritative

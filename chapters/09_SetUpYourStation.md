@@ -10,13 +10,13 @@ This one won't cost you anything except maybe a bit of pride when you realise yo
 
 ## ChefTip #11
 
-*"Put a damp tea towel or cloth under a chopping boardâ€”it will stop it sliding around."*
+*"Put a damp tea towel or cloth under a chopping board—it will stop it sliding around."*
 
 This was the first thing I ever learnt in a commercial kitchen. (Directly followed by being shown that "cunt" is a way to express fondness and admiration.) How to set up a chopping board. Simple. So, so simple.
 
 This is quite a significant point of my life as a Shit Kicker. The first ever minute I was in a kitchen, the Chef asked me to set up a board and when I pulled it onto the bench he said:
 
-"Chuck a tea towel under itâ€”it won't slide."
+"Chuck a tea towel under it—it won't slide."
 
 Since then, I have never set up a chopping board differently. Use it, cherish it, love it. It's a fucking great tip.
 

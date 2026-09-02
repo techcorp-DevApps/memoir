@@ -6,7 +6,7 @@ Perched on a hill. Rows of green vines. Sprawling garden. Sky bright blue, not a
 
 The kitchen was immaculate.
 
-Highly organised. Clean in a way that only professional kitchens are. And the smellâ€”rich, deep, almost sweet. Beef stock simmering somewhere in the back.
+Highly organised. Clean in a way that only professional kitchens are. And the smell—rich, deep, almost sweet. Beef stock simmering somewhere in the back.
 
 I was met by the sous chef.
 
@@ -36,7 +36,7 @@ I didn't know the layout. Didn't know the systems. Didn't know where anything wa
 
 Fat Sam asks as he pushes me out of his way using only his size.
 
-"Uhâ€”"
+"Uh—"
 
 > *"I'll get you something."*
 
@@ -134,11 +134,11 @@ I said yes.
 
 The drive home took an hour. I don't remember any of it.
 
-Just the stupid grin I couldn't wipe off my face. The steering wheel under my hands. The feeling that for onceâ€”for the first fucking timeâ€”I knew exactly where I was going.
+Just the stupid grin I couldn't wipe off my face. The steering wheel under my hands. The feeling that for once—for the first fucking time—I knew exactly where I was going.
 
-Not because of the job offer. Not because of the vineyard or the bright blue sky or even the chickenâ€”though I still think about that chicken.
+Not because of the job offer. Not because of the vineyard or the bright blue sky or even the chicken—though I still think about that chicken.
 
-For the first time in my life, I had a direction. A path I'd chosenâ€”not been forced into, not stumbled onto, not assigned by a parole officer with a dying pot plant and a golden retriever on her desk.
+For the first time in my life, I had a direction. A path I'd chosen—not been forced into, not stumbled onto, not assigned by a parole officer with a dying pot plant and a golden retriever on her desk.
 
 This was mine.
 

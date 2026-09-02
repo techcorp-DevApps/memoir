@@ -37,7 +37,7 @@ so — see § Numbering.
 
 ```
   BEFORE ANY OF IT             childhood → early teens — reserved, unscoped
-  [PART ONE — name needed]     origin — no ChefTips
+  ORIGIN ARC                   no part name needed — origin, no ChefTips
   VINEYARD ERA                 ChefTips #11 → #7
   TRANSITION / AUSTRALIA       ChefTips #6, #5
   MELBOURNE / MID-CAREER
@@ -83,13 +83,14 @@ that childhood.
 
 ---
 
-## PART ONE: [NAME NEEDED — was THE LONG ROAD TO NOWHERE]
+## ORIGIN ARC (was THE LONG ROAD TO NOWHERE, now the book's title — no part name needed)
 
 Origin arc. Explicit criminal history. The before. **No ChefTips in this part —
 by design.**
 
-**This part needs a new name.** *The Long Road To Nowhere* is the book's title as
-of 30 August 2026.
+**Ruled 2026-09-02: this part needs no name of its own.** *The Long Road To
+Nowhere* is the book's title; the book title plus named chapters is sufficient
+structure without a separate PART ONE label.
 
 | # | Section | File | Status |
 |---:|---|---|---|
@@ -120,7 +121,7 @@ culinary school and Grant's kitchen material.
 |---:|---|---|---|---|
 | 1 | **CHICKEN AND MASH** | — | `chapters/07_Chicken&Mash.md` | ✓ Complete |
 | 2 | **EARNING THE RIGHT** | (intro) | `chapters/08_EarningTheRight.md` | ✓ Complete |
-| 3 | **SET UP YOUR STATION** | **#11** (free) | `chapters/09_SetUpYoutStation.md` | ✓ Complete — filename typo, `Yout` → `Your` |
+| 3 | **SET UP YOUR STATION** | **#11** (free) | `chapters/09_SetUpYourStation.md` | ✓ Complete |
 | 4 | **FAT SAM** | — | `chapters/10_FatSam.md` | ✓ Complete |
 | 5 | **THE ONION WILL NOT WAIT FOR YOU** | **#10** | `chapters/11_TheOnion.md` | ✓ Complete |
 | 6 | **NEVER TAKE YOUR EYES OFF THE STOCKPOT** | **#9** | `chapters/12_TheStockPot.md` | ✓ Complete |
