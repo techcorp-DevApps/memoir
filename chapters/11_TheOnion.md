@@ -4,11 +4,11 @@ There's a very specific moment in every young cook's life when the kitchen stops
 
 You learn that quickly.
 
-Usually while cryingâ€”not from the onion, but from sheer existential despair because Chef is behind you asking why the fuck you're still chopping like you're in a home economics class with your Year Nine crush watching.
+Usually while crying—not from the onion, but from sheer existential despair because Chef is behind you asking why the fuck you're still chopping like you're in a home economics class with your Year Nine crush watching.
 
 It was a Friday lunch service.
 
-The kind where the entire brigade is vibrating with that special brand of panic you only see in trauma documentaries. I'm at my station trying to dice onions like a human metronomeâ€”consistent, clean, tidyâ€”the sort of thing that would make a French culinary school instructor cry tears of joy. Instead, I'm producing chunks that look like they've been taken hostage and tortured for information.
+The kind where the entire brigade is vibrating with that special brand of panic you only see in trauma documentaries. I'm at my station trying to dice onions like a human metronome—consistent, clean, tidy—the sort of thing that would make a French culinary school instructor cry tears of joy. Instead, I'm producing chunks that look like they've been taken hostage and tortured for information.
 
 Chef walks past, stops dead, and says:
 
@@ -16,9 +16,9 @@ Chef walks past, stops dead, and says:
 
 Right. Noted.
 
-What he failed to mention was how fucking fast I was meant to be doing this. Because while I'm over here delicately coaxing the layers apart like it's some sort of emotional support vegetable, the rest of the kitchen is moving like choreographed violence. Pots slamming, timers screeching, someone yelling "HEY, WHO PUT THE FISH IN THE OVEN WITHOUT SETTING A BLOODY TIMER?" and the grill cook threatening to quit because he's out of jalapeÃ±os again.
+What he failed to mention was how fucking fast I was meant to be doing this. Because while I'm over here delicately coaxing the layers apart like it's some sort of emotional support vegetable, the rest of the kitchen is moving like choreographed violence. Pots slamming, timers screeching, someone yelling "HEY, WHO PUT THE FISH IN THE OVEN WITHOUT SETTING A BLOODY TIMER?" and the grill cook threatening to quit because he's out of jalapeños again.
 
-And I'm stillâ€”stillâ€”halfway through onion number two, feeling like a fraudulent sack of shit in an apron.
+And I'm still—still—halfway through onion number two, feeling like a fraudulent sack of shit in an apron.
 
 Here's the thing though:
 
@@ -38,11 +38,11 @@ Which brings me to today's lesson.
 
 If you want uniform dice, fast slices, or anything that doesn't look like a toddler's craft project, you square the ingredient first.
 
-You trim the root. You trim the tip. You create flat edges. You give the vegetable stabilityâ€”structureâ€”a sense of purpose. Because if it's rolling around on the board like a drunk uncle at Christmas, guess who it's taking down with it?
+You trim the root. You trim the tip. You create flat edges. You give the vegetable stability—structure—a sense of purpose. Because if it's rolling around on the board like a drunk uncle at Christmas, guess who it's taking down with it?
 
 You. Your fingers. Your dignity.
 
-This was the second thing I ever learned in a commercial kitchen, right after the sacred tea-towel-under-the-board revelation. Chef showed me onceâ€”onceâ€”and then walked off as if I'd just been handed the keys to the universe. Ever since then, every onion, carrot, leek, and sad excuse of a zucchini has been squared within an inch of its life.
+This was the second thing I ever learned in a commercial kitchen, right after the sacred tea-towel-under-the-board revelation. Chef showed me once—once—and then walked off as if I'd just been handed the keys to the universe. Ever since then, every onion, carrot, leek, and sad excuse of a zucchini has been squared within an inch of its life.
 
 It makes you faster. Cleaner. More consistent.
 

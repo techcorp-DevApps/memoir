@@ -6,7 +6,7 @@ You just know.
 
 It's in the way conversations pause half a beat when you walk into the cool room. The way jokes land and everyone laughs in sync, like they've rehearsed it except you. Not because you didn't get it, but because you weren't meant to. The way "this guy" gets muttered just loud enough for you to catch but quiet enough to deny.
 
-I'd left a CDC position at a modern bistro hundred and fifty covers, double sittings, fifteen-plus staff under me, a beast by any definition to take a pay cut and drop a couple of rungs to CDP at a fine dining Italian place in Melbourne. On paper, it looked like career suicide. In my head, it was the only move that made sense.
+I'd left a CDC position at a modern bistro, hundred and fifty covers, double sittings, fifteen-plus staff under me, a beast by any definition, to take a pay cut and drop a couple of rungs to CDP at a fine dining Italian place in Melbourne. On paper, it looked like career suicide. In my head, it was the only move that made sense.
 
 You can run a kitchen for years and still not know shit.
 
@@ -20,7 +20,7 @@ How hard could it be.
 
 Right.
 
-What I didn't account for was how small that kitchen would feel. Four cooks in a space the size of a jail cell, and three of them had been working together for years. They moved like one organismâ€”finishing each other's sentences, anticipating each other's calls, laughing at references I'd never understand.
+What I didn't account for was how small that kitchen would feel. Four cooks in a space the size of a jail cell, and three of them had been working together for years. They moved like one organism—finishing each other's sentences, anticipating each other's calls, laughing at references I'd never understand.
 
 I was the French chef in an Italian kitchen.
 
@@ -30,17 +30,17 @@ I had more drive and overall kitchen experience than even the Head Chef. But I k
 
 The pork belly thing happened about six weeks in.
 
-I was prepping for service, my section boxed and ready to go, when Joeâ€”the Head Chefâ€”asked me to prep the belly for the next day's confit.
+I was prepping for service, my section boxed and ready to go, when Joe—the Head Chef—asked me to prep the belly for the next day's confit.
 
-Simple enough. I'd done confit more times than I could count. Duck, pork, rabbit, gooseâ€”if it had fat and patience, I'd slow-cooked it.
+Simple enough. I'd done confit more times than I could count. Duck, pork, rabbit, goose—if it had fat and patience, I'd slow-cooked it.
 
-I started looking for the cure mix. Salt, sugar, aromaticsâ€”standard stuff. Every kitchen I'd ever worked in had it prepped in bulk, sitting in a cambro somewhere obvious.
+I started looking for the cure mix. Salt, sugar, aromatics—standard stuff. Every kitchen I'd ever worked in had it prepped in bulk, sitting in a cambro somewhere obvious.
 
 Couldn't find it.
 
 I wandered the jail-cell-sized kitchen for a few minutes, checking shelves, corners, the spots where things get shoved and forgotten. Nothing.
 
-Mattâ€”the Sous, and the previous CDP of pasta before I'd filled the positionâ€”found me mid-search.
+Matt—the Sous, and the previous CDP of pasta before I'd filled the position—found me mid-search.
 
 "You lost or just trying to find a way out?"
 
@@ -68,11 +68,11 @@ A lesson taught early on. Widely known regardless of professional or not.
 
 You do not mix water and fat.
 
-Brine adds moisture. Cure removes it. And since I was confiting this thing overnightâ€”submerging it in hot rendered fatâ€”the physics were simple. Moisture trapped in meat plus searing fat equals explosion. Pop. Spit. The kind of violence that ends shifts early and leaves scars.
+Brine adds moisture. Cure removes it. And since I was confiting this thing overnight—submerging it in hot rendered fat—the physics were simple. Moisture trapped in meat plus searing fat equals explosion. Pop. Spit. The kind of violence that ends shifts early and leaves scars.
 
 I put the question out there.
 
-"Questionâ€”you want me to brine the belly and then confit it?"
+"Question—you want me to brine the belly and then confit it?"
 
 Matt's response was immediate. Not even looking at me.
 
@@ -90,7 +90,7 @@ Then I brined the belly.
 
 Not my house. Not my rules.
 
-But I knewâ€”somewhere in the back of my skull, with absolute certaintyâ€”that this was going to bite someone eventually.
+But I knew—somewhere in the back of my skull, with absolute certainty—that this was going to bite someone eventually.
 
 I just didn't know it'd be Chef's eye.
 
@@ -98,17 +98,17 @@ I just didn't know it'd be Chef's eye.
 
 Saturday night pre-theatre is a particular kind of violence.
 
-First sitting hits at six. They want three courses in ninety minutes because the curtain waits for no risotto. The mad exodus starts around seven-thirtyâ€”tables practically sprinting out the door to their showsâ€”and by then the docket machine is already becoming a demonic overlord, ready and willing to take the souls of anyone who isn't ready and on form.
+First sitting hits at six. They want three courses in ninety minutes because the curtain waits for no risotto. The mad exodus starts around seven-thirty—tables practically sprinting out the door to their shows—and by then the docket machine is already becoming a demonic overlord, ready and willing to take the souls of anyone who isn't ready and on form.
 
 The rail was loaded.
 
-Matt was on larder and cold entrÃ©es with the apprenticeâ€”a young guy named Adam, though everyone called him Racina. Acted like an old man and was wiser than his age by decades despite being barely nineteen. I had pasta. Joe and his missus Carly were on mains and plating.
+Matt was on larder and cold entrées with the apprentice—a young guy named Adam, though everyone called him Racina. Acted like an old man and was wiser than his age by decades despite being barely nineteen. I had pasta. Joe and his missus Carly were on mains and plating.
 
-Carly was also CDP, though not really warranted of the position. She assisted in plating for both mains and occasionally pastaâ€”when I gave her the chance, of course.
+Carly was also CDP, though not really warranted of the position. She assisted in plating for both mains and occasionally pasta—when I gave her the chance, of course.
 
 Chef called dockets as expected. The rhythm locked in. Bodies moving in that tight choreography where you stop thinking and just become the station.
 
-"Three tasting, two Ã  la carte on six."
+"Three tasting, two à la carte on six."
 
 "Yes, Chef."
 
@@ -122,7 +122,7 @@ Chef called dockets as expected. The rhythm locked in. Bodies moving in that tig
 
 An order came through with one pork belly.
 
-I watched Joe pull it from the lowboy. Watched him slide it onto a tray. Watched him reach upâ€”up, because the salamander in that kitchen was mounted at head heightâ€”and slide it onto the bottom shelf.
+I watched Joe pull it from the lowboy. Watched him slide it onto a tray. Watched him reach up—up, because the salamander in that kitchen was mounted at head height—and slide it onto the bottom shelf.
 
 I cringed.
 
@@ -132,7 +132,7 @@ But it was one of those situations. Not my house. Not my rules. Shut up and do y
 
 By eight o'clock we were fully loaded on all stations. The second wave had hit. The rail was deep.
 
-Thenâ€”simultaneously, as Chef turned aroundâ€”the belly popped.
+Then—simultaneously, as Chef turned around—the belly popped.
 
 The sound cut through service noise. Sharp. Violent.
 
@@ -146,9 +146,9 @@ The soft parts that don't forgive.
 
 Everyone froze.
 
-That's the thing about a real emergencyâ€”the silence is louder than the chaos. One second the printer's screaming, pans are crashing, five conversations happening at once. The next, nothing. Just the hiss of the salamander and Chef on one knee, hand pressed to his face, swearing.
+That's the thing about a real emergency—the silence is louder than the chaos. One second the printer's screaming, pans are crashing, five conversations happening at once. The next, nothing. Just the hiss of the salamander and Chef on one knee, hand pressed to his face, swearing.
 
-Scottyâ€”the FOH manager, a hospo veteran who'd been doing this longer than most of us had been aliveâ€”pushed through the swing door.
+Scotty—the FOH manager, a hospo veteran who'd been doing this longer than most of us had been alive—pushed through the swing door.
 
 "What do you need, Chef?"
 
@@ -164,7 +164,7 @@ But now who was the captain of our about-to-sink ship?
 
 Well. That would be Matt. The Sous Chef.
 
-Except Matt had never run a Saturday night service. He'd only done early weekday nightsâ€”cruisy twenty-five to thirty covers, nicely spread. Not sixty to eighty covers for three courses in three hours after being fisted by a pre-theatre sitting.
+Except Matt had never run a Saturday night service. He'd only done early weekday nights—cruisy twenty-five to thirty covers, nicely spread. Not sixty to eighty covers for three courses in three hours after being fisted by a pre-theatre sitting.
 
 I looked at him.
 
@@ -172,13 +172,13 @@ He was pale. Actually pale. The colour you go when your brain is running calcula
 
 I found joy in the moment.
 
-Just a flash of itâ€”petty, unprofessional, deeply human. Six weeks of "this guy" and cure mix lectures and in-sync laughter, and here he was. Frozen.
+Just a flash of it—petty, unprofessional, deeply human. Six weeks of "this guy" and cure mix lectures and in-sync laughter, and here he was. Frozen.
 
 "Looks like you're up, Chef."
 
 All the while, tables are still being called away. Every second that passes is an eternity in a kitchen.
 
-"But... but... Iâ€”"
+"But... but... I—"
 
 The only barely audible words that came from the Sous's mouth.
 
@@ -186,7 +186,7 @@ The only barely audible words that came from the Sous's mouth.
 
 I laughed. Actually laughed.
 
-Scotty had reappearedâ€”must've handed Joe off to Dylan and come straight back. He caught my eye across the line.
+Scotty had reappeared—must've handed Joe off to Dylan and come straight back. He caught my eye across the line.
 
 "You got this, mate?"
 
@@ -218,9 +218,9 @@ And just to boot, I continued to cook and plate my own section at the same time.
 
 "Yes, Chef."
 
-The rhythm came back. Different nowâ€”tighter, more deliberate, running through me instead of around me. I could feel the kitchen settling, finding its feet, trusting that someone was steering.
+The rhythm came back. Different now—tighter, more deliberate, running through me instead of around me. I could feel the kitchen settling, finding its feet, trusting that someone was steering.
 
-Carly's hands stopped shaking around the forty-minute mark. Matt found his timing. Even Rajâ€”the silent Nepalese dishie I'd never heard speakâ€”started anticipating my calls, running pans back before I had to ask.
+Carly's hands stopped shaking around the forty-minute mark. Matt found his timing. Even Raj—the silent Nepalese dishie I'd never heard speak—started anticipating my calls, running pans back before I had to ask.
 
 The night went without a hitch.
 
@@ -230,7 +230,7 @@ Just pure orchestrated success.
 
 ---
 
-The last ticket went out and Scotty came into the kitchenâ€”which was oddly silentâ€”with a round of Peronis. The staple knock-offs in this particular kitchen.
+The last ticket went out and Scotty came into the kitchen—which was oddly silent—with a round of Peronis. The staple knock-offs in this particular kitchen.
 
 He handed one to Matt. One to Carly. Then pressed an extra into my hands.
 
@@ -242,11 +242,11 @@ I said it with a cheeky smirk. Couldn't help myself.
 
 We filed out into the back laneway for some fresh air and quick respite.
 
-There were two other fine dining restaurants in the block that shared the same internal lanewayâ€”another Italian and a street-hawker-style joint. On a normal night, there'd be banter between crews, competitive shit-talk, the kind of solidarity that only exists at midnight between people who've just survived the same war.
+There were two other fine dining restaurants in the block that shared the same internal laneway—another Italian and a street-hawker-style joint. On a normal night, there'd be banter between crews, competitive shit-talk, the kind of solidarity that only exists at midnight between people who've just survived the same war.
 
 Tonight, it was quiet.
 
-I never spoke much anywayâ€”not exactly the social type outside the kitchen. But tonight the others just sat there in silence too.
+I never spoke much anyway—not exactly the social type outside the kitchen. But tonight the others just sat there in silence too.
 
 I broke it.
 
@@ -260,7 +260,7 @@ Crickets.
 
 The food runner got back a few minutes later with Joe in tow. Chef was bandaged up, one eye covered. Looked like he'd done three rounds with a deep fryer. The doctors wanted him back in two days to check for damage.
 
-Racinaâ€”still out in the laneway with us, probably processing everything he'd just witnessedâ€”turned to me.
+Racina—still out in the laneway with us, probably processing everything he'd just witnessed—turned to me.
 
 "When did you learn to run service, Chef?"
 
@@ -280,13 +280,13 @@ I let that land.
 
 "In fact, I'm barely part of the team most days."
 
-It was acknowledged. Not in wordsâ€”just a quiet exchange of looks in my peripheral as I sank my second beer.
+It was acknowledged. Not in words—just a quiet exchange of looks in my peripheral as I sank my second beer.
 
 The moment stretched.
 
 Then I pushed off the wall.
 
-"Come on. Let's goâ€”we've got a kitchen to clean."
+"Come on. Let's go—we've got a kitchen to clean."
 
 Everyone jumped up.
 
@@ -302,7 +302,7 @@ I bumped shoulders with Matt as we walked in.
 
 Chef was off for just over three weeks.
 
-Matt and I shared the kitchen leadership. I ran the weekendsâ€”the ones that could go sideways fast, the ones where you needed someone who'd seen worse and kept moving. During the week, I helped him find the path he wasn't being given under Joe. The development he should've had years ago.
+Matt and I shared the kitchen leadership. I ran the weekends—the ones that could go sideways fast, the ones where you needed someone who'd seen worse and kept moving. During the week, I helped him find the path he wasn't being given under Joe. The development he should've had years ago.
 
 I still wasn't part of the family.
 

@@ -42,7 +42,7 @@ I'd seen that look before. It didn't scare me.
 
 He grabbed one of the snooker balls. Dropped his leg off the table. Took a stance that came with intimidation.
 
-Still didn't phase me.
+Still didn't faze me.
 
 "I'm talking to you. Ya can see we're in the middle of a game. Ya come in, stretch on the table when I'm about to take a shot, move the balls around — why the fuck don't you use one of the benches?"
 
@@ -258,7 +258,7 @@ I walked back out to the corridor.
 
 Stacey was gutted. My brother just looked at me.
 
-I wasn't phased by it.
+I wasn't fazed by it.
 
 It is what it is.
 

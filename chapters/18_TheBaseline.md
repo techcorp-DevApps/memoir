@@ -2,7 +2,7 @@
 
 The fine dining kitchen changed everything.
 
-Same resort. Same red dirt outside. Same heat shimmer making the world look like it was melting. But inside that room â€” four chefs, tight section, plates under heat lamps â€” it was a different universe entirely.
+Same resort. Same red dirt outside. Same heat shimmer making the world look like it was melting. But inside that room — four chefs, tight section, plates under heat lamps — it was a different universe entirely.
 
 Dinner service only. Fifty covers on a big night. Tasting menus, wagyu, the kind of food that justified the price tag guests paid to fly into the middle of nowhere.
 
@@ -10,7 +10,7 @@ I walked in expecting a fight.
 
 What I got was silence.
 
-Not the hostile kind. The working kind. The kind where everyone knows what they're doing and doesn't need to announce it. Kein Do ran the pass â€” Senior Sous, Vietnamese, had been cooking longer than I'd been alive. He didn't yell. Didn't need to. The kitchen moved around him like water around a stone.
+Not the hostile kind. The working kind. The kind where everyone knows what they're doing and doesn't need to announce it. Kein Do ran the pass — Senior Sous, Vietnamese, had been cooking longer than I'd been alive. He didn't yell. Didn't need to. The kitchen moved around him like water around a stone.
 
 First service, I was given mise prep and told to stay out of the way.
 
@@ -22,19 +22,19 @@ So I did.
 
 The thing about coming from a kitchen like the vineyard is that you don't know how to operate any other way.
 
-Three years. Peeling potatoes. Peeling onions. Peeling garlic. Nothing came in a bag. Nothing came pre-cut. You wanted brunoise? You made it â€” from whole vegetables you'd broken down yourself, stored yourself, rotated yourself.
+Three years. Peeling potatoes. Peeling onions. Peeling garlic. Nothing came in a bag. Nothing came pre-cut. You wanted brunoise? You made it — from whole vegetables you'd broken down yourself, stored yourself, rotated yourself.
 
 Stocks from scratch. Bread from scratch. Pasta from scratch. Jus reduced over hours, skimmed every fifteen minutes, strained through muslin until it was clear enough to read through.
 
-I started at 0900 every day. Chef and Sam rolled in at ten. Finish was around 2300 â€” unless it was summer. Wedding season. Then it was 0200, 0300, sometimes later. Fully booked seven days a week, lunch and dinner, with weddings on Friday and Saturday nights just to keep things interesting. Winter gave us a break â€” no Sunday dinner, no Monday lunch. That was rest.
+I started at 0900 every day. Chef and Sam rolled in at ten. Finish was around 2300 — unless it was summer. Wedding season. Then it was 0200, 0300, sometimes later. Fully booked seven days a week, lunch and dinner, with weddings on Friday and Saturday nights just to keep things interesting. Winter gave us a break — no Sunday dinner, no Monday lunch. That was rest.
 
-And through all of it: 110-pax weddings. Cooked-to-order entrÃ©es and mains. Three options each. No short-cuts. No buy-ins. Just the work.
+And through all of it: 110-pax weddings. Cooked-to-order entrées and mains. Three options each. No short-cuts. No buy-ins. Just the work.
 
 That was my baseline.
 
-The fine dining kitchen at the resort was different. Not lower â€” just different.
+The fine dining kitchen at the resort was different. Not lower — just different.
 
-They made everything in-house. Proper standards. But the infrastructure around it was something I'd never seen before. The hotel had a bakery department â€” they made bread for every outlet. A pastry kitchen â€” they made desserts for everyone. Stewarding teams worked round the clock, deep-cleaning kitchens every night. All you had to do at the end of shift was clean down your section, pull the cooktops onto a trolley for the stewards, and go home.
+They made everything in-house. Proper standards. But the infrastructure around it was something I'd never seen before. The hotel had a bakery department — they made bread for every outlet. A pastry kitchen — they made desserts for everyone. Stewarding teams worked round the clock, deep-cleaning kitchens every night. All you had to do at the end of shift was clean down your section, pull the cooktops onto a trolley for the stewards, and go home.
 
 The restaurant itself was the resort's flagship. Dinner only. Seven nights a week. Latest booking at 2000 so the kitchen could be done and out the door by 2230.
 
@@ -54,7 +54,7 @@ When the kitchen doesn't demand your standard, you have a choice.
 
 You can coast.
 
-No one's checking your knife work. No one's timing your mise. No one's standing over your shoulder asking why your brunoise looks like gravel. The sous chefs in production had shown me that â€” rolling in late, "near enough" as a philosophy, standards that existed on paper but dissolved the moment pressure arrived.
+No one's checking your knife work. No one's timing your mise. No one's standing over your shoulder asking why your brunoise looks like gravel. The sous chefs in production had shown me that — rolling in late, "near enough" as a philosophy, standards that existed on paper but dissolved the moment pressure arrived.
 
 You could absolutely get away with less here.
 
@@ -68,7 +68,7 @@ Not because I was trying to impress anyone. Not because I thought someone was wa
 
 I didn't coast because I couldn't.
 
-The vineyard had beaten something into me that I couldn't unlearn. A way of moving through a kitchen that didn't have an off switch. The standard wasn't external anymore â€” it wasn't about Chef's approval or Sam's silence or the fear of being called out in front of the brigade.
+The vineyard had beaten something into me that I couldn't unlearn. A way of moving through a kitchen that didn't have an off switch. The standard wasn't external anymore — it wasn't about Chef's approval or Sam's silence or the fear of being called out in front of the brigade.
 
 It was just... me.
 
@@ -82,19 +82,19 @@ And you don't get to un-become yourself just because the kitchen stopped asking.
 
 Kein Do noticed.
 
-Not in the way senior chefs usually notice â€” loud, corrective, designed to make you feel two inches tall. He just... watched. Quiet. Assessing. The way you'd watch a horse before deciding whether to bet on it.
+Not in the way senior chefs usually notice — loud, corrective, designed to make you feel two inches tall. He just... watched. Quiet. Assessing. The way you'd watch a horse before deciding whether to bet on it.
 
-Two weeks in, he put me on entrÃ©es.
+Two weeks in, he put me on entrées.
 
 A month after that, mains.
 
 By then, something strange was happening.
 
-People were noticing me. Which, for an introvert who'd spent years not speaking unless spoken to, was deeply uncomfortable. I didn't mind the silence â€” I preferred it. Head down, work hard, don't draw attention.
+People were noticing me. Which, for an introvert who'd spent years not speaking unless spoken to, was deeply uncomfortable. I didn't mind the silence — I preferred it. Head down, work hard, don't draw attention.
 
 But the attention came anyway.
 
-The rest of the brigade started getting excited to work with me. Once they saw what I could do, the dynamic shifted. I'd smash out my section, then offer to help with theirs â€” not to show off, but to learn. Different techniques. Different approaches. And when I had something to offer back â€” a method that got a better result, a shortcut that didn't compromise quality â€” they took it. No ego. No defensiveness.
+The rest of the brigade started getting excited to work with me. Once they saw what I could do, the dynamic shifted. I'd smash out my section, then offer to help with theirs — not to show off, but to learn. Different techniques. Different approaches. And when I had something to offer back — a method that got a better result, a shortcut that didn't compromise quality — they took it. No ego. No defensiveness.
 
 Kein Do saw all of it.
 
@@ -110,7 +110,7 @@ The promotion to CDP came four months after I arrived.
 
 Junior Sous six months after that.
 
-And then â€” barely two years after landing in Australia as a Demi Chef in a production kitchen that wasn't really a kitchen â€” I was offered my own venue.
+And then — barely two years after landing in Australia as a Demi Chef in a production kitchen that wasn't really a kitchen — I was offered my own venue.
 
 CDC. Chef de Cuisine.
 
@@ -176,7 +176,7 @@ What you'll accept from yourself when no one else is paying attention.
 
 What you refuse to let slide even when sliding would be easier.
 
-The Baseline you hold because it's *yours* â€” and crossing it would mean becoming someone you don't want to be.
+The Baseline you hold because it's *yours* — and crossing it would mean becoming someone you don't want to be.
 
 That's what separates the people who stay stuck from the people who move.
 

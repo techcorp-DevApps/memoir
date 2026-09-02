@@ -202,6 +202,8 @@ ChefTips are numbered by **cost** — higher number = cheaper lesson.
 | **Rachael** | CDP (Italian) | Joe's missus. Assisted plating. |
 | **Racina (Adam)** | Apprentice | Nineteen but wise beyond years. Asked about running service. |
 | **Dave** | French Chef | TBD — friendship arc, prank war, hiding timers at unreachable heights |
+| **Scotty** | FOH Manager | Hospitality veteran. Took charge during Joe's medical emergency, handed off his car keys, later returned with beers for the brigade. |
+| **Raj** | Dishie | Nepalese. Silent. Began anticipating the narrator's calls after the crisis. |
 
 ### Pre-Kitchen Life
 
@@ -213,6 +215,7 @@ ChefTips are numbered by **cost** — higher number = cheaper lesson.
 | **Glen** | Culinary Tutor | Wool cardigan. Handled the confrontation. |
 | **Grant** | First Head Chef | Auckland. High-functioning alcoholic. Gave heads up about sale. |
 | **Sarah/Sharon** | Parole Officer | Young, by the book. Dying pot plant. Golden retriever photo. "You're starting a cooking course on Monday." |
+| **Ivian** | Wing cleaner partner | Male (confirmed). Mopping, bins, extra unlock, extra milk. |
 
 ### Family
 
@@ -255,6 +258,7 @@ uses is the author's call — do not normalise one into the other.
 | Age at CDC promotion | 24 years old |
 | Bistro covers | 150 across double sittings |
 | Bistro staff | Started 15, ended 10 |
+| Fine-dining covers (resort) | Fifty covers on a big night — `18_TheBaseline.md:7` |
 | School leaving age | 13 |
 | Jackson's age at death | 7 |
 | Cause of death | Severe asthma attack, sudden, the morning after |

@@ -48,7 +48,7 @@ Changed into whites. Apron tied. Boots laced.
 
 Walked to Chef's office, knocked on the doorframe.
 
-"Good morning, Chef. I'm looking for the production kitchenâ€”here for my first shift."
+"Good morning, Chef. I'm looking for the production kitchen—here for my first shift."
 
 Gavin looked up from his desk.
 
@@ -82,7 +82,7 @@ Just benches. A couple of deep sinks. Two walk-in chillers. Not even a dishie ar
 
 *What the fuck is this.*
 
-> *"Dane and Robâ€”your sous chefsâ€”will be in at seven. Feel free to have a look around."*
+> *"Dane and Rob—your sous chefs—will be in at seven. Feel free to have a look around."*
 
 Two sous chefs?
 
@@ -146,9 +146,9 @@ Maybe they had.
 
 I gestured at the sink.
 
-"Wasn't sure where the prep list was. Found the fish thoughâ€”think it might have been frozen."
+"Wasn't sure where the prep list was. Found the fish though—think it might have been frozen."
 
-> *"That's okay, mate. We'll just grab a coffee. Fish is fineâ€”one of the boys must've left it. Just... cut some vege sticks till we get back."*
+> *"That's okay, mate. We'll just grab a coffee. Fish is fine—one of the boys must've left it. Just... cut some vege sticks till we get back."*
 
 *What have I done.*
 
@@ -212,7 +212,7 @@ Maybe he hadn't.
 
 When he said "vege sticks," he meant sticks. Roughly stick-shaped. Near enough.
 
-I didn't know that language yet. Where I came from, words meant something specific. You asked for batons, you got batons. One centimetre. Uniform. Clean. Anything less and you'd be doing them again while someone explainedâ€”loudlyâ€”why your time was now their problem.
+I didn't know that language yet. Where I came from, words meant something specific. You asked for batons, you got batons. One centimetre. Uniform. Clean. Anything less and you'd be doing them again while someone explained—loudly—why your time was now their problem.
 
 These two had been here long enough to become part of the furniture. Comfortable. Under the radar. They knew how to get the job done and go home without anyone noticing either way.
 
@@ -262,7 +262,7 @@ Clock out. Go home. Repeat.
 
 I started to think there wasn't even a service kitchen in this place.
 
-Then one nightâ€”coming back from an on-site functionâ€”I heard it.
+Then one night—coming back from an on-site function—I heard it.
 
 That familiar sound.
 
@@ -274,7 +274,7 @@ A docket machine.
 
 I followed the sound like a junkie chasing a fix.
 
-Down the corridor. Into the main kitchen areaâ€”usually buzzing with various teams during the day. Commissary, breakfast, staff canteen.
+Down the corridor. Into the main kitchen area—usually buzzing with various teams during the day. Commissary, breakfast, staff canteen.
 
 All gone now.
 
@@ -300,7 +300,7 @@ I found a spot near the wall where I wouldn't be in the way.
 
 Just watching.
 
-The chefs were all different nationalities. An older Vietnamese man appeared to be running the kitchenâ€”calling times, checking plates, moving between stations with that economy of motion you only get after decades on the line.
+The chefs were all different nationalities. An older Vietnamese man appeared to be running the kitchen—calling times, checking plates, moving between stations with that economy of motion you only get after decades on the line.
 
 I'd never seen a kitchen that wasn't entirely European. Still multinational, just... European.
 
@@ -318,13 +318,13 @@ But the meaning clear.
 
 I stayed.
 
-Watched them work through the last of the evening's service. The rhythm was familiarâ€”the same quiet intensity I'd known in New Zealand. Chef's voice. Responses. The sound of pans and plates and controlled movement. No wasted words.
+Watched them work through the last of the evening's service. The rhythm was familiar—the same quiet intensity I'd known in New Zealand. Chef's voice. Responses. The sound of pans and plates and controlled movement. No wasted words.
 
 But it was unmistakably service.
 
 Real service.
 
-When they started wrapping upâ€”close to 23:00â€”I asked if they needed a hand to clean down.
+When they started wrapping up—close to 23:00—I asked if they needed a hand to clean down.
 
 > *"All good, mate. Soon."*
 
@@ -346,7 +346,7 @@ A day or so later, I turned up at 06:30 as I did every day. Got changed. Headed 
 
 Then I got stopped.
 
-The exec sousâ€”a Filipino woman who also ran the pastry kitchenâ€”stepped into my path.
+The exec sous—a Filipino woman who also ran the pastry kitchen—stepped into my path.
 
 > *"Chef wants to see you."*
 

@@ -28,9 +28,9 @@ In horror.
 
 The place was filthy.
 
-Benches streaked with old grease. Floors sticky underfoot. The kind of grime that doesn't happen in a week or a month â€” it builds over years of nobody giving a fuck.
+Benches streaked with old grease. Floors sticky underfoot. The kind of grime that doesn't happen in a week or a month — it builds over years of nobody giving a fuck.
 
-The walk-in chiller had containers stacked without labels, half of them growing things that definitely weren't on any menu. The freezer was icing over around the door seals â€” thick, white frost creeping up the walls like the whole unit was slowly being swallowed.
+The walk-in chiller had containers stacked without labels, half of them growing things that definitely weren't on any menu. The freezer was icing over around the door seals — thick, white frost creeping up the walls like the whole unit was slowly being swallowed.
 
 Spoiled food. Unlabelled containers. Cross-contamination waiting to happen.
 
@@ -46,9 +46,9 @@ But I did.
 
 The team was beaten down by years of nobody expecting anything from them.
 
-Not incompetent â€” though some of them were. Just... broken. 
+Not incompetent — though some of them were. Just... broken. 
 
-Their uniforms told the story before anyone opened their mouth. Whites that weren't white anymore â€” yellowed, stained, the kind of discolouration that no amount of bleach would fix. Aprons that looked like they'd been used to mop the floor.
+Their uniforms told the story before anyone opened their mouth. Whites that weren't white anymore — yellowed, stained, the kind of discolouration that no amount of bleach would fix. Aprons that looked like they'd been used to mop the floor.
 
 This was the brigade I'd inherited.
 
@@ -64,11 +64,11 @@ Then I looked at the menu.
 
 And somehow, it got worse.
 
-The napoli was canned tomatoes. Heated up. Pureed. That was it â€” no aromatics, no depth, no technique. Just tin-flavoured red sludge being passed off as a sauce. And this was the base for multiple dishes. *Multiple.*
+The napoli was canned tomatoes. Heated up. Pureed. That was it — no aromatics, no depth, no technique. Just tin-flavoured red sludge being passed off as a sauce. And this was the base for multiple dishes. *Multiple.*
 
-The carbonara was a cream and garlic reduction with bacon that hadn't even been sautÃ©ed. Just raw, sad strips of pig fat floating in what looked like wallpaper paste.
+The carbonara was a cream and garlic reduction with bacon that hadn't even been sautéed. Just raw, sad strips of pig fat floating in what looked like wallpaper paste.
 
-The pastas were pre-cooked. Sitting in containers. Stuck together in congealed clumps, already overcooked before they'd even been reheated. The pesto was grey-green, stringy, bitter â€” the kind of thing you'd throw out if you found it in the back of your home fridge, let alone serve to paying guests.
+The pastas were pre-cooked. Sitting in containers. Stuck together in congealed clumps, already overcooked before they'd even been reheated. The pesto was grey-green, stringy, bitter — the kind of thing you'd throw out if you found it in the back of your home fridge, let alone serve to paying guests.
 
 Bought-in burger patties. Pre-made dressings. Everything that could be half-arsed had been half-arsed, and some things that shouldn't have been possible to half-arse had been half-arsed anyway.
 
@@ -90,7 +90,7 @@ He knew exactly what he was handing me. The worst venue in the resort. The botto
 
 And he wanted to see what I'd do with it.
 
-Either I'd prove that the standards I'd become known for weren't just talk â€” that I could take a disaster and turn it into something worth being proud of.
+Either I'd prove that the standards I'd become known for weren't just talk — that I could take a disaster and turn it into something worth being proud of.
 
 Or I'd fail. Publicly. Spectacularly. And everyone would know I'd been promoted beyond my abilities.
 
@@ -128,7 +128,7 @@ You can't demand what you won't demonstrate.
 
 I'd learned that at the vineyard. Watched Chef and Sam hold lines they never crossed themselves. Watched them stay late, arrive early, do the work nobody asked them to do because that's what the kitchen needed. The bollockings only meant something because they came from people who'd earned the right to give them.
 
-If I was going to ask these people to change â€” really change, not just comply â€” I had to show them I wasn't above the work I was demanding.
+If I was going to ask these people to change — really change, not just comply — I had to show them I wasn't above the work I was demanding.
 
 Good for one, good for all.
 
@@ -136,11 +136,11 @@ Good for one, good for all.
 
 We didn't have the stewarding setup the main kitchen had.
 
-No round-the-clock teams. No overnight deep-cleans. Just four boys â€” our own small crew, separate from the hotel's main operation.
+No round-the-clock teams. No overnight deep-cleans. Just four boys — our own small crew, separate from the hotel's main operation.
 
 Which meant clean-downs were on us.
 
-Every night. Full breakdown. Benches scrubbed, floors mopped, equipment wiped, stations reset. Not a "quick tidy" â€” a proper clean-down, the kind where you could eat off the floor when you were done.
+Every night. Full breakdown. Benches scrubbed, floors mopped, equipment wiped, stations reset. Not a "quick tidy" — a proper clean-down, the kind where you could eat off the floor when you were done.
 
 And once a fortnight, we went further.
 
@@ -148,13 +148,13 @@ The whole team rostered on. No exceptions. Floor to ceiling. Every surface, ever
 
 And I was right there with them.
 
-Not in my whites â€” those had a different purpose now. Old t-shirt. Dirty jeans. Down on my hands and knees scrubbing the same grout as everyone else.
+Not in my whites — those had a different purpose now. Old t-shirt. Dirty jeans. Down on my hands and knees scrubbing the same grout as everyone else.
 
 Those yellowed uniforms they'd been wearing? Now they had a place. Now they made sense. You don't wear your service whites to deep-clean a kitchen. You wear the ones that are already fucked.
 
 The brigade noticed.
 
-They noticed that the new CDC â€” the one who'd come in with all these demands and expectations and standards â€” wasn't standing at the pass watching them work. He was elbow-deep in the same filth they were, doing the same job, staying the same hours.
+They noticed that the new CDC — the one who'd come in with all these demands and expectations and standards — wasn't standing at the pass watching them work. He was elbow-deep in the same filth they were, doing the same job, staying the same hours.
 
 Morale doesn't come from speeches. It comes from proof.
 
@@ -166,13 +166,13 @@ The team didn't like it at first.
 
 I didn't expect them to.
 
-Some of them had been there longer than I'd been cooking. They'd built comfortable little routines â€” show up, do the minimum, go home, repeat. Nobody had asked anything more of them in years.
+Some of them had been there longer than I'd been cooking. They'd built comfortable little routines — show up, do the minimum, go home, repeat. Nobody had asked anything more of them in years.
 
 Now someone was.
 
 And they resisted.
 
-Not openly. Not with direct challenges or confrontations. That would've been easier, honestly. Instead, it was passive â€” the slow drag of people who'd rather wait you out than change.
+Not openly. Not with direct challenges or confrontations. That would've been easier, honestly. Instead, it was passive — the slow drag of people who'd rather wait you out than change.
 
 Standards slipping when they thought I wasn't looking. Shortcuts taken. Requirements ignored.
 
@@ -184,7 +184,7 @@ They were wrong.
 
 When someone didn't meet the standard, they got dressed down.
 
-The same way I'd been dressed down. The same way Sam had done it â€” right there, in front of everyone, no privacy, no softening. The shame is part of the lesson. The audience is part of the point.
+The same way I'd been dressed down. The same way Sam had done it — right there, in front of everyone, no privacy, no softening. The shame is part of the lesson. The audience is part of the point.
 
 I remembered what it felt like to be on the receiving end. The heat in your face. The way your hands want to shake but you force them still. The knowledge that everyone heard, everyone saw, and now you have to either fix it or leave.
 
@@ -192,7 +192,7 @@ I'd stood where they were standing. I knew exactly how much it hurt.
 
 And I did it anyway.
 
-Because that's how standards get built. Not through memos and meetings and polite suggestions. Through public accountability. Through the understanding that fucking up doesn't disappear into a private conversation â€” it gets addressed in the room where it happened, in front of the people who had to work around it.
+Because that's how standards get built. Not through memos and meetings and polite suggestions. Through public accountability. Through the understanding that fucking up doesn't disappear into a private conversation — it gets addressed in the room where it happened, in front of the people who had to work around it.
 
 One by one, they found out I wasn't going to bend.
 
@@ -200,7 +200,7 @@ The guy who kept "forgetting" to label his containers? Reamed in front of the wh
 
 The cook who thought pre-cooked pasta was still good enough? Made to throw out the entire batch and start fresh, during service, with the whole kitchen watching.
 
-The line cook who showed up in a stained apron because "nobody cares anyway"? Sent home to change. Docked the hour. And when he came back, I made sure he understood that I cared. That this kitchen cared now. That "nobody cares" wasn't a defence â€” it was the fucking problem.
+The line cook who showed up in a stained apron because "nobody cares anyway"? Sent home to change. Docked the hour. And when he came back, I made sure he understood that I cared. That this kitchen cared now. That "nobody cares" wasn't a defence — it was the fucking problem.
 
 I wasn't cruel about it. I wasn't theatrical.
 
@@ -230,33 +230,33 @@ Somewhere around the four-month mark, something shifted.
 
 The rebellion stopped.
 
-Not because I'd beaten it out of them â€” though maybe a bit of that. But because the ones who stayed started to see it.
+Not because I'd beaten it out of them — though maybe a bit of that. But because the ones who stayed started to see it.
 
-The kitchen was cleaner. The mise was better. The food was actually *good* now â€” or at least, getting there. And the chaos that used to define every service? Replaced by something that felt almost like rhythm.
+The kitchen was cleaner. The mise was better. The food was actually *good* now — or at least, getting there. And the chaos that used to define every service? Replaced by something that felt almost like rhythm.
 
-They'd watched me scrub floors alongside them. Watched me stay late when I could've gone home. Watched me hold myself to the same standards I was demanding from them â€” and they'd started to believe in themselves. In each other.
+They'd watched me scrub floors alongside them. Watched me stay late when I could've gone home. Watched me hold myself to the same standards I was demanding from them — and they'd started to believe in themselves. In each other.
 
 They started syncing with me.
 
 Not fighting the current anymore. Moving with it.
 
-I'd call a timing and hands would already be reaching for the right pan. I'd start plating and garnish would appear at my elbow without me asking. The calls and responses that used to feel forced started happening naturally â€” the kitchen was beginning to breathe like a single organism instead of ten separate people trapped in the same room.
+I'd call a timing and hands would already be reaching for the right pan. I'd start plating and garnish would appear at my elbow without me asking. The calls and responses that used to feel forced started happening naturally — the kitchen was beginning to breathe like a single organism instead of ten separate people trapped in the same room.
 
 ---
 
 Sonny was the first to really click.
 
-Indian lad, late twenties, visa-sponsored. He'd come in as a Demi â€” solid skills, good instincts, but coasting like everyone else. Once the standards went up, he didn't just meet them. He exceeded them. Started anticipating problems before they happened. Covered sections without being asked. Took ownership in a way I hadn't seen from anyone in that kitchen.
+Indian lad, late twenties, visa-sponsored. He'd come in as a Demi — solid skills, good instincts, but coasting like everyone else. Once the standards went up, he didn't just meet them. He exceeded them. Started anticipating problems before they happened. Covered sections without being asked. Took ownership in a way I hadn't seen from anyone in that kitchen.
 
 He'd be CDP by the time I left. My strongest chef.
 
 Then there was Jen.
 
-Korean girl, used to work in the main kitchen commissary. She asked for a transfer down to the bistro â€” actually *requested* it â€” because she'd heard things were changing and she wanted to be part of it. The passion that girl had for food was infectious. Every new ingredient, every technique, every small evolution in the menu â€” she approached it like a gift. Like she couldn't believe she was being allowed to learn.
+Korean girl, used to work in the main kitchen commissary. She asked for a transfer down to the bistro — actually *requested* it — because she'd heard things were changing and she wanted to be part of it. The passion that girl had for food was infectious. Every new ingredient, every technique, every small evolution in the menu — she approached it like a gift. Like she couldn't believe she was being allowed to learn.
 
 And Praveen.
 
-Late twenties. Commis. About four foot eight and an absolute beast on larder. The man could prep faster than people twice his size, In the beginning it was rough and incosisitent, but by the end his consistency was frightening. Same cut, same portion, same presentation, every single time. You could set your watch by his mise.
+Late twenties. Commis. About four foot eight and an absolute beast on larder. The man could prep faster than people twice his size. In the beginning it was rough and inconsistent, but by the end his consistency was frightening. Same cut, same portion, same presentation, every single time. You could set your watch by his mise.
 
 These were the people who stayed.
 
@@ -268,19 +268,19 @@ Nine months.
 
 That's how long it took.
 
-Nine months of double shifts and late nights. Lunch and dinner, seven days a week. The workload was familiar â€” I'd done this at the vineyard, done it harder in some ways â€” but the difference was that here, I was building something that was mine.
+Nine months of double shifts and late nights. Lunch and dinner, seven days a week. The workload was familiar — I'd done this at the vineyard, done it harder in some ways — but the difference was that here, I was building something that was mine.
 
 First new menu in five years.
 
-Everything made in-house. Proper napoli â€” San Marzano tomatoes, fresh basil, garlic, a soffritto base that actually had depth. Carbonara done right â€” guanciale, egg yolk, pecorino, black pepper, no cream in fucking sight. Fresh pasta made daily. Pesto that was green, vibrant, balanced.
+Everything made in-house. Proper napoli — San Marzano tomatoes, fresh basil, garlic, a soffritto base that actually had depth. Carbonara done right — guanciale, egg yolk, pecorino, black pepper, no cream in fucking sight. Fresh pasta made daily. Pesto that was green, vibrant, balanced.
 
-Handmade burger patties. Daily rotating specials. Desserts developed in-house â€” we still used the hotel pastry kitchen for some things, but my team was making their own specials now. Learning every day. Growing.
+Handmade burger patties. Daily rotating specials. Desserts developed in-house — we still used the hotel pastry kitchen for some things, but my team was making their own specials now. Learning every day. Growing.
 
 The bought-in garbage was gone.
 
-The grey pesto - gone.
+The grey pesto — gone.
 
-The congealed pasta clumps - gone.
+The congealed pasta clumps — gone.
 
 And in their place? Food I could actually put my name to.
 
@@ -288,11 +288,11 @@ And in their place? Food I could actually put my name to.
 
 Twelve months in, the brigade was strong.
 
-Everyone looked sharp. Uniforms crisp and white. Aprons clean. The kitchen itself was unrecognisable from the disaster I'd walked into â€” organised, efficient, *proud*.
+Everyone looked sharp. Uniforms crisp and white. Aprons clean. The kitchen itself was unrecognisable from the disaster I'd walked into — organised, efficient, *proud*.
 
 That last part mattered more than anything.
 
-You could feel it radiating from the open pass now. The energy in the dining room had changed. That electric buzz that high-end venues have â€” the sense that something special is happening, that the people making your food actually give a shit â€” it was there. It was real.
+You could feel it radiating from the open pass now. The energy in the dining room had changed. That electric buzz that high-end venues have — the sense that something special is happening, that the people making your food actually give a shit — it was there. It was real.
 
 And people noticed.
 
@@ -320,7 +320,7 @@ The second sign was quieter. But it hit harder.
 
 Praveen asked if his parents could come in for dinner.
 
-Not passing through â€” nobody passes through central Australia. His parents were coming from India. Specifically to see him. 
+Not passing through — nobody passes through central Australia. His parents were coming from India. Specifically to see him. 
 
 To see where he worked. 
 
@@ -330,13 +330,13 @@ I said yes without hesitation.
 
 Then I said we'd do something special.
 
-We put together a menu just for them. A proper degustation â€” the kind of multi-course meal that requires the whole kitchen to move as one, every dish timed, every element perfect. The same format that had ignited something in me back at the vineyard, when I'd first felt what it meant to cook food that mattered.
+We put together a menu just for them. A proper degustation — the kind of multi-course meal that requires the whole kitchen to move as one, every dish timed, every element perfect. The same format that had ignited something in me back at the vineyard, when I'd first felt what it meant to cook food that mattered.
 
 Now we were doing it for Praveen's parents. During a normal service. Because he'd earned it.
 
-I helped him cook everything. Let him call the dockets. Helped him plate. But it was *his* â€” his food, his moment, his parents watching from the dining room while their son ran the pass.
+I helped him cook everything. Let him call the dockets. Helped him plate. But it was *his* — his food, his moment, his parents watching from the dining room while their son ran the pass.
 
-The hype that built in the team that night â€” the energy, the focus, the way everyone lifted without being asked â€” that's a feeling you don't forget.
+The hype that built in the team that night — the energy, the focus, the way everyone lifted without being asked — that's a feeling you don't forget.
 
 It wasn't just Praveen's moment. It was proof of what we'd become.
 
@@ -344,7 +344,7 @@ A kitchen that would rally around one of its own. That understood some things ma
 
 After service, his parents came to the pass.
 
-Praveen wanted to introduce them. His mum stood back a little â€” quiet, reserved, the way I'd come to understand was typical of Indian families. His dad stepped forward.
+Praveen wanted to introduce them. His mum stood back a little — quiet, reserved, the way I'd come to understand was typical of Indian families. His dad stepped forward.
 
 > *"This is my chef."*
 
@@ -362,7 +362,7 @@ That meant everything.
 
 I knew it was time to move on when the challenge stopped.
 
-That's the thing nobody tells you about building something from nothing. There's a moment when the machine is running smoothly and the team is solid and the food is right â€” and suddenly it's not hard anymore.
+That's the thing nobody tells you about building something from nothing. There's a moment when the machine is running smoothly and the team is solid and the food is right — and suddenly it's not hard anymore.
 
 The chaos that used to test you every single service?
 
@@ -376,11 +376,11 @@ And for some people, that's enough.
 
 For me, it was a sign.
 
-The bistro didn't need me anymore. Sure, it needed someone who'd protect what we'd built â€” but it didn't need someone who'd burn themselves out chasing the next mountain.
+The bistro didn't need me anymore. Sure, it needed someone who'd protect what we'd built — but it didn't need someone who'd burn themselves out chasing the next mountain.
 
 I'd turned a sub-par venue with the bottom-of-the-barrel cooks into a kitchen that made everything in-house. Food cooked accurately, to order. The level of precision I craved, restored.
 
-The team that remained weren't just competent â€” they were extensions of my own body. We moved in unison. Like puppets on strings, but in the way that means trust, not control.
+The team that remained weren't just competent — they were extensions of my own body. We moved in unison. Like puppets on strings, but in the way that means trust, not control.
 
 I'd done what Gavin bet I would do.
 

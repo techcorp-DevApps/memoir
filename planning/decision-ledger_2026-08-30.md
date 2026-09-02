@@ -656,7 +656,6 @@ Author's note, or leave it. Nothing else depends on it.
 
 ## Also on the list, not blocking
 
-- `chapters/09_SetUpYoutStation.md` — filename typo, `Yout` → `Your`
 - `17_ProductionKitchen.md` names the narrator **Chris** — the only place in 21
   chapters. Sits under B4/B18
 - `04_FourFlights.md` drops the *"Same board. Same day. Different histories."*

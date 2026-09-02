@@ -120,7 +120,7 @@ culinary school and Grant's kitchen material.
 |---:|---|---|---|---|
 | 1 | **CHICKEN AND MASH** | — | `chapters/07_Chicken&Mash.md` | ✓ Complete |
 | 2 | **EARNING THE RIGHT** | (intro) | `chapters/08_EarningTheRight.md` | ✓ Complete |
-| 3 | **SET UP YOUR STATION** | **#11** (free) | `chapters/09_SetUpYoutStation.md` | ✓ Complete — filename typo, `Yout` → `Your` |
+| 3 | **SET UP YOUR STATION** | **#11** (free) | `chapters/09_SetUpYourStation.md` | ✓ Complete |
 | 4 | **FAT SAM** | — | `chapters/10_FatSam.md` | ✓ Complete |
 | 5 | **THE ONION WILL NOT WAIT FOR YOU** | **#10** | `chapters/11_TheOnion.md` | ✓ Complete |
 | 6 | **NEVER TAKE YOUR EYES OFF THE STOCKPOT** | **#9** | `chapters/12_TheStockPot.md` | ✓ Complete |
