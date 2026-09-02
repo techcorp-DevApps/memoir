@@ -56,9 +56,12 @@ Full timeline anchors: `CLAUDE.md` §6.
 - **B30 (binding).** No career chapter foreshadows Jackson's death — no shadow,
   no dramatic irony, anywhere before §23 closes the ChefTip ladder. The
   Jackson material sits *after* §23, not inside it.
-- **ChefTip rule-line formatting.** All seven ChefTip chapters (09, 11, 12,
-  13, 15, 18, 20) state the quotable rule in *italics*, not bold. Resolved
-  2026-09-02 (REM-031 / `CLAUDE.md` §4).
+- **ChefTip block formatting.** All seven ChefTip chapters (09, 11, 12, 13,
+  15, 18, 20) use `## ChefTip #N`, then the quotable rule in *italics*, not
+  bold, inside double quotes. No appended short title, no repeated heading in
+  a separate section. Resolved 2026-09-02 (REM-031 / `CLAUDE.md` §4 / ledger
+  B40); `context/chef-writer-context-profile.md` v2.2.0 was aligned to this
+  practice rather than the reverse.
 - **PART ONE.** Needs no name of its own — the book title (*The Long Road To
   Nowhere*) plus named chapters is sufficient structure. Resolved 2026-09-02
   (ledger B37).
