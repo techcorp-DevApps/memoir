@@ -30,8 +30,8 @@ None — the governing files (CLAUDE.md's Hard "No" List, the voice profile's Re
 
 ## Completion criteria
 
-- [ ] Neither flagged line contains a bare "I felt X" / "I am Y" construction after rewriting.
-- [ ] A reader can identify the intended emotion from the rewritten action/detail alone, without needing it named.
-- [ ] ChefTip block trimmed to roughly half its current length, with the rule stated once and not repeated as a list.
-- [ ] Re-scored Voice Standard Adherence ≥4/5.
-- [ ] ChefTip #9 rule text unchanged.
+- [x] Neither flagged line contains a bare "I felt X" / "I am Y" construction after rewriting. — 2026-09-02: both lines rewritten to physical tells (eyes/hand; shoulders dropping).
+- [x] A reader can identify the intended emotion from the rewritten action/detail alone, without needing it named.
+- [x] ChefTip block trimmed to roughly half its current length, with the rule stated once and not repeated as a list. — cut from 6 paragraphs/9 sentences to 4 paragraphs/5 sentences.
+- [ ] Re-scored Voice Standard Adherence ≥4/5. — pending Batch 7 re-validation.
+- [x] ChefTip #9 rule text unchanged.

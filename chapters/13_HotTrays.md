@@ -26,7 +26,7 @@ Not a gloved hand. Not a damp cloth. Just my bare, hopeful, freshly naïve finge
 
 The pain wasn't sharp—it was immediate. Instant. Biblical.
 
-It rocketed up my arm and straight into my bloodstream as if my nervous system had been waiting for this exact moment to initiate the rite of passage known as "Welcome to the industry, kid."
+It rocketed up my arm and straight into my bloodstream.
 
 I didn't drop the tray—which honestly shocked me more than the burn.
 
@@ -46,9 +46,9 @@ He just nodded with this grim, almost affectionate acknowledgement—the kind se
 
 Because in kitchens, some lessons aren't taught. They're inherited through suffering.
 
-Later, while I was wrapping my hand in the kind of bandage job that looked more like modern art than first aid, I realised something important:
+Later, I wrapped my hand in a bandage job that looked more like modern art than first aid.
 
-In the kitchen, nothing warns you before it hurts you.
+Nothing warns you before it hurts you.
 
 Hot trays don't glow red. Handles don't politely inform you they've been sitting in the oven for forty minutes. The pan you set down five seconds ago can somehow be hotter than the sun.
 
@@ -78,6 +78,4 @@ You get sharper. Faster. More aware. More in tune with the rhythm of the room.
 
 You start to feel the heat before you see it. Hear a mistake before it happens. Sense danger before anyone else notices it.
 
-It's not magic. It's survival.
-
-And eventually, survival becomes instinct
+Eventually, survival becomes instinct.

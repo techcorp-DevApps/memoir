@@ -30,8 +30,6 @@ The whole line laughed.
 
 Marco included.
 
-That's when I realised: this isn't cruelty. This is survival.
-
 ---
 
 The best chefs I've ever worked with were also the meanest.
@@ -139,12 +137,6 @@ Not because it was praise.
 Because it was recognition.
 
 From someone who'd seen me fuck up a hundred times and kept me anyway. Who'd watched me burn myself, humiliate myself, send out food I should've tasted and hadn't, and still trusted me with the next service.
-
-That's why we stay.
-
-Not for the food. Not for the money. Not for the dream of owning our own place one day.
-
-For the moments when someone who's seen your worst decides you're worth keeping.
 
 ---
 

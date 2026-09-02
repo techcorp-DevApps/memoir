@@ -29,14 +29,14 @@
 | 23 | 1 | REM-044 (execute) | LOW | P4 | `CLAUDE.md` §5 | REM-044 (decision) | Governing-file edit | Spelling confirmed, hedge removed | PLANNED |
 | 24 | 1 | REM-045 | MEDIUM | P1 | `context/project-memory.md` | after other CLAUDE.md edits | Governing-file regeneration | No disagreement vs CLAUDE.md | PLANNED |
 | 25 | 1 | REM-047 | LOW | P4 | `CLAUDE.md` §9 | after other batches | Governing-file edit | Diagram matches actual repo tree | PLANNED |
-| 26 | 2 | REM-001 | MEDIUM | P2 | `chapters/11_TheOnion.md` | none | Line/scene edit | Voice-checklist re-pass, no TV-trope framing | PLANNED |
-| 27 | 2 | REM-002 | HIGH | P2 | `chapters/12_TheStockPot.md` | none | Line edit (2 instances) | No bare stated-emotion construction remains | PLANNED |
-| 28 | 2 | REM-003 | MEDIUM | P2 | `chapters/12_TheStockPot.md` | REM-002 (same file) | ChefTip-block trim | Word count roughly halved | PLANNED |
-| 29 | 2 | REM-004 | CRITICAL | P2 | `chapters/13_HotTrays.md` | none | Line/scene edit | No "I realised" construction remains | PLANNED |
-| 30 | 2 | REM-005 | MEDIUM | P2 | `chapters/13_HotTrays.md` | REM-004 (same file) | Imagery trim | Comparison density matches ch.10/19 | PLANNED |
-| 31 | 2 | REM-006 | LOW | P2 | `chapters/13_HotTrays.md` | REM-004 (same file) | ChefTip-close edit | Bosco read-through | PLANNED |
-| 32 | 2 | REM-008 | HIGH | P2 | `chapters/14_TheOnesWhoStay.md` | none | Line cut | Section break reads cleanly post-cut | PLANNED |
-| 33 | 2 | REM-009 | MEDIUM | P2 | `chapters/14_TheOnesWhoStay.md` | REM-008 (same file) | Paragraph trim | Close lands without restated thesis | PLANNED |
+| 26 | 2 | REM-001 | MEDIUM | P2 | `chapters/11_TheOnion.md` | none | Line/scene edit | Voice-checklist re-pass, no TV-trope framing | DONE — 2026-09-02 |
+| 27 | 2 | REM-002 | HIGH | P2 | `chapters/12_TheStockPot.md` | none | Line edit (2 instances) | No bare stated-emotion construction remains | DONE — 2026-09-02 |
+| 28 | 2 | REM-003 | MEDIUM | P2 | `chapters/12_TheStockPot.md` | REM-002 (same file) | ChefTip-block trim | Word count roughly halved | DONE — 2026-09-02 |
+| 29 | 2 | REM-004 | CRITICAL | P2 | `chapters/13_HotTrays.md` | none | Line/scene edit | No "I realised" construction remains | DONE — 2026-09-02 |
+| 30 | 2 | REM-005 | MEDIUM | P2 | `chapters/13_HotTrays.md` | REM-004 (same file) | Imagery trim | Comparison density matches ch.10/19 | DONE — 2026-09-02 |
+| 31 | 2 | REM-006 | LOW | P2 | `chapters/13_HotTrays.md` | REM-004 (same file) | ChefTip-close edit | Bosco read-through | DONE — 2026-09-02 (executed per required outcome; Bosco read-through still pending, per plan's own optional-refinement note) |
+| 32 | 2 | REM-008 | HIGH | P2 | `chapters/14_TheOnesWhoStay.md` | none | Line cut | Section break reads cleanly post-cut | DONE — 2026-09-02 |
+| 33 | 2 | REM-009 | MEDIUM | P2 | `chapters/14_TheOnesWhoStay.md` | REM-008 (same file) | Paragraph trim | Close lands without restated thesis | DONE — 2026-09-02 |
 | 34 | 3 | REM-010 | MEDIUM | P3 | `chapters/16_TwoGlasses.md`, `chapters/17_ProductionKitchen.md` | none | Reword (one side) | Zero verbatim overlap post-edit | PLANNED |
 | 35 | 3 | REM-011 | LOW | P3 | `chapters/20_Goose&Gander.md` | none | Clause cut | No false novelty claim remains | PLANNED |
 | 36 | 3 | REM-012 | LOW | P3 | `chapters/19,20,21` (entry bridges) | none | Awareness only — likely no edit | Full read-through pacing check post-assembly | PLANNED |

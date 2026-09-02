@@ -1,6 +1,6 @@
 # THE ONION WILL NOT WAIT FOR YOU
 
-There's a very specific moment in every young cook's life when the kitchen stops being this sexy, Gordon Ramsay-lit fantasy and starts becoming what it actually is: a pit of chaos, heat, and self-inflicted humiliation. For me, that moment arrived the day I realised an onion doesn't give a single shit about my personal wellbeing.
+There's a very specific moment in every young cook's life when the kitchen stops being whatever you'd built up in your head and starts becoming what it actually is: a pit of chaos, heat, and self-inflicted humiliation. For me, that moment arrived the day I realised an onion doesn't give a single shit about my personal wellbeing.
 
 You learn that quickly.
 
@@ -48,9 +48,7 @@ It makes you faster. Cleaner. More consistent.
 
 And consistency is the only thing separating us from the lunatics who cook one good meal a month and then tell us they "could've been a chef, you know."
 
-Could you, Darren? Could you really?
-
-You cried cutting one shallot at Christmas and had to sit down.
+Could you? Come stand at my station for ten minutes and find out.
 
 Anyway.
 

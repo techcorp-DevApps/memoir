@@ -30,8 +30,8 @@ None — the governing files are accurate and current; this chapter departs from
 
 ## Completion criteria
 
-- [ ] No "I realised" / "That's when I understood" construction remains mid-narrative.
-- [ ] Stacked hyperbole reduced to 1–2 images per beat.
-- [ ] Closing sentence carries correct terminal punctuation.
-- [ ] Re-scored Voice Standard Adherence ≥4/5 and Reading Quality ≥4/5.
-- [ ] ch.14's REM-008 fix executed in the same pass, confirmed via cross-check that neither chapter still carries the pattern.
+- [x] No "I realised" / "That's when I understood" construction remains mid-narrative. — 2026-09-02: "I realised something important:" framing cut; the idea now surfaces as a standalone fragment ("Nothing warns you before it hurts you.").
+- [x] Stacked hyperbole reduced to 1–2 images per beat. — "rite of passage... Welcome to the industry, kid" clause cut, keeping "Instant. Biblical." as the beat's single image; "modern art than first aid" kept as its beat's single image. REM-006's "It's not magic. It's survival." stated-thesis line also cut, per required outcome (Bosco's read-through still open per the plan's own optional-refinement note).
+- [x] Closing sentence carries correct terminal punctuation. — REM-007 period added.
+- [ ] Re-scored Voice Standard Adherence ≥4/5 and Reading Quality ≥4/5. — pending Batch 7 re-validation.
+- [x] ch.14's REM-008 fix executed in the same pass, confirmed via cross-check that neither chapter still carries the pattern.

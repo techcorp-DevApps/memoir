@@ -30,8 +30,8 @@ None — the voice profile is accurate and current; this chapter departs from it
 
 ## Completion criteria
 
-- [ ] No TV/pop-culture comparison remains as the narrator's own descriptive frame.
-- [ ] "Darren" is either anchored to a real, previously-established detail or removed.
-- [ ] Re-scored Voice Standard Adherence ≥4/5 against the original rubric.
-- [ ] ChefTip #10 text and structural pattern unchanged.
-- [ ] Entry/exit bridges re-confirmed functional post-edit.
+- [x] No TV/pop-culture comparison remains as the narrator's own descriptive frame. — 2026-09-02: "sexy, Gordon Ramsay-lit fantasy" replaced with "whatever you'd built up in your head."
+- [x] "Darren" is either anchored to a real, previously-established detail or removed. — 2026-09-02: removed; no new character invented.
+- [ ] Re-scored Voice Standard Adherence ≥4/5 against the original rubric. — pending Batch 7 re-validation.
+- [x] ChefTip #10 text and structural pattern unchanged.
+- [x] Entry/exit bridges re-confirmed functional post-edit. — fixes are mid-narrative only; ch.12's opening callback is unaffected.
