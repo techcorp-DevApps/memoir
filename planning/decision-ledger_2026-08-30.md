@@ -429,6 +429,16 @@ book title plus named chapters is sufficient structure. `CLAUDE.md`'s header
 note and `planning/writing-plan_v1.4.0.md` §PART ONE updated to reflect this;
 neither carries an open "needs a name" flag any longer.
 
+### B38 · Bring a canon.md-equivalent into the repo (REM-036) — RESOLVED: yes
+
+The original audit cited a `references/canon.md` bundled with the memoir-studio
+skill — external to this repository, unreachable by a session working here
+alone. Bosco's ruling: bring an equivalent in. Added `context/canon.md`,
+mirroring the settled facts already in `CLAUDE.md` §5/§6 plus the structural
+rulings and open items a canon-check needs, with `CLAUDE.md` explicitly kept
+as the source of truth if the two ever disagree. `context/SOURCES.md`'s
+reading order updated to include it.
+
 ### B35 · Dylan identity (REM-016) — RESOLVED: same person, the food runner
 
 `21_TheFrenchChef.md:157` named an unidentified food runner sent for Scotty's
