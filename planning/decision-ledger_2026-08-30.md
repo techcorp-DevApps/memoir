@@ -529,8 +529,11 @@ old title, and the file mandates `### ChefTip Number X` while every chapter uses
 > **Since resolved, in part — 2026-09-02.** The mojibake was repaired
 > (REM-028/REM-040) and the stale title is gone (REM-039; the `description` was
 > already correct, the surviving instance was at `:400`). **The heading-form
-> mismatch stands**: `:115,313,316` still mandate `ChefTip Number X`. It carries
-> no REM ID and needs one.
+> mismatch stands**: `:115,313,316` still mandate `ChefTip Number X`. It belongs
+> to **REM-031**, per the governing-files plan `:93` — not to REM-039, and it is
+> not unticketed. REM-031's italic half is answered; its heading-form half is
+> still Bosco's call: does the profile change to match the manuscript, or the
+> manuscript change to match the profile?
 
 ### B11 · Numbering + `manuscript-structure` · **ANSWERED: A-variant** · 2026-08-30
 
