@@ -21,9 +21,9 @@
 
 ## REM-025 — Ch.08 "months passed" opening
 
-- **Files touched**: `chapters/08_EarningTheRight.md` (read, unedited), chapter plan 08 (read — checklist item 36 still unticked, correct).
+- **Files touched**: `chapters/08_EarningTheRight.md` (read, unedited), chapter plan 08 (read — checklist item 36 still unticked, correct), matrix row 42 (edited — pending-election qualifier added).
 - **Evidence**: Master plan `:419` — "Optional... if Bosco wants the bridge chapter's opening to match." No election recorded anywhere in the ledger or this task's brief.
-- **Status**: **OPEN — not executed.** No change made or needed to existing records.
+- **Status**: **OPEN — not executed.** Row 42 previously read an unqualified `PLANNED`, which a later executor could read as authorisation to make the prose change; it now carries the same pending-election qualifier as row 40.
 - **Blocker**: needs Bosco's yes/no on pursuing the tightening.
 
 ## B39-followup — Does ch.03 name Ivian at `:213`? (carried forward, decide-first)
@@ -35,10 +35,11 @@
 
 ## REM-036 — second source-cited fact for `CLAUDE.md` §5/§6
 
-- **Files touched**: `CLAUDE.md:220` (Ivian row, read), `CLAUDE.md:263` (fine-dining-covers row, read), matrix rows 1 and 19 (read, unedited).
-- **Evidence**: `CLAUDE.md:263` — "Fifty covers on a big night — `18_TheBaseline.md:7`" — source-cited, fact 1 of 2. `CLAUDE.md:220`'s "Male (confirmed)" carries no manuscript line citation — its only source is Bosco's verbal statement (master plan `:560`), which isn't a repo-checkable source line. No second source-cited fact exists anywhere in the repo.
-- **Status**: **PARTIAL, confirmed correct as recorded.** Matrix rows 1 and 19 already read PARTIAL — left unchanged. No fact fabricated.
-- **Blocker**: no source exists in-repo for Ivian's gender beyond the verbal ruling. Routed to Bosco — his call whether the verbal statement stands as sufficient or a manuscript source is needed.
+- **Files touched**: `CLAUDE.md:220` (Ivian row, read), `CLAUDE.md:263` (fine-dining-covers row, read), matrix rows 1 and 19 (read, unedited), `governing/2026-09-02_150000_governing-files_remediation-plan.md:20` (read), master plan `:560-561` (read).
+- **Evidence**: Both facts are present. `CLAUDE.md:263` — "Fifty covers on a big night — `18_TheBaseline.md:7`" — manuscript-cited. `CLAUDE.md:220` — "Male (confirmed)" — sourced to Bosco's direct mid-audit statement, not a manuscript line.
+- **This is a wording conflict between tracking files, not a missing fact.** Master plan `:561` permits facts "explicitly confirmed by Bosco **or** directly sourced from approved manuscript text" — an `or`. Governing plan `:20` is more explicit still: "Ivian: already given, **no further confirmation needed**." Matrix row 19's validation column ("Two facts added, cited") is the only document reading the requirement as *both* facts needing a manuscript citation, and that stricter reading is what holds the row at PARTIAL.
+- **Status**: **PARTIAL — held by the brief for this batch, not by missing evidence.** Rows 1 and 19 left unchanged. No fact fabricated, none needed.
+- **Blocker**: the matrix's validation wording contradicts the two plans it derives from. Per the batch rule that source conflicts are flagged rather than resolved, this goes to Bosco as a one-line call: **confirm the `or` reading and rows 1/19 close as DONE with no further work** — the alternative (requiring an in-manuscript source for Ivian's gender) would block a P0 item on a citation the manuscript does not contain and the plans never asked for.
 
 ---
 
@@ -53,4 +54,4 @@ Spot-checked REM-021 (matrix row 2/39, chapter plan) and REM-016 (row 38) agains
 1. REM-022 — pursue the ch.07 optional register trim, or leave as-is?
 2. REM-025 — pursue the ch.08 optional image swap, or leave as-is?
 3. B39-followup — name Ivian at ch.03:213, or leave unnamed until ch.04?
-4. REM-036 — accept the verbal ruling as sufficient for Ivian's gender fact, or require an in-manuscript source?
+4. REM-036 — confirm the plans' `or` reading (Bosco-confirmed **or** manuscript-sourced) and rows 1/19 close as DONE. Only matrix row 19's stricter "cited" wording holds them open; nothing is missing from `CLAUDE.md`.
