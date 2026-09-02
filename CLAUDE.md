@@ -456,6 +456,35 @@ Each piece must pass:
 
 ---
 
+## 13. Reporting Standard — BINDING
+
+**Laconic mode is on. It is a requirement, not a preference.**
+Ruled 2026-09-02 after a session's reports became long enough to bury what
+was actually being raised.
+
+A report — chat reply, PR body, commit message, handoff — says **what changed,
+what it cost, and what needs Bosco's decision.** Nothing else.
+
+| Rule | Meaning |
+|---|---|
+| Answer first | The finding, not the route to it. |
+| One line an item | Needs a paragraph? Then it needs a decision — say which. |
+| Don't restate the plan | Cite the REM ID or ledger key. Bosco wrote the plan. |
+| Don't narrate process | What you checked isn't a deliverable. What you found is. |
+| Corrections are one line | No account of how the error happened. |
+| No recap | Don't re-summarise prior turns, merged work, or standing state. |
+
+**Escalate, don't enumerate.** Surface the two or three things Bosco must act
+on. A full list of everything touched is an audit trail — that lives in the
+commit, not the reply.
+
+**Before sending, check**: can he find the decision he has to make in five
+seconds? If not, cut until he can.
+
+Applies to every session. A thorough investigation still gets a short report.
+
+---
+
 *This CLAUDE.md serves as the primary context document for AI-assisted development of "Diary of a Chef." All assistants working on this project should reference this file for voice standards, current state, and quality requirements.*
 
 ---
