@@ -7,8 +7,8 @@
 
 ## Required remediation, in sequence
 
-1. **REM-021 — B30 foreshadowing tension (P1, Bosco read required, HIGHEST SENSITIVITY ITEM IN THIS ENTIRE PLAN)**: The closing paragraph — "I didn't know yet what that would cost. What I'd give up. What I'd miss. The birthdays and anniversaries and ordinary Tuesday nights that would slip past while I stood over a hot stove, chasing something I couldn't quite name" — sits close to, but does not clearly violate, the binding B30 rule ("No career chapter anticipates the death. No shadow, no foreshadowing, no dramatic irony"). **No one but Bosco can resolve this** — it turns on whether he wrote it with Jackson in mind. Two acceptable outcomes: (a) he confirms it's legitimate generic career-cost reflection and no edit is made; (b) he asks for a reword, in which case generalise the specific phrasing ("birthdays and anniversaries," "ordinary Tuesday nights") into a broader, less person-shaped cost while keeping the paragraph's function (establishing that the chosen path has a cost).
-2. **REM-022 — closing-three-paragraphs register shift (P3, optional, MUST WAIT for REM-021)**: The final three paragraphs shift into a more writerly, essayistic register than the grounded scene-voice earlier in the chapter. Optional tightening toward more specific, image-anchored prose, matching the tasting-scene register — **only after** REM-021 is resolved, since a reworded B30-flagged sentence changes what this edit works with.
+1. **REM-021 — B30 foreshadowing tension — RESOLVED, ledger B34 (2026-09-02).** Bosco read the closing paragraph directly against B30: does not violate, no edit made. `chapters/07_Chicken&Mash.md` unchanged.
+2. **REM-022 — closing-three-paragraphs register shift (P3, optional) — UNBLOCKED, not yet elected.** REM-021's dependency is cleared (B34). Still optional tightening toward more specific, image-anchored prose, matching the tasting-scene register — pending Bosco's decision whether to pursue it at all.
 3. **Inherited encoding (REM-028)**: 5 mojibake instances (e.g., "smellâ€”rich," "onceâ€”for the first fucking time") — handled in the manuscript-wide Batch 5 copy-editing pass, not as a standalone action for this chapter specifically.
 
 ## What to explicitly preserve
@@ -26,12 +26,12 @@
 
 ## Governing dependencies
 
-- REM-021's resolution should be recorded as a new dated entry in `planning/decision-ledger_2026-08-30.md` (recommended key "B34" per the governing-files plan), consistent with how the ledger already tracks every other author-only decision.
+- REM-021's resolution is recorded at `planning/decision-ledger_2026-08-30.md` §B34 (2026-09-02): does not violate B30, no edit.
 
 ## Completion criteria
 
-- [ ] Bosco has read the flagged paragraph directly against the B30 rule and given a decision.
-- [ ] If reworded: the paragraph no longer reads as pointed at a specific later loss, while retaining its narrative function.
-- [ ] REM-022 (if pursued) does not begin before REM-021 closes.
-- [ ] Exiting bridge into ch.08 re-confirmed strong post-edit.
-- [ ] Decision recorded in the decision ledger.
+- [x] Bosco has read the flagged paragraph directly against the B30 rule and given a decision. — B34, 2026-09-02
+- [x] Paragraph unchanged — B34 ruled no violation, no rewording needed.
+- [ ] REM-022 (if pursued) does not begin before REM-021 closes. — dependency cleared; pursuit itself still awaits Bosco's election
+- [ ] Exiting bridge into ch.08 re-confirmed strong post-edit. — N/A unless REM-022 is elected
+- [x] Decision recorded in the decision ledger. — B34
