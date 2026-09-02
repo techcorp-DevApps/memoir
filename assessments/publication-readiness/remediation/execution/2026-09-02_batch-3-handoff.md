@@ -30,12 +30,12 @@ rows it touched. Verified as actually complete in the working tree despite a
 |---|---|---|
 | REM-015 (ch.21 line 9 commas) | 41 | Done — commas present |
 | REM-018 (ch.04 faze/fazed) | 48 | Done — 2 instances corrected |
-| REM-029 (filename) | 50 | Done — `09_SetUpYourStation.md` |
+| REM-029 (filename) | 50 | **Half done.** The `git mv` landed (`09_SetUpYourStation.md`), but REM-029's strategy also requires updating internal cross-references and that sweep did not happen. Still naming the old path: the master plan's own Batch 5 file list (`:834`) and matrix row 50. Update those two *operational* references; **leave the dated historical records alone** (`reviews/manuscript-audit_2026-08-30.md`, the 2026-09-01 assessments, `_continuity-register.md`, and REM-029's own entry at `:468-476`) — they are point-in-time records that correctly describe the state when written |
 | REM-030 (ch.15 H1) | 51 | Done — `# IF YOU DIDN'T TASTE IT, IT ISN'T YOURS` |
 | REM-020 (ch.03 dual H1) | 3 | Done — B15 Option A, now one H1 + `## GENERAL POPULATION` |
 | REM-028 / REM-040 (encoding) | 49, 22 | Done — zero mojibake in chapters |
 | REM-016 (Dylan) | 9, 17, **38** | **Fully done, including the Batch 3 row** — see §3 |
-| Batch 0 decisions | 1–14 | All ruled: ledger B13, B15, B21, B22, B34, B35, B36, B37, B38 |
+| Batch 0 decisions | 1–14 | Ruled: ledger B13, B15, B21, B22, B34, B35, B36, B37, B38. **Two exceptions — rows 4 and 5 are genuinely still open**: REM-042 (ChefTips #2/#3/#4 placement) has no ruling, `planning/writing-plan_v1.4.0.md` still lists all three as `Unplaced / Open`; and REM-023 is blocked on it, with `chapters/08_EarningTheRight.md:59` still reading "Ten ChefTips". **Do not close either while cleaning the matrix** |
 
 **Cleaning up rows 1–25 is a legitimate task for this session**, and cheap. Verify each
 against the file before changing a status — do not mass-mark.
@@ -68,8 +68,9 @@ Confirmed still present, at the lines the plan cites. `16_TwoGlasses.md:97-99` a
 into words." — but `19_CoastOrClimb.md:125-129` already gave the narrator the same
 formulation, attributed to the same source.
 
-- **Preferred fix, lightest touch: cut "but never put into words" from ch.20:33.** Keeps the sentiment, drops the false novelty.
-- Leave ch.19 alone. Leave ch.20's range-hood scene alone — single-clause fix.
+- The plan's **preferred fix is to cut "but never put into words"** from ch.20:33 — lightest touch, keeps the sentiment.
+- ⚠️ **That fix may not satisfy its own validation, and you need to decide before applying it.** The cut leaves "That's when I understood something I'd felt." — which still frames *this* scene as the moment of understanding, while ch.19:129 already has "I'd learned that at the vineyard." REM-011's validation asks you to "confirm the second no longer claims to be discovering something the first already stated", and the clause-cut alone arguably fails it. The plan's own **Alternative** — reframing as an explicit callback to the vineyard rather than a fresh discovery — is the branch that actually clears the criterion. Judge it on a back-to-back read of both chapters; if you take the Alternative, the wording is yours to draft, but keep it to the one sentence.
+- Leave ch.19 alone. Leave ch.20's range-hood scene alone — this is a single-sentence fix either way.
 
 ### REM-012 — recap redundancy at Part seams · LOW · **recommend NO edit**
 The plan's own disposition is awareness-only. Three entry bridges (19, 20, 21) restate
@@ -112,7 +113,8 @@ with full familiarity at `04:11` and `04:157` with no prior introduction anywher
   - ch.16: the wine-education ritual, the departure scene (folded note, Chef's send-off), and the hedged "Almost like I belonged somewhere" (explicitly *not* a Hard-No violation — do not "fix" it).
   - ch.17: everything but lines 3–5. The present-tense asides, Dane/Robbie's "near enough" comedy, Gavin's first scene.
   - ch.20: the brigade-anticipation scene and the range-hood reversal; the exiting bridge to ch.21.
-  - ch.21: the pork-belly brine/cure physics, the service-crisis sequence, the closing line, and Carly's name in the prose.
+  - ch.21: the pork-belly brine/cure physics, the service-crisis sequence, the closing line, and **Rachael's name in the prose — Rachael, not Carly.**
+    > ⚠️ The ch.21 chapter plan says to preserve "Carly" and that REM-032 would never touch this chapter's prose. **That plan predates ledger B36 and is wrong now.** Bosco ruled Rachael correct, against the chapter's own evidence, and #5 changed all four instances (lines 105, 107, 223, 235). The prose says Rachael today; `context/canon.md:29` carries the ruling. Do not "restore" Carly while checking protected passages — that would reverse an author ruling.
 - **Author rulings are final and must not be re-litigated.** From Batch 2, in ch.11: the "Darren" strawman beat stays (Bosco overrode REM-001), and `:11` "trauma documentaries" stays. Both are recorded in the ch.11 plan and matrix. If a review bot flags either, the answer is the ruling.
 
 ---
@@ -145,9 +147,11 @@ with full familiarity at `04:11` and `04:157` with no prior introduction anywher
 - [ ] ch.20:33 no longer claims novelty; ch.19 untouched; range-hood scene untouched.
 - [ ] REM-012 recorded as "no action, per plan disposition".
 - [ ] REM-016 row closed against the already-present clause at ch.21:157.
+- [ ] **`../chapters/...21_the-french-chef_remediation-plan.md` brought current** — it is stale twice over: its REM-016 steps still say Bosco must confirm Dylan and that the clause is yet to be added (both done, ledger B35), and its preservation list still protects "Carly" (superseded by B36). Left as is, it re-opens two settled rulings.
 - [ ] ch.04 carries a one-sentence Ivian introduction at first mention, consistent with canon, inventing nothing.
-- [ ] Matrix rows 34–38 updated honestly (`DONE` / `PARTIAL` with reason / `NO ACTION`), and the stale Batch 0/1 rows in §2 corrected against verified file state.
-- [ ] Chapter plans for 16, 17, 19, 20, 04 updated with what was done.
+- [ ] Matrix rows 34–38 updated honestly (`DONE` / `PARTIAL` with reason / `NO ACTION`), and the stale Batch 0/1 rows in §2 corrected against verified file state — **without closing REM-023 or REM-042, which are genuinely open.**
+- [ ] REM-029's outstanding reference sweep done (master plan `:834`, matrix row 50), historical records left untouched.
+- [ ] Chapter plans for 16, 17, 19, 20, 21, 04 updated with what was done.
 - [ ] Every ring-fenced passage in §4 confirmed byte-identical.
 - [ ] Reviewed before merge; findings answered and threads resolved.
 
