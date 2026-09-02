@@ -831,7 +831,7 @@ Follows the master hierarchy (facts → chronology → governing-file conflicts 
 ### Batch 5 — Copy-editing & proofreading sweep
 **Purpose**: One mechanical pass fixing every remaining spelling, punctuation, formatting-consistency, and encoding defect across the manuscript and the one affected governing file.
 **Issues included**: REM-007, REM-013, REM-014, REM-018, REM-028, REM-029, REM-030, REM-040 (bundled with Batch 1's REM-039 edit to the same file — do not reopen `chef-writer-context-profile.md` twice).
-**Files affected**: `chapters/04_FourFlights.md`, `chapters/09_SetUpYoutStation.md` (renamed), `chapters/13_HotTrays.md`, `chapters/15_TasteIt.md`, `chapters/19_CoastOrClimb.md`, and 12 more chapters carrying only inherited mojibake (07, 08, 10, 11, 12, 14, 16, 17, 18, 20, 21 — plus 09's content, distinct from its filename).
+**Files affected**: `chapters/04_FourFlights.md`, `chapters/09_SetUpYourStation.md` (rename executed), `chapters/13_HotTrays.md`, `chapters/15_TasteIt.md`, `chapters/19_CoastOrClimb.md`, and 12 more chapters carrying only inherited mojibake (07, 08, 10, 11, 12, 14, 16, 17, 18, 20, 21 — plus 09's content, distinct from its filename).
 **Prerequisites**: Should run **after** Batches 2 and 3 close, so files being voice-edited aren't diffed twice for the same encoding pass.
 **Expected outcome**: Zero mojibake remaining anywhere in the repository; zero introduced typos/punctuation gaps remaining; filename corrected.
 **Validation**: Encoding-detection re-run at zero; spell-check re-run at zero for the specific flagged instances; git history confirms the filename rename preserved history.

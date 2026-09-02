@@ -29,7 +29,7 @@
 
 ## Completion criteria
 
-- [ ] Line 33–35 no longer claims novelty for an idea ch.19 already stated, while preserving the sentiment.
-- [ ] Bosco has decided REM-031's direction; this chapter's heading format matches the decided convention across all seven ChefTip chapters.
-- [ ] Brigade-anticipation scene and range-hood reversal confirmed unchanged.
-- [ ] Exiting bridge to ch.21 confirmed unaffected.
+- [x] Line 33–35 no longer claims novelty for an idea ch.19 already stated, while preserving the sentiment. — DONE 2026-09-02, via the Alternative (explicit callback), not the plan's original preferred cut: **"Same rule the vineyard gave me — it just cost more now the kitchen was mine."** Two earlier attempts were rejected: the plan's preferred clause-cut ("...something I'd felt.") still framed this scene as the moment of understanding against ch.19:129's "I'd learned that at the vineyard"; a second attempt ("stopped being something I knew and started being something I lived") still claimed a first-time transition, which ch.19:145-161 contradicts — the narrator is already shown scrubbing grout alongside the brigade with "every expectation... bolted directly to my own actions." The line now frames continuation and cost, claiming no first anything.
+- [x] Bosco has decided REM-031's direction; this chapter's heading format matches the decided convention across all seven ChefTip chapters. — resolved prior to Batch 3 (REM-031 execute, matrix row 18/21); this chapter's rule line at line 55 already uses italic, matching the convention statement at `CLAUDE.md:172`.
+- [x] Brigade-anticipation scene and range-hood reversal confirmed unchanged.
+- [x] Exiting bridge to ch.21 confirmed unaffected.

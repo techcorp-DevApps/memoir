@@ -1,8 +1,8 @@
 # PRODUCTION KITCHEN
 
-That was New Zealand. That was where it started.
+Three years at the vineyard, then the door shut behind me.
 
-A lot of kitchens have happened since then. Different cities. Different countries. Different ways of being told I wasn't good enough yet.
+Everything after it was somewhere else — the same job, learned over again in a room that did it differently.
 
 Australia was first.
 

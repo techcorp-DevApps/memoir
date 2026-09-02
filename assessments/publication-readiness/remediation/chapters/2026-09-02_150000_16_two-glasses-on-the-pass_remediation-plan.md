@@ -29,6 +29,6 @@ None.
 
 ## Completion criteria
 
-- [ ] This file's content confirmed unchanged.
-- [ ] Post-edit, a text-diff against `17_ProductionKitchen.md` shows zero verbatim sentence overlap.
-- [ ] Vineyard-to-Australia transition re-confirmed strong after ch.17's rewording.
+- [x] This file's content confirmed unchanged. — verified 2026-09-02 (Batch 3).
+- [x] Post-edit, a text-diff against `17_ProductionKitchen.md` shows zero verbatim sentence overlap. — confirmed 2026-09-02.
+- [x] Vineyard-to-Australia transition re-confirmed strong after ch.17's rewording. — confirmed 2026-09-02.

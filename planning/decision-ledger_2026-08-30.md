@@ -701,6 +701,22 @@ Author's note, or leave it. Bosco's ruling: leave it. Composite characters are
 standard, legitimate memoir-craft — no author's note, no edit to `08_EarningTheRight.md`
 or `14_TheOnesWhoStay.md`.
 
+### B39 · Ivian's relationship to the narrator (REM-017) — RESOLVED: celly
+
+REM-017 added a one-clause introduction at Ivian's first mention, `04:11`. The
+first wording, "my wing-cleaning partner," came from `CLAUDE.md` §5, which
+carried only that role. Bosco corrected it on read-back: **celly.** The line now
+reads "Ivian, my celly, was out in the yard." `CLAUDE.md` §5 and
+`context/canon.md` updated to carry both — celly, and wing-cleaning partner.
+
+**One thing this opens, for Bosco, not to be settled by anyone else.**
+`03_FreshForUnlock.md:207-213` already has two cellmates: the classification
+celly he did not want to share with, and "my mate" with the spare bunk and the
+TV, whose cell he moved into. Naming Ivian "my celly" in ch.04 implicitly makes
+him one of those two — almost certainly the mate. The register carries them as
+separate, unnamed people. If Ivian *is* the mate with the TV, ch.03 and the
+register should say so; if he is not, ch.04 needs a word that doesn't collide.
+
 ---
 
 ## Also on the list, not blocking

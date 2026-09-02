@@ -29,8 +29,8 @@
 
 ## Completion criteria
 
-- [ ] Lines 3–5 reworded with materially different wording from `16_TwoGlasses.md:97-99`.
-- [ ] Text-diff confirms zero verbatim sentence overlap between the two files.
-- [ ] Entry bridge from ch.16 re-confirmed strong.
-- [ ] Exiting bridge to ch.18 confirmed unaffected.
-- [ ] Rest of chapter confirmed unchanged.
+- [x] Lines 3–5 reworded with materially different wording from `16_TwoGlasses.md:97-99`. — DONE 2026-09-02: "Three years at the vineyard, then the door shut behind me. / Everything after it was somewhere else — the same job, learned over again in a room that did it differently." Same orienting information (vineyard era ending, a series of kitchens following, Australia opening it). **A first pass kept the "different cities / different countries / wasn't good enough" triple and was rejected on review** — retaining that list reproduced ch.16's close in near-identical terms even without byte-identical sentences. The list is now gone from this chapter entirely; ch.16 keeps it.
+- [x] Text-diff confirms zero verbatim sentence overlap between the two files. — confirmed 2026-09-02.
+- [x] Entry bridge from ch.16 re-confirmed strong. — confirmed 2026-09-02.
+- [x] Exiting bridge to ch.18 confirmed unaffected. — untouched.
+- [x] Rest of chapter confirmed unchanged. — untouched.

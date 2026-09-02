@@ -33,8 +33,8 @@
 
 ## Completion criteria
 
-- [ ] 05/06 draft material checked for an existing Ivian introduction before any ch.04 edit is made.
-- [ ] Ivian gap resolved (either naturally via sequencing, or via a minimal added beat).
-- [ ] Both phase/phased instances corrected to faze/fazed.
-- [ ] Bosco has answered whether the closing line was a deliberate cut; action taken (or explicitly not taken) accordingly.
-- [ ] `fucken` spelling untouched throughout.
+- [x] 05/06 draft material checked for an existing Ivian introduction before any ch.04 edit is made. — DONE: `drafts/TheEarlyDays.md` (467 lines, CONCURRENT → GRANT'S KITCHEN) contains zero occurrences of "Ivian."
+- [x] Ivian gap resolved via a minimal added beat. — DONE 2026-09-02: line 11 reads "Ivian, my celly, was out in the yard." One clause; Bosco corrected the relationship to celly (also wing-cleaning partner), `CLAUDE.md` §5 and `context/canon.md` updated to match.
+- [x] Both phase/phased instances corrected to faze/fazed. — already correct as of Batch 3 (verified lines 45, 261 read "faze"/"fazed").
+- [x] Bosco has answered whether the closing line ("Same board. Same day. Different histories.") was a deliberate cut; action taken accordingly. — DONE, resolved 2026-09-02 before this batch: not a deliberate cut; restored as the chapter's final line at `04:293`, landing after "She was betting on me before there was anything to bet on." Verified present.
+- [x] `fucken` spelling untouched throughout.
