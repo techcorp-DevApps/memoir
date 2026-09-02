@@ -526,6 +526,12 @@ is the real problem: its `description` still says **'Diary of an Apprentice'**, 
 old title, and the file mandates `### ChefTip Number X` while every chapter uses
 `## ChefTip #N`.
 
+> **Since resolved, in part — 2026-09-02.** The mojibake was repaired
+> (REM-028/REM-040) and the stale title is gone (REM-039; the `description` was
+> already correct, the surviving instance was at `:400`). **The heading-form
+> mismatch stands**: `:115,313,316` still mandate `ChefTip Number X`. It carries
+> no REM ID and needs one.
+
 ### B11 · Numbering + `manuscript-structure` · **ANSWERED: A-variant** · 2026-08-30
 
 **RULING.** Align numbering and completed-chapter points into one clear sequence,
@@ -569,10 +575,17 @@ of the book gets a reserved block rather than exact numbers.
 
 ## TIER 4 — facts in dispute
 
-### B12 · Carly vs Rachael · OPEN
-`21_TheFrenchChef.md` says **Carly**, twice. `CLAUDE.md` § 5 says **Rachael**.
-**A** Carly — fix CLAUDE.md **(repo)** · **B** Rachael — fix the chapter ·
-**C** neither, she's renamed
+### B12 · Carly vs Rachael · CLOSED — superseded by B36, answer B
+
+`21_TheFrenchChef.md` said **Carly** (four times, not twice). `CLAUDE.md` § 5
+says **Rachael**. Options were: **A** Carly — fix CLAUDE.md · **B** Rachael —
+fix the chapter · **C** neither, she's renamed.
+
+**Answered B, at B36 below.** The evidence favoured the chapter; Bosco's call
+went the other way. All four chapter instances (lines 105, 107, 223, 235) were
+changed to Rachael; `CLAUDE.md` needed no change. `context/canon.md:29` carries
+it. This header sat at `OPEN` for a day after B36 answered it and was read as a
+live question by a later pass — refreshed 2026-09-02.
 
 ### B13 · Jen — commis or CDP · CLOSED — commis
 `CLAUDE.md` says commis. `manuscript-structure` says CDP (superseded, not
@@ -709,13 +722,17 @@ carried only that role. Bosco corrected it on read-back: **celly.** The line now
 reads "Ivian, my celly, was out in the yard." `CLAUDE.md` §5 and
 `context/canon.md` updated to carry both — celly, and wing-cleaning partner.
 
-**One thing this opens, for Bosco, not to be settled by anyone else.**
-`03_FreshForUnlock.md:207-213` already has two cellmates: the classification
-celly he did not want to share with, and "my mate" with the spare bunk and the
-TV, whose cell he moved into. Naming Ivian "my celly" in ch.04 implicitly makes
-him one of those two — almost certainly the mate. The register carries them as
-separate, unnamed people. If Ivian *is* the mate with the TV, ch.03 and the
-register should say so; if he is not, ch.04 needs a word that doesn't collide.
+**RESOLVED 2026-09-02 — same person.** `03_FreshForUnlock.md:207-213` carries
+two cellmates: the classification celly he refused to stay with, and "my mate"
+with the spare bunk and the TV, whose cell he moved into. Bosco confirms **Ivian
+is that mate.** So ch.04's "my celly" is consistent, not a collision, and the
+register now carries the link.
+
+**Still Bosco's, not settled here:** whether ch.03 should *name* Ivian at
+`:213` ("But my mate had a spare bunk in his cell") instead of leaving him
+unnamed until ch.04. Naming him there would introduce him at his true first
+appearance and make ch.04's one-clause introduction redundant. That is a prose
+change to an approved chapter, so it waits on Bosco.
 
 ---
 

@@ -397,7 +397,7 @@ When generating new content in this voice:
     - Does the piece avoid over-explaining or forcing epiphany?
     - Is there trust in the reader to feel what isn't said?
 
-If any of these answers are "no", adjust the piece until it feels like it belongs in the same universe as *Diary of an Apprentice* and the existing entries.
+If any of these answers are "no", adjust the piece until it feels like it belongs in the same universe as *The Long Road To Nowhere* and the existing entries.
 
 ---
 
