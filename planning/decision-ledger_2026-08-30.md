@@ -564,10 +564,11 @@ of the book gets a reserved block rather than exact numbers.
 **A** Carly — fix CLAUDE.md **(repo)** · **B** Rachael — fix the chapter ·
 **C** neither, she's renamed
 
-### B13 · Jen — commis or CDP · OPEN
-`CLAUDE.md` says commis. `manuscript-structure` says CDP. `19_CoastOrClimb.md`
-gives no rank.
-**A** commis · **B** CDP · **C** commis then CDP — she progressed
+### B13 · Jen — commis or CDP · CLOSED — commis
+`CLAUDE.md` says commis. `manuscript-structure` says CDP (superseded, not
+maintained going forward). `19_CoastOrClimb.md` gives no rank. Bosco confirms:
+commis. `CLAUDE.md` already stated this correctly; no chapter edit — her rank
+stays unstated on the page, which was never a contradiction, just an absence.
 
 ### B14 · `drafts/TheEarlyDays.md` · OPEN
 First third is pre-correction (age **23**, visits **behind glass**) and superseded.
@@ -680,9 +681,10 @@ this ledger, the transcript addendum, plus the uncommitted `22_Dave.md` /
 **A** push it all · **B** push nothing, you commit by hand · **C** push a
 specified subset
 
-### B21 · `Geoffery` or `Geoffrey` · OPEN
+### B21 · `Geoffery` or `Geoffrey` · CLOSED — Geoffrey Welham
 Spelled `Geoffery` in the transcript, `Geoffrey` by Bosco this session. One letter,
-goes in print.
+goes in print. Resolved with full name: **Geoffrey Welham**. `CLAUDE.md` § 5
+updated; "spelling unconfirmed" hedge removed.
 
 ### B22 · Disclose the composite · CLOSED — leave undisclosed
 Author's note, or leave it. Bosco's ruling: leave it. Composite characters are

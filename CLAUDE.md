@@ -237,7 +237,7 @@ uses is the author's call — do not normalise one into the other.
 | Character | Note |
 |---|---|
 | **Marco** | **Not a real person as portrayed — the only one in the manuscript.** The event is real (the grill chef who cut himself and kept flipping steaks) but it is **Geoffrey's** story, not the author's. Added for scene depth. Ruled 2026-08-30. |
-| **Geoffrey** | The vineyard **Chef**. Carried in this register only as "Chef". Spelling unconfirmed — `Geoffery` in `interviews/return-to-yulara/transcript.md`. |
+| **Geoffrey Welham** | The vineyard **Chef**. Carried in this register only as "Chef". |
 | **"Sam" (female sous)** | Appears in the pre-memoir blog source as a woman. That was the **anonymised** version. The memoir restores the real identity, **Fat Sam**. Ruled 2026-08-30. |
 | **The author's father** | **Machinist at a forestry mill; previously a cabinet maker / woodworker.** Dish: curried sausages. The blog's "dental surgeon" and "apple torte" were disguises. Has no row above — needs one. |
 | **The author's mother** | Dish: **bbq chicken**. The blog's "kangaroo curry" was a disguise. |
