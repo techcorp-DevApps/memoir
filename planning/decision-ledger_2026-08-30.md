@@ -421,6 +421,14 @@ and the answer arrives later.
 full. If it stays, a real named public figure is quoted in a published memoir —
 attribution and permissions are a publisher question.
 
+### B37 · PART ONE naming (REM-037) — RESOLVED: no part name needed
+
+Raised when the book was retitled *The Long Road To Nowhere*, taking PART ONE's
+old working name with it. Bosco's ruling: no additional naming is needed — the
+book title plus named chapters is sufficient structure. `CLAUDE.md`'s header
+note and `planning/writing-plan_v1.4.0.md` §PART ONE updated to reflect this;
+neither carries an open "needs a name" flag any longer.
+
 ### B35 · Dylan identity (REM-016) — RESOLVED: same person, the food runner
 
 `21_TheFrenchChef.md:157` named an unidentified food runner sent for Scotty's

@@ -3,7 +3,8 @@
 > **Retitled 30 August 2026.** Title lineage: untitled piece → blog *Diary of an
 > Apprentice* → memoir *Diary of a Chef* → **The Long Road To Nowhere**. Earlier
 > titles in `context/` are correct for their era, not errors.
-> **PART ONE needs a new name** — the book has taken its old one.
+> **PART ONE needs no name of its own** (ruled 2026-09-02) — the book title plus
+> named chapters is sufficient structure.
 
 > **Project**: Culinary memoir chronicling a professional kitchen journey across New Zealand and Australia
 > **Author**: Bosco
