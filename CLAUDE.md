@@ -168,7 +168,7 @@ ChefTips are numbered by **cost** — higher number = cheaper lesson.
 3. **Escalation** — The error, near-miss, or stressful moment
 4. **Humiliation/Realisation** — Internal monologue, shame, public calling-out
 5. **Reflection** — What it taught about craft, presence, standards
-6. **ChefTip Block** — `## ChefTip #X` with bold quotable rule and expansion
+6. **ChefTip Block** — `## ChefTip #X` with the quotable rule in *italics* and expansion
 
 ---
 

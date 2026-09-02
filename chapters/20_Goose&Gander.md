@@ -52,7 +52,7 @@ There's a phrase I heard somewhere along the way. Might've been my mother. Might
 
 ## ChefTip #5
 
-**"What's good for the goose is good for the gander."**
+*"What's good for the goose is good for the gander."*
 
 Same rules. Same standard. Top to bottom.
 

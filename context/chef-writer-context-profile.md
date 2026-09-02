@@ -314,8 +314,8 @@ When writing a **ChefTip**:
 - Follow with:
   - Narrative episode leading into the lesson.
   - Separate `### ChefTip Number X` section that:
-    - States the rule in bold, e.g.  
-      `**"If you didn't taste it, it isn't yours."**`
+    - States the rule in italics, e.g.  
+      `*"If you didn't taste it, it isn't yours."*`
     - Explains why the rule exists (craft, safety, consistency, responsibility).
     - Expands to broader life/career implications.
 - ChefTips are always:
