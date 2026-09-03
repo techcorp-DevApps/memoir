@@ -95,7 +95,7 @@ The full profile lives at `/context/chef-writer-context-profile.md`. Key element
 | FRESH FOR UNLOCK | — | ✓ Draft v0.4 |
 | FOUR FLIGHTS | — | ✓ Complete — `chapters/04_FourFlights.md` |
 | STARTING MONDAY | — | ✓ Complete — `chapters/05_StartingMonday.md` |
-| *[gap at 06 — culinary school first day, Grant's kitchen]* | — | drafted inside `drafts/TheEarlyDays.md`, not split out |
+| *[gap at 06 — Grant's kitchen]* | — | drafted inside `drafts/TheEarlyDays.md`, not split out. Culinary school first day now sits inside `05_StartingMonday.md` |
 | CHICKEN AND MASH | — | ✓ Complete |
 | EARNING THE RIGHT | (intro) | ✓ Complete |
 | SET UP YOUR STATION | #11 (free) | ✓ Complete |
