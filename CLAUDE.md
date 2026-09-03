@@ -217,7 +217,7 @@ ChefTips are numbered by **cost** — higher number = cheaper lesson.
 | **Glen** | Culinary Tutor | Wool cardigan. Handled the confrontation. |
 | **Grant** | First Head Chef | Auckland. High-functioning alcoholic. Gave heads up about sale. |
 | **Sarah/Sharon** | Parole Officer | Young, by the book. Dying pot plant. Golden retriever photo. "You're starting a cooking course on Monday." |
-| **Ivian** | Celly; wing cleaner partner | Male (confirmed). Mopping, bins, extra unlock, extra milk. The mate with the spare bunk and the TV at `03_FreshForUnlock.md:213` — same person, ruled 2026-09-02 (ledger B39). Unnamed in ch.03; first named at `04:11`. |
+| **Ivian** | Celly; wing cleaner partner | Male (confirmed). Mopping, bins, extra unlock, extra milk. **Named at his first appearance**, `03_FreshForUnlock.md:215` — the mate with the spare bunk and the TV, whose cell the narrator moved into (ruled 2026-09-02, ledger B39). Referred to as "my celly" at `04:11`, named again at `04:157`. Not the classification celly at `03:207`, who is a different, unnamed man. |
 
 ### Family
 

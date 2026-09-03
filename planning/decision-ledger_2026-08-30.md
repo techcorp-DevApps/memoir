@@ -728,11 +728,25 @@ with the spare bunk and the TV, whose cell he moved into. Bosco confirms **Ivian
 is that mate.** So ch.04's "my celly" is consistent, not a collision, and the
 register now carries the link.
 
-**Still Bosco's, not settled here:** whether ch.03 should *name* Ivian at
-`:213` ("But my mate had a spare bunk in his cell") instead of leaving him
-unnamed until ch.04. Naming him there would introduce him at his true first
-appearance and make ch.04's one-clause introduction redundant. That is a prose
-change to an approved chapter, so it waits on Bosco.
+**Followup RESOLVED 2026-09-02 — ch.03 names him; ch.04 drops the name.**
+Bosco's ruling, in his words: the wing-cleaning scene in ch.04 happens *after*
+he moved in with Ivian, so the naming belongs at the earlier point.
+
+> *"there was a spare bunk in my mate Ivians cell and he had a TV" — with the
+> later reference dropping the naming of him, the celly line so it becomes
+> simply "my celly".*
+
+Executed:
+
+- `03_FreshForUnlock.md:215` — "But my mate had a spare bunk in his cell." →
+  **"But there was a spare bunk in my mate Ivian's cell."** The "And a TV." beat
+  and the "So I got myself moved to his house instead." close are unchanged.
+- `04_FourFlights.md:11` — "Ivian, my celly, was out in the yard." →
+  **"My celly was out in the yard."** He is still named at `04:157`.
+
+This closes REM-017 more thoroughly than the ch.04 clause did: the reader now
+meets Ivian by name at his true first appearance, and ch.04 uses him with
+familiarity the reader has already earned.
 
 ### B40 · ChefTip heading form (REM-031, second half) — RESOLVED: the profile changes
 
@@ -762,6 +776,38 @@ chapter ever used:
 3. §10 — dropped the `## ChefTip Number X — "Short Title In Quotes If Needed."`
    heading, and the separate `### ChefTip Number X` section that repeated it. In
    practice the chapter title is the H1 and the ChefTip is one block inside it.
+
+### B41 · ch.07 closing register (REM-022) — RESOLVED: no edit
+
+The optional trim of ch.07's essayistic close was put to Bosco once REM-021
+cleared it (B34). **Ruling: leave it.** The hindsight register is licensed by
+the voice profile's identity blend, B34 already established what the paragraph
+is doing, and the exiting bridge into ch.08 is rated strong as written.
+REM-022 closes NO ACTION.
+
+### B42 · ch.08 opening movement (REM-025) — RESOLVED: no edit
+
+The optional swap of a generic summary line for a concrete image in ch.08's
+compressed-time opening. **Ruling: leave it.** Each flagged line is a topic
+sentence answered immediately by hard specifics ("I learned things I didn't
+know I was learning" → "How to read a kitchen by sound alone—the rhythm of the
+pans, the pitch of Chef's voice, the silence that meant someone was in the
+shit"). The compression is the chapter's job as connective tissue.
+REM-025 closes NO ACTION.
+
+### B43 · REM-036 evidence standard — RESOLVED: `or`, not `and`
+
+Matrix row 19 read REM-036's validation as requiring **both** canon facts to
+carry a manuscript citation. The two plans it derives from do not: master plan
+`:561` permits facts "explicitly confirmed by Bosco **or** directly sourced
+from approved manuscript text", and the governing plan `:20` states "Ivian:
+already given, no further confirmation needed."
+
+**Bosco's ruling: the `or` reading is correct.** Both facts are already in
+`CLAUDE.md` (covers figure citing `18_TheBaseline.md:7`; Ivian's gender on
+Bosco's direct confirmation). Matrix rows 1 and 19 close **DONE**, and row 19's
+validation wording was corrected to match the plans rather than left to be
+re-tripped over by a later batch.
 
 ---
 
