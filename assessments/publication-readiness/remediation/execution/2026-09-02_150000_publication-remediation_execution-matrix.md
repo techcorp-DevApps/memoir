@@ -1,6 +1,6 @@
 # Publication Remediation — Execution Matrix
 
-**Companion to**: the master plan and governing-files plan in this same remediation directory. Status column reflects repo state as of this plan's authoring (2026-09-02) — `PLANNED` unless direct evidence showed otherwise (none did; no batch has executed yet).
+**Companion to**: the master plan and governing-files plan in this same remediation directory. This is the living execution-status record; statuses are updated as batches and author rulings land. Last updated through Batch 4 on 2026-09-02.
 
 | Order | Batch | REM ID | Severity | Priority | Chapter/File | Dependency | Action Type | Validation | Status |
 |---|---|---|---|---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | 45 | 5 | REM-007 | LOW | P4 | `chapters/13_HotTrays.md` | bundle with Batch 2 pass on ch.13 (run after Batch 2 closes) | Punctuation fix | Diff shows only the mark changed | DONE — 2026-09-02 (executed inside the Batch 2 ch.13 pass, as the plan's own bundling note directs; the diff shows more than the mark alone because REM-006 cut the line immediately before it) |
 | 46 | 5 | REM-013 | LOW | P4 | `chapters/19_CoastOrClimb.md` | none | Grammar/spelling fix | Line 259 clean | PLANNED |
 | 47 | 5 | REM-014 | LOW | P4 | `chapters/19_CoastOrClimb.md` | bundle with REM-013 | Formatting fix | Em dash used at both instances | PLANNED |
-| 48 | 5 | REM-018 | LOW | P4 | `chapters/04_FourFlights.md` | none | Word-correction fix | Zero remaining phase/phased misuse | PLANNED |
+| 48 | 5 | REM-018 | LOW | P4 | `chapters/04_FourFlights.md` | none | Word-correction fix | Zero remaining phase/phased misuse | DONE — verified 2026-09-02. Ch.04:45 reads "Still didn't faze me" and ch.04:261 reads "I wasn't fazed by it" |
 | 49 | 5 | REM-028 | MEDIUM | P4 | 15 chapter files | run after Batches 2–3 close | Scripted encoding repair | Zero mojibake, diff-reviewed | PLANNED |
 | 50 | 5 | REM-029 | LOW | P4 | `chapters/09_SetUpYourStation.md` | none | `git mv` + reference updates | History preserved, refs updated | PARTIAL — 2026-09-02 (`git mv` landed pre-Batch-3, verified; the operational cross-reference sweep — this matrix and the master plan's own Batch 5 file list — completed in Batch 3. Dated historical records left as-is per the plan's own distinction) |
 | 51 | 5 | REM-030 | LOW | P4 | `chapters/15_TasteIt.md` | none | Heading fix | H1 matches canonical title | PLANNED |
