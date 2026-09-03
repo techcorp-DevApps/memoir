@@ -234,7 +234,7 @@ Glen.
 
 I walked over and put my hand out.
 
-Glen shook it.
+Shook his hand.
 
 Something I've always done that. Walk into a room, introduce yourself, shake hands. Didn't matter who you were dealing with.
 
