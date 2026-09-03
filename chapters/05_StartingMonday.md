@@ -170,7 +170,7 @@ Stace watched me get dressed in the clothes Mum had bought the day before: black
 
 All black.
 
-I'd shaved my head and trimmed the goatee. Looked fucking ridiculous.
+I'd shaved my head and trimmed the goatee. Was looking sharp in the new threads.
 
 Or felt it, anyway.
 
