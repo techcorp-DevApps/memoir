@@ -28,8 +28,8 @@
 ## Governing dependencies
 
 - None of REM-018 touches any governing file.
-- REM-017's ultimate resolution may inform (but does not require changing) `CLAUDE.md` §5, which currently has no Ivian row at all — see REM-036 in the master plan, which adds one regardless of how REM-017 itself resolves.
-- REM-019, if answered, may warrant a new dated entry in `planning/decision-ledger_2026-08-30.md`'s "Also on the list" section, promoted to a keyed item.
+- REM-017's resolution is recorded in `CLAUDE.md` §5, which now carries Ivian's governing row and identifies his first appearance at ch.03:215.
+- REM-019 is resolved: Bosco confirmed the missing closing line was not a deliberate cut, and it has been restored at ch.04:293.
 
 ## Completion criteria
 
