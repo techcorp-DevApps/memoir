@@ -8,7 +8,7 @@
 ## Required remediation, in sequence
 
 1. **REM-021 — B30 foreshadowing tension — RESOLVED, ledger B34 (2026-09-02).** Bosco read the closing paragraph directly against B30: does not violate, no edit made. `chapters/07_Chicken&Mash.md` unchanged.
-2. **REM-022 — closing-three-paragraphs register shift (P3, optional) — UNBLOCKED, not yet elected.** REM-021's dependency is cleared (B34). Still optional tightening toward more specific, image-anchored prose, matching the tasting-scene register — pending Bosco's decision whether to pursue it at all.
+2. **REM-022 — closing-three-paragraphs register shift — RESOLVED, ledger B41 (2026-09-02): no edit.** Put to Bosco once B34 cleared the dependency; he elected to leave the close as written. The hindsight register is licensed by the profile's identity blend, and the exiting bridge into ch.08 is rated strong as written. **Do not re-flag** — this is a recorded author ruling, not an outstanding item.
 3. **Inherited encoding (REM-028)**: 5 mojibake instances (e.g., "smellâ€”rich," "onceâ€”for the first fucking time") — handled in the manuscript-wide Batch 5 copy-editing pass, not as a standalone action for this chapter specifically.
 
 ## What to explicitly preserve
@@ -32,6 +32,6 @@
 
 - [x] Bosco has read the flagged paragraph directly against the B30 rule and given a decision. — B34, 2026-09-02
 - [x] Paragraph unchanged — B34 ruled no violation, no rewording needed.
-- [ ] REM-022 (if pursued) does not begin before REM-021 closes. — dependency cleared; pursuit itself still awaits Bosco's election
-- [ ] Exiting bridge into ch.08 re-confirmed strong post-edit. — N/A unless REM-022 is elected
+- [x] REM-022 — declined by Bosco, ledger B41. No edit made; chapter unchanged.
+- [x] Exiting bridge into ch.08 — N/A, no edit made to either chapter's seam.
 - [x] Decision recorded in the decision ledger. — B34

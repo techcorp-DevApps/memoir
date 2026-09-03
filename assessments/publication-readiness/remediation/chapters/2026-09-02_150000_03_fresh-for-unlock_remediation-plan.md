@@ -38,7 +38,17 @@
 
 ## Completion criteria
 
-- [ ] Bosco has chosen Option A or B.
-- [ ] Exactly one H1 exists in this file post-edit (or, if split, in each resulting file).
-- [ ] No prose content changed beyond the heading-level edit.
-- [ ] If Option B: new chapter file passes the full publication-readiness rubric independently; planning documents updated in the same pass.
+- [x] Bosco has chosen Option A or B. — **Option A**, ledger B15.
+- [x] Exactly one H1 exists in this file post-edit. — `# FRESH FOR UNLOCK` at `:1`; `## GENERAL POPULATION` at `:185`.
+- [x] No prose content changed by REM-020 beyond the heading-level edit.
+- [x] If Option B: n/a — Option A chosen.
+
+### Separate prose change to this chapter, authorised outside REM-020
+
+`:215` was edited on 2026-09-02 under the **B39-followup** ruling, not under
+REM-020: "But my mate had a spare bunk in his cell." → **"But there was a spare
+bunk in my mate Ivian's cell."** Bosco's own wording; the "And a TV." beat and
+the closing sentence are unchanged. This names Ivian at his true first
+appearance and is what closes REM-017 (ch.04's clause was thinned to "My celly"
+in the same pass). A later batch should read this as a recorded author ruling,
+not as drift.

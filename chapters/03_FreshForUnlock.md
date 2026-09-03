@@ -212,7 +212,7 @@ He was weak. Getting stood over for a pouch of tobacco every week—someone had 
 
 I couldn't be associated with that.
 
-But my mate had a spare bunk in his cell. And a TV. So I got myself moved to his house instead.
+But there was a spare bunk in my mate Ivian's cell. And a TV. So I got myself moved to his house instead.
 
 Problem solved.
 

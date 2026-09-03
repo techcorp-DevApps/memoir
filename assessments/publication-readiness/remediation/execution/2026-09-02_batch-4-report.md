@@ -14,32 +14,33 @@
 
 ## REM-022 — Ch.07 closing-three-paragraphs register shift
 
-- **Files touched**: `chapters/07_Chicken&Mash.md` (read, unedited), chapter plan 07 (edited — noted REM-021/B34 resolution, cleared the dependency), matrix (edited — row 40), decision ledger `:462-474` (read, B34).
-- **Evidence**: Ledger B34 — REM-021 "does not violate [B30], no edit" — clears REM-022's blocking dependency. REM-022 itself is optional per master plan `:378` ("Optional. If Bosco elects to tighten it...") — no ledger entry, no commit, and no instruction in this task's brief elects it.
-- **Status**: **OPEN — unblocked, not executed.** Correctly so: this is Bosco's call, not a role's, per the plan's own text.
-- **Blocker**: needs Bosco's yes/no on pursuing the trim.
+- **Files touched**: `chapters/07_Chicken&Mash.md` (read, **unedited**), chapter plan 07 (edited), matrix row 40 (edited), ledger B41 (added).
+- **Evidence**: Ledger B34 cleared the REM-021 dependency. Put to Bosco 2026-09-02; **he elected to leave the close as written** — recorded at ledger B41.
+- **Status**: **DONE — NO ACTION.** Chapter unchanged. Plan and matrix both now say "do not re-flag".
+- **Blocker**: none.
 
 ## REM-025 — Ch.08 "months passed" opening
 
-- **Files touched**: `chapters/08_EarningTheRight.md` (read, unedited), chapter plan 08 (read — checklist item 36 still unticked, correct), matrix row 42 (edited — pending-election qualifier added).
-- **Evidence**: Master plan `:419` — "Optional... if Bosco wants the bridge chapter's opening to match." No election recorded anywhere in the ledger or this task's brief.
-- **Status**: **OPEN — not executed.** Row 42 previously read an unqualified `PLANNED`, which a later executor could read as authorisation to make the prose change; it now carries the same pending-election qualifier as row 40.
-- **Blocker**: needs Bosco's yes/no on pursuing the tightening.
+- **Files touched**: `chapters/08_EarningTheRight.md` (read, **unedited**), chapter plan 08 (edited), matrix row 42 (edited), ledger B42 (added).
+- **Evidence**: Put to Bosco 2026-09-02; **he elected to leave the opening as written** — recorded at ledger B42. Each flagged line is a topic sentence answered immediately by hard specifics.
+- **Status**: **DONE — NO ACTION.** Chapter unchanged. Plan checklist item ticked as *explicitly declined*, which is what it asked for.
+- **Blocker**: none.
 
-## B39-followup — Does ch.03 name Ivian at `:213`? (carried forward, decide-first)
+## B39-followup — naming Ivian at ch.03:215
 
-- **Files touched**: `chapters/03_FreshForUnlock.md:207-213` (read), `CLAUDE.md:220` (read), ledger B39 (read, `:1-11` of the excerpt). **No edit made** — approved-chapter prose, per instruction.
-- **For naming him**: closes the introduction gap at his true first appearance and makes ch.04's one-clause fix redundant — one clean fact, no duplicate register entry.
-- **Against naming him**: ch.03 is an approved chapter; the unnamed-then-named structure may be a deliberate withholding device across chs.03→04, and changing it re-opens prose the QC process already signed off.
-- **Status**: OPEN. Routed to Bosco, not decided here.
+- **Files touched**: `chapters/03_FreshForUnlock.md:215` (**edited**), `chapters/04_FourFlights.md:11` (**edited**), `CLAUDE.md:220` (edited), `context/canon.md:23` (edited), ledger B39 (followup resolution added), matrix row 37 (edited), chapter plans 03 and 04 (edited).
+- **Bosco's ruling**, in his words: the wing-cleaning scene in ch.04 happens *after* the move into Ivian's cell, so the naming belongs at the earlier point — *"there was a spare bunk in my mate Ivians cell and he had a TV"*, with the later reference dropping the name so it becomes simply *"my celly"*.
+- **Executed**: `03:215` — "But my mate had a spare bunk in his cell." → **"But there was a spare bunk in my mate Ivian's cell."** The "And a TV." beat and the "So I got myself moved to his house instead." close are untouched. `04:11` — "Ivian, my celly, was out in the yard." → **"My celly was out in the yard."** He is still named at `04:157`.
+- **Status**: **DONE.** This supersedes REM-017's interim ch.04 clause — the gap is now closed by the ch.03 naming. Both chapter plans and matrix row 37 record the supersession so a later batch reads it as a ruling, not drift.
+- **Blocker**: none.
 
-## REM-036 — second source-cited fact for `CLAUDE.md` §5/§6
+## REM-036 — evidence standard for the two `CLAUDE.md` canon facts
 
-- **Files touched**: `CLAUDE.md:220` (Ivian row, read), `CLAUDE.md:263` (fine-dining-covers row, read), matrix rows 1 and 19 (read, unedited), `governing/2026-09-02_150000_governing-files_remediation-plan.md:20` (read), master plan `:560-561` (read).
-- **Evidence**: Both facts are present. `CLAUDE.md:263` — "Fifty covers on a big night — `18_TheBaseline.md:7`" — manuscript-cited. `CLAUDE.md:220` — "Male (confirmed)" — sourced to Bosco's direct mid-audit statement, not a manuscript line.
-- **This is a wording conflict between tracking files, not a missing fact.** Master plan `:561` permits facts "explicitly confirmed by Bosco **or** directly sourced from approved manuscript text" — an `or`. Governing plan `:20` is more explicit still: "Ivian: already given, **no further confirmation needed**." Matrix row 19's validation column ("Two facts added, cited") is the only document reading the requirement as *both* facts needing a manuscript citation, and that stricter reading is what holds the row at PARTIAL.
-- **Status**: **PARTIAL — held by the brief for this batch, not by missing evidence.** Rows 1 and 19 left unchanged. No fact fabricated, none needed.
-- **Blocker**: the matrix's validation wording contradicts the two plans it derives from. Per the batch rule that source conflicts are flagged rather than resolved, this goes to Bosco as a one-line call: **confirm the `or` reading and rows 1/19 close as DONE with no further work** — the alternative (requiring an in-manuscript source for Ivian's gender) would block a P0 item on a citation the manuscript does not contain and the plans never asked for.
+- **Files touched**: `CLAUDE.md:220` and `:263` (read; `:220` separately edited under B39-followup), `governing/...:20` (read), master plan `:560-561` (read), matrix rows 1 and 19 (edited), ledger B43 (added).
+- **Evidence**: Master plan `:561` permits facts "explicitly confirmed by Bosco **or** directly sourced from approved manuscript text"; governing plan `:20` states "Ivian: already given, no further confirmation needed." Matrix row 19's validation column was the only document reading that `or` as an `and`.
+- **Bosco's ruling** (ledger B43): the `or` reading is correct. Rows 1 and 19 close **DONE**, and row 19's validation wording was corrected to match the two plans rather than left for a later batch to re-trip over.
+- **Status**: **DONE.** Both facts stand as already written; nothing was fabricated and nothing was needed.
+- **Blocker**: none.
 
 ---
 
@@ -49,9 +50,33 @@ Spot-checked REM-021 (matrix row 2/39, chapter plan) and REM-016 (row 38) agains
 
 ---
 
-## What Bosco needs to decide
+## Decisions taken (2026-09-02)
 
-1. REM-022 — pursue the ch.07 optional register trim, or leave as-is?
-2. REM-025 — pursue the ch.08 optional image swap, or leave as-is?
-3. B39-followup — name Ivian at ch.03:213, or leave unnamed until ch.04?
-4. REM-036 — confirm the plans' `or` reading (Bosco-confirmed **or** manuscript-sourced) and rows 1/19 close as DONE. Only matrix row 19's stricter "cited" wording holds them open; nothing is missing from `CLAUDE.md`.
+All four open items were put to Bosco and answered in the same session. Ledger keys B41, B42, B43, and the B39 followup carry the rulings.
+
+| Item | Ruling | Manuscript effect |
+|---|---|---|
+| REM-022 | Leave the ch.07 close as written | None |
+| REM-025 | Leave the ch.08 opening as written | None |
+| B39-followup | Name Ivian at `03:215`; thin `04:11` to "my celly" | Two lines, both to Bosco's own wording |
+| REM-036 | Confirm the `or` evidence standard; rows 1/19 DONE | None |
+
+**Nothing in Batch 4 remains open.**
+
+---
+
+## Inherited defect found and corrected — line citation `03:213` → `03:215`
+
+Every governing file cited the spare-bunk line as `03_FreshForUnlock.md:213`.
+It is at **`:215`**; `:213` is "I couldn't be associated with that." The
+miscitation predates this batch — it is wrong in `origin/main` too — and came
+in with ledger B39 on 2026-09-02.
+
+Corrected in the live governing files this batch already had open: `CLAUDE.md`,
+`context/canon.md`, the ledger, the execution matrix, and the 03/04 chapter
+plans. **Dated point-in-time records were left alone** — the Batch 3 QC report
+and the 2026-09-01 assessments correctly describe what they saw when written.
+
+Not rework, per the batch rule on inherited defects: a note with routing. It is
+recorded here rather than silently carried, because the naming ruling above
+makes that line a canon anchor and a wrong ref would be re-copied forward.

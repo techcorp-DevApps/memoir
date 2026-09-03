@@ -34,7 +34,7 @@
 ## Completion criteria
 
 - [x] 05/06 draft material checked for an existing Ivian introduction before any ch.04 edit is made. — DONE: `drafts/TheEarlyDays.md` (467 lines, CONCURRENT → GRANT'S KITCHEN) contains zero occurrences of "Ivian."
-- [x] Ivian gap resolved via a minimal added beat. — DONE 2026-09-02: line 11 reads "Ivian, my celly, was out in the yard." One clause; Bosco corrected the relationship to celly (also wing-cleaning partner), `CLAUDE.md` §5 and `context/canon.md` updated to match.
+- [x] Ivian gap resolved. — DONE 2026-09-02, **then superseded the same day.** The interim fix was a one-clause beat at line 11 ("Ivian, my celly, was out in the yard"). Bosco then ruled (ledger B39-followup) that the naming belongs at ch.03:215, his true first appearance, since the wing-cleaning scene here happens *after* the move into his cell. Ch.03:215 now reads "But there was a spare bunk in my mate Ivian's cell"; this line now reads **"My celly was out in the yard."** He is still named at `04:157`. The gap is closed by the ch.03 naming, not by a ch.04 clause.
 - [x] Both phase/phased instances corrected to faze/fazed. — already correct as of Batch 3 (verified lines 45, 261 read "faze"/"fazed").
 - [x] Bosco has answered whether the closing line ("Same board. Same day. Different histories.") was a deliberate cut; action taken accordingly. — DONE, resolved 2026-09-02 before this batch: not a deliberate cut; restored as the chapter's final line at `04:293`, landing after "She was betting on me before there was anything to bet on." Verified present.
 - [x] `fucken` spelling untouched throughout.
