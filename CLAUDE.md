@@ -94,7 +94,8 @@ The full profile lives at `/context/chef-writer-context-profile.md`. Key element
 | MAGIC TRICK | — | ✓ complete |
 | FRESH FOR UNLOCK | — | ✓ Draft v0.4 |
 | FOUR FLIGHTS | — | ✓ Complete — `chapters/04_FourFlights.md` |
-| *[gap at 05 / 06 — parole officer, culinary school, Grant's kitchen]* | — | drafted inside `drafts/TheEarlyDays.md`, not split out |
+| STARTING MONDAY | — | ✓ Complete — `chapters/05_StartingMonday.md` |
+| *[gap at 06 — Grant's kitchen]* | — | drafted inside `drafts/TheEarlyDays.md`, not split out. Culinary school first day now sits inside `05_StartingMonday.md` |
 | CHICKEN AND MASH | — | ✓ Complete |
 | EARNING THE RIGHT | (intro) | ✓ Complete |
 | SET UP YOUR STATION | #11 (free) | ✓ Complete |
@@ -139,7 +140,7 @@ The full profile lives at `/context/chef-writer-context-profile.md`. Key element
   `drafts/YULARA_ReturnToYulara_v1.0.md`. **One chapter** (ruled 30 Aug).
   Interview paused at Segment 11; tenure's end and further flagship dishes
   outstanding. `chapters/23_ReturnToYulara.md` remains a stub — only Bosco promotes
-- **Numbering**: files run 01–23 with gaps at 05/06. Alignment plus stub files for
+- **Numbering**: files run 01–23 with a gap at 06. Alignment plus stub files for
   unwritten chapters is ruled but **not executed** — see the ledger, B11
 
 ---
