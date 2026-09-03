@@ -192,7 +192,9 @@ I went out to the shed and ripped a few cones. Maybe more than a few.
 
 I was nervous. Properly nervous.
 
-Not about cooking. I still didn't give a shit about cooking. It was the classroom that got me. Walking into a room full of people I didn't know, after leaving school at thirteen.
+Not about cooking. I still didn't give a shit about cooking. It was the classroom that got me. Walking into a room full of people I didn't know.
+
+left school at thirteen.
 
 Now, however many years later, I was ten minutes away from sitting in one again.
 
