@@ -30,6 +30,20 @@ remediation plan's REM-045).
 | Dylan (ch.21) | Same person as the food runner sent for Scotty's car — not a separate character. Registry row added to `CLAUDE.md` §5 Melbourne Era, 2026-09-02. | Ledger B35 |
 | Carly / Rachael (ch.21) | **Rachael** is correct, not Carly. | Ledger B36 |
 | Jen's rank (ch.19) | **Commis.** Superseded `manuscript-structure_v1.3.0.md` said CDP — not maintained going forward. | Ledger B13 |
+| Lynn | Stacey's mother; Nakita's mother. | `CLAUDE.md` §5 Pre-Kitchen Life table |
+| Melissa | Stacey's middle sister. | `CLAUDE.md` §5 Pre-Kitchen Life table |
+| Nakita | Stacey's half sister — Shane's daughter. | `CLAUDE.md` §5 Pre-Kitchen Life table |
+| Shane | Lynn's on-and-off partner; Nakita's father. | `CLAUDE.md` §5 Pre-Kitchen Life table |
+| Si | **Simon.** The narrator's close friend and co-offender. Spelled **Si**, not "SI" — `01_CatchYaOnTheFlipSide.md:28,34,86`. | `CLAUDE.md` §5 Pre-Kitchen Life table |
+| Sam (Southland) | Steven's best friend; Stacey and Melissa's cousin — Lynn's brother's son. **Not Fat Sam** (vineyard sous), and not the blog's anonymised female "Sam" — three distinct people. | `CLAUDE.md` §5 Pre-Kitchen Life table |
+| Steven / CJ | The narrator's younger brother; Ma's son. | `CLAUDE.md` §5 Family table |
+| Ma | Mother of the narrator and Steven. Same person as "the author's mother" above. | `CLAUDE.md` §5 Family table |
+
+**Southland post-release circle** (Lynn, Melissa, Nakita, Shane, Si, Sam, Steven/CJ,
+Ma): relationships confirmed by Bosco 2026-09-07 and settled. Scene detail for these
+people lives in `drafts/reconstruction/POST_RELEASE_HOME_LIFE_Working_Reconstruction.md`,
+which is **WORKING — NOT CANON, UNPROMOTED** — the relationships above are canon, that
+file's scene detail is not.
 
 ## Historical facts
 

@@ -223,10 +223,10 @@ ChefTips are numbered by **cost** — higher number = cheaper lesson.
 | **Melissa** | Stacey's middle sister | Knew the narrator well before release; more little sister than partner's sibling. Shane's father put a hand on her knee at the New Year's Eve barbecue — the trigger for the fight. Told the narrator she'd overheard Shane threaten the dog. |
 | **Nakita** | Stacey's half sister — Shane's daughter | Young. At school during the week. Mostly indoors during the barbecue. Lynn was consistently present for her in a way the older girls say she was not for them. |
 | **Shane** | Lynn's on-and-off partner. Nakita's father. | Family from Tuatapere; known to the narrator, and to police for domestic violence at that address. Ten years older. Arrested New Year's Eve. Melissa reported him threatening to kill the narrator's dog — never proved. |
-| **SI** | Simon. The narrator's close friend and co-offender. | Māori. Tall, lean, worn steel-caps, metal-band shirt, oversized green bomber jacket in all weather. Released around the same time. Caught a stray punch from Shane and joined the fight. The jacket and how they met are both flagged as their own stories. |
-| **Sam** | Steven's best friend. Stacey and Melissa's cousin — Lynn's brother's son. | At the New Year's Eve barbecue. Sat down when told to. |
+| **Si** | Simon. The narrator's close friend and co-offender. | Māori. Tall, lean, worn steel-caps, metal-band shirt, oversized green bomber jacket in all weather. Released around the same time. Caught a stray punch from Shane and joined the fight. The jacket and how they met are both flagged as their own stories. |
+| **Sam** | Steven's best friend. Stacey and Melissa's cousin — Lynn's brother's son. **Not Fat Sam**, and not the blog's anonymised female "Sam" — three distinct people. | At the New Year's Eve barbecue. Sat down when told to. |
 
-**Southland post-release circle** (Lynn, Melissa, Nakita, Shane, SI, Sam, and
+**Southland post-release circle** (Lynn, Melissa, Nakita, Shane, Si, Sam, and
 Steven/Ma in the Family table): relationships confirmed by Bosco 2026-09-07.
 Scene detail is drawn from `drafts/reconstruction/POST_RELEASE_HOME_LIFE_Working_Reconstruction.md`,
 which is **WORKING — NOT CANON, UNPROMOTED**. Treat the relationships as settled

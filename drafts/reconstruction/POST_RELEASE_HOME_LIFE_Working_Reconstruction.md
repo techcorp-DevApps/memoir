@@ -422,7 +422,7 @@ Us.
 
 My little brother Steven—CJ to most people by then.
 
-My best mate SI, who was being released.
+My best mate Si, who was being released.
 
 Shane included.
 
@@ -450,7 +450,7 @@ Barbecue ready.
 
 ────────
 
-SI was staying with his mum about a forty-five-minute walk away and arrived early that morning.
+Si was staying with his mum about a forty-five-minute walk away and arrived early that morning.
 
 He stood out against almost everyone I knew.
 
@@ -520,7 +520,7 @@ No charges had been laid.
 
 I didn't know whether the allegations were true.
 
-What I did know was that SI and I were both aware of them, neither of us liked the man, and his presence immediately changed the atmosphere.
+What I did know was that Si and I were both aware of them, neither of us liked the man, and his presence immediately changed the atmosphere.
 
 Lynn looked shocked to see him.
 
@@ -724,7 +724,7 @@ The neighbour came outside.
 
 Lynn came out.
 
-SI was trying to get between things before either of us did serious damage.
+Si was trying to get between things before either of us did serious damage.
 
 Generally, fights in our world were one-on-one.
 
@@ -736,13 +736,13 @@ You handled your own problem.
 
 Then Shane threw a wild one.
 
-Caught SI.
+Caught Si.
 
 Wrong bloke.
 
 Wrong moment.
 
-Now SI was pissed.
+Now Si was pissed.
 
 And Shane suddenly had both of us.
 
@@ -772,7 +772,7 @@ A formal, enforceable end to the madness.
 
 What she didn't seem to understand in that moment was that once you call police to an active violent disturbance, you don't get to decide what they do when they arrive.
 
-Shane made a run up the driveway trying to get away from SI and me.
+Shane made a run up the driveway trying to get away from Si and me.
 
 And with timing that would have been funny in almost any other circumstance, the police car was coming down the driveway at exactly the same time.
 
@@ -1014,9 +1014,9 @@ It would be the first place I'd ever rented properly on my own.
 
 Most of my life I'd rented a room in somebody else's place.
 
-The closest I'd come to anything different was living with SI.
+The closest I'd come to anything different was living with Si.
 
-That house had been left to him and his siblings after his father died, and SI was the only one actually living there.
+That house had been left to him and his siblings after his father died, and Si was the only one actually living there.
 
 A rental application in my own name was new territory.
 
@@ -1538,7 +1538,7 @@ Even when there were stretches where circumstance kept us apart.
 
 Just before I went to prison, he had already been in care.
 
-Around my birthday, knowing I was about to get locked up, me, SI and Stace decided we were taking him away for the weekend.
+Around my birthday, knowing I was about to get locked up, me, Si and Stace decided we were taking him away for the weekend.
 
 Permission was never going to happen.
 
