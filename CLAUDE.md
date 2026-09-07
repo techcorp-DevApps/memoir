@@ -224,7 +224,7 @@ ChefTips are numbered by **cost** — higher number = cheaper lesson.
 | **Nakita** | Stacey's half sister — Shane's daughter | Young. At school during the week. Mostly indoors during the barbecue. Lynn was consistently present for her in a way the older girls say she was not for them. |
 | **Shane** | Lynn's on-and-off partner. Nakita's father. | Family from Tuatapere; known to the narrator, and to police for domestic violence at that address. Ten years older. Arrested New Year's Eve. Melissa reported him threatening to kill the narrator's dog — never proved. |
 | **Si** | Simon. The narrator's close friend and co-offender. | Māori. Tall, lean, worn steel-caps, metal-band shirt, oversized green bomber jacket in all weather. Released around the same time. Caught a stray punch from Shane and joined the fight. The jacket and how they met are both flagged as their own stories. |
-| **Sam** | Steven's best friend. Stacey and Melissa's cousin — Lynn's brother's son. **Not Fat Sam**, and not the blog's anonymised female "Sam" — three distinct people. | At the New Year's Eve barbecue. Sat down when told to. |
+| **Sam** | Steven's best friend. Stacey and Melissa's cousin — Lynn's brother's son. **Not Fat Sam** — two distinct people. Distinguished by era (Southland post-release, not the vineyard) and by age. | At the New Year's Eve barbecue. Sat down when told to. |
 
 **Southland post-release circle** (Lynn, Melissa, Nakita, Shane, Si, Sam, and
 Steven/Ma in the Family table): relationships confirmed by Bosco 2026-09-07.
@@ -254,7 +254,7 @@ uses is the author's call — do not normalise one into the other.
 |---|---|
 | **Marco** | **Not a real person as portrayed — the only one in the manuscript.** The event is real (the grill chef who cut himself and kept flipping steaks) but it is **Geoffrey's** story, not the author's. Added for scene depth. Ruled 2026-08-30. |
 | **Geoffrey Welham** | The vineyard **Chef**. Carried in this register only as "Chef". |
-| **"Sam" (female sous)** | Appears in the pre-memoir blog source as a woman. That was the **anonymised** version. The memoir restores the real identity, **Fat Sam**. Ruled 2026-08-30. |
+| **"Sam" (female sous)** | A **disguise, not a person.** The pre-memoir blog rendered Fat Sam as a woman; the memoir restores the real identity, **Fat Sam** (male). Ruled 2026-08-30; confirmed 2026-09-07 as the same person, so the memoir carries only two Sams — Fat Sam and the Southland Sam. |
 | **The author's father** | **Machinist at a forestry mill; previously a cabinet maker / woodworker.** Dish: curried sausages. The blog's "dental surgeon" and "apple torte" were disguises. Has no row above — needs one. |
 | **The author's mother** | **Ma** — now carried in the Family table above. Dish: **bbq chicken**. The blog's "kangaroo curry" was a disguise. |
 

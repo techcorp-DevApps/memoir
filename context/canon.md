@@ -23,7 +23,7 @@ remediation plan's REM-045).
 | Ivian = the mate at `03:215` | Same person as the mate with the spare bunk and the TV, whose cell the narrator moved into. **Named there on the page** since 2026-09-02 (B39-followup); `04:11` then refers to him as "my celly". **Not** the classification celly at `03:207`, who is a different, unnamed man. | Ledger B39 |
 | Marco | Not a real person as portrayed — a composite. The grill-chef, cut-himself-and-kept-flipping-steaks event is real, but it's **Geoffrey Welham's** story, not the author's. Added for scene depth. | `CLAUDE.md` §5 Composites and disguises |
 | Geoffrey Welham | The vineyard **Chef**, carried on the page only as "Chef." Full name confirmed 2026-09-02 (ledger B21). | `CLAUDE.md` §5 Composites and disguises |
-| "Sam" (female sous), pre-memoir blog | Anonymised version. Real identity restored in the memoir: **Fat Sam**. | `CLAUDE.md` §5 Composites and disguises |
+| "Sam" (female sous), pre-memoir blog | A **disguise, not a person** — the same man as **Fat Sam** (male), whose real identity the memoir restores. Confirmed 2026-09-07. | `CLAUDE.md` §5 Composites and disguises |
 | Author's father | Machinist at a forestry mill; previously a cabinet maker/woodworker. Dish: curried sausages. Blog's "dental surgeon"/"apple torte" were disguises. | `CLAUDE.md` §5 Composites and disguises |
 | Author's mother | Dish: bbq chicken. Blog's "kangaroo curry" was a disguise. | `CLAUDE.md` §5 Composites and disguises |
 | Marco composite disclosure | Ruled 2026-09-02 (ledger B22): stays **undisclosed** on the page. No author's note; both Marco scenes (chs.08, 14) stand as written. | Ledger B22 |
@@ -35,7 +35,7 @@ remediation plan's REM-045).
 | Nakita | Stacey's half sister — Shane's daughter. | `CLAUDE.md` §5 Pre-Kitchen Life table |
 | Shane | Lynn's on-and-off partner; Nakita's father. | `CLAUDE.md` §5 Pre-Kitchen Life table |
 | Si | **Simon.** The narrator's close friend and co-offender. Spelled **Si**, not "SI" — `01_CatchYaOnTheFlipSide.md:28,34,86`. | `CLAUDE.md` §5 Pre-Kitchen Life table |
-| Sam (Southland) | Steven's best friend; Stacey and Melissa's cousin — Lynn's brother's son. **Not Fat Sam** (vineyard sous), and not the blog's anonymised female "Sam" — three distinct people. | `CLAUDE.md` §5 Pre-Kitchen Life table |
+| Sam (Southland) | Steven's best friend; Stacey and Melissa's cousin — Lynn's brother's son. **Not Fat Sam** (vineyard sous) — the memoir carries exactly two Sams, distinguished by era and age. | `CLAUDE.md` §5 Pre-Kitchen Life table |
 | Steven / CJ | The narrator's younger brother; Ma's son. | `CLAUDE.md` §5 Family table |
 | Ma | Mother of the narrator and Steven. Same person as "the author's mother" above. | `CLAUDE.md` §5 Family table |
 
