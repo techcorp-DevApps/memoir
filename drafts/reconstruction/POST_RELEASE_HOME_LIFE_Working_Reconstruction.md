@@ -1122,7 +1122,7 @@ Very fucking low.
 
 But this was Southland more than twenty years ago.
 
-Around a hundred and eighty dollars a week could still get you something.
+Around a hundred and eighty dollars a week was our ceiling, and that could still get you something.
 
 We weren't fussy.
 
@@ -1180,7 +1180,9 @@ But it was clean.
 
 On a good street.
 
-Within budget.
+A hundred and fifty a week.
+
+Under budget.
 
 At the end of the driveway.
 
