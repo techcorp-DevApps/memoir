@@ -219,6 +219,18 @@ ChefTips are numbered by **cost** — higher number = cheaper lesson.
 | **Grant** | First Head Chef | Auckland. High-functioning alcoholic. Gave heads up about sale. |
 | **Sarah/Sharon** | Parole Officer | Young, by the book. Dying pot plant. Golden retriever photo. "You're starting a cooking course on Monday." |
 | **Ivian** | Celly; wing cleaner partner | Male (confirmed). Mopping, bins, extra unlock, extra milk. **Named at his first appearance**, `03_FreshForUnlock.md:215` — the mate with the spare bunk and the TV, whose cell the narrator moved into (ruled 2026-09-02, ledger B39). Referred to as "my celly" at `04:11`, named again at `04:157`. Not the classification celly at `03:207`, who is a different, unnamed man. |
+| **Lynn** | Stacey's mother. Nakita's mother. | State house down a shared driveway, Invercargill — the narrator and Stacey's first address after release. Exceptionally tidy. Roast lamb shoulder the first night. Barely drank. Called the police on New Year's Eve, which ended with Shane arrested. Withdrew afterwards. |
+| **Melissa** | Stacey's middle sister | Knew the narrator well before release; more little sister than partner's sibling. Shane's father put a hand on her knee at the New Year's Eve barbecue — the trigger for the fight. Told the narrator she'd overheard Shane threaten the dog. |
+| **Nakita** | Stacey's half sister — Shane's daughter | Young. At school during the week. Mostly indoors during the barbecue. Lynn was consistently present for her in a way the older girls say she was not for them. |
+| **Shane** | Lynn's on-and-off partner. Nakita's father. | Family from Tuatapere; known to the narrator, and to police for domestic violence at that address. Ten years older. Arrested New Year's Eve. Melissa reported him threatening to kill the narrator's dog — never proved. |
+| **Si** | Simon. The narrator's close friend and co-offender. | Māori. Tall, lean, worn steel-caps, metal-band shirt, oversized green bomber jacket in all weather. Released around the same time. Caught a stray punch from Shane and joined the fight. The jacket and how they met are both flagged as their own stories. |
+| **Sam** | Steven's best friend. Stacey and Melissa's cousin — Lynn's brother's son. **Not Fat Sam** — two distinct people. Distinguished by era (Southland post-release, not the vineyard) and by age. | At the New Year's Eve barbecue. Sat down when told to. |
+
+**Southland post-release circle** (Lynn, Melissa, Nakita, Shane, Si, Sam, and
+Steven/Ma in the Family table): relationships confirmed by Bosco 2026-09-07.
+Scene detail is drawn from `drafts/reconstruction/POST_RELEASE_HOME_LIFE_Working_Reconstruction.md`,
+which is **WORKING — NOT CANON, UNPROMOTED**. Treat the relationships as settled
+and the detail as unverified until that material is promoted.
 
 ### Family
 
@@ -227,8 +239,10 @@ ChefTips are numbered by **cost** — higher number = cheaper lesson.
 | **Tegan** | Tee | Partner, later in the writer's life. Madison's biological mother. Full-time care of Jackson. | Present the night before Jackson died. At the hospital, sat down beside him moments after the time of death was given. |
 | **Jackson** | Jacks | His son. Stacey is Jackson's biological mother; Tegan raised him full time. Madison's older brother. | Died aged 7, suddenly, of a severe asthma attack, the morning after. Dinosaurs, the allosaurus in particular. Literal-minded — took what was said exactly as said. Not physically affectionate by default; would stand at your side when he wanted a hug. Backchatted his father five or six times in his life. Made him a fill-in-the-blanks book while he was in ICU, and gave it back to him the night before he died. |
 | **Madison** | Madz, Maddie, Moozie, Moo | His daughter, with Tegan. Jackson's younger sister. | Had just turned 4 when Jackson died. Now 10. Early riser; Jackson would break her out over the baby gate every morning onto a landing pad of blankets and pillows. |
+| **Steven** | CJ | The narrator's younger brother. Ma's son. | Had been in a boys' home, heading back to one. The narrator took legal guardianship at court in front of the judge who had sentenced him — granted against the judge's better judgement, and moved in with the narrator and Stacey. Earlier, taken camping for a weekend without permission just before the narrator went to prison. |
+| **Ma** | — | Mother of the narrator and Steven. | Turbulent history with the narrator, but came through when it counted. Widowed; resourceful, good with money, excellent credit. Lived in Tuatapere, across the road from Shane's family. Drove them house-hunting, fronted bond and move-in costs, and cleared the whole Farmers lay-by when asked only to cover the towels. Dish: bbq chicken (see Composites — the blog's "kangaroo curry" was a disguise). |
 
-Source: `interviews/jackson/SOURCE-VERBATIM.md` — status `LOCKED — VERBATIM`.
+Source for **Tegan, Jackson and Madison only**: `interviews/jackson/SOURCE-VERBATIM.md` — status `LOCKED — VERBATIM`. Steven and Ma come from the Southland post-release material noted above.
 
 **Naming on the page is unsettled.** This register carries full names; the source
 text uses *Tee*, *jacks*, *madz* in lower case throughout. Which form the prose
@@ -240,9 +254,9 @@ uses is the author's call — do not normalise one into the other.
 |---|---|
 | **Marco** | **Not a real person as portrayed — the only one in the manuscript.** The event is real (the grill chef who cut himself and kept flipping steaks) but it is **Geoffrey's** story, not the author's. Added for scene depth. Ruled 2026-08-30. |
 | **Geoffrey Welham** | The vineyard **Chef**. Carried in this register only as "Chef". |
-| **"Sam" (female sous)** | Appears in the pre-memoir blog source as a woman. That was the **anonymised** version. The memoir restores the real identity, **Fat Sam**. Ruled 2026-08-30. |
+| **"Sam" (female sous)** | A **disguise, not a person.** The pre-memoir blog rendered Fat Sam as a woman; the memoir restores the real identity, **Fat Sam** (male). Ruled 2026-08-30; confirmed 2026-09-07 as the same person, so the memoir carries only two Sams — Fat Sam and the Southland Sam. |
 | **The author's father** | **Machinist at a forestry mill; previously a cabinet maker / woodworker.** Dish: curried sausages. The blog's "dental surgeon" and "apple torte" were disguises. Has no row above — needs one. |
-| **The author's mother** | Dish: **bbq chicken**. The blog's "kangaroo curry" was a disguise. |
+| **The author's mother** | **Ma** — now carried in the Family table above. Dish: **bbq chicken**. The blog's "kangaroo curry" was a disguise. |
 
 ---
 
@@ -499,8 +513,8 @@ Applies to every session. A thorough investigation still gets a short report.
 
 ---
 
-*Last updated: 2 September 2026*
-*Version: 1.6.0*
+*Last updated: 7 September 2026*
+*Version: 1.6.1*
 
 **Current open decisions: `planning/decision-ledger_2026-08-30.md`.**
 **Current plan: `planning/writing-plan_v1.4.0.md`.**
