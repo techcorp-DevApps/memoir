@@ -571,6 +571,13 @@ access Bosco offered. It collapses steps 1 and 3 into one pass — read true sta
 then build the rename map against it. Part Zero (B20) can be sized after; the front
 of the book gets a reserved block rather than exact numbers.
 
+> **EXECUTED — 2026-09-09.** Bosco directed the numbering pass after development
+> of STEPS TO FREEDOM. That chapter now occupies 05; STARTING MONDAY is 06; the
+> unreconstructed Grant's-kitchen bridge remains visibly empty at 07; and every
+> later chapter moved forward by one number through 24. The earlier general stub
+> instruction is narrowed by the later explicit direction to leave interview gaps
+> empty. See `planning/chapter-numbering_2026-09-09.md` and writing plan v1.5.0.
+
 ---
 
 ## TIER 4 — facts in dispute

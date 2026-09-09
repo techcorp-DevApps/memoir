@@ -2,32 +2,6 @@
 
 ---
 
-I kept my head down. Read when I could.
-
-Got released early. Good behaviour.
-
-But the conditions were crippling.
-
----
-
-At first, it was daily reporting. Show up in person. Every single day. Pop my head in the door, wave, prove I wasn't drunk or high, leave.
-
-My first parole officer was this old Māori bloke. Fucken good cunt. Didn't hassle you as long as you were on time and sober. Some days I didn't even have to go all the way to his office. Just stuck my head in, waved, signed off.
-
-Then he retired.
-
-And everything went to shit.
-
----
-
-Her name was Sarah. Or maybe Sharon. I honestly can't remember, which tells you how much I wanted to forget those meetings.
-
-She was young. Late twenties. Fresh out of whatever degree you need to become a parole officer. By the book in a way that wasn't cruel—just relentless.
-
-*This is the policy and I will follow it to the letter.*
-
-Somehow worse than cruelty. You can't argue with policy.
-
 The first time I met her, I was ten minutes late.
 
 "You're late."

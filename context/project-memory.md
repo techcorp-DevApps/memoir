@@ -2,7 +2,7 @@
 
 ## Purpose & Context
 
-Bosco is developing "Diary of a Chef," a culinary memoir that chronicles his professional kitchen journey across New Zealand and Australia. The memoir combines instructional ChefTip Episodes with Reflective Memory Entries to explore both the technical craft and emotional landscape of professional cooking—the dark humor, loyalty, camaraderie, and shared misery that defines kitchen culture. The work aims to capture authentic industry experiences that only kitchen professionals truly understand, while maintaining commercial appeal for broader audiences.
+Bosco is developing *The Long Road To Nowhere*, a culinary memoir that chronicles his professional kitchen journey across New Zealand and Australia. The memoir combines instructional ChefTip Episodes with Reflective Memory Entries to explore both the technical craft and emotional landscape of professional cooking—the dark humour, loyalty, camaraderie, and shared misery that defines kitchen culture. The work aims to capture authentic industry experiences that only kitchen professionals truly understand, while maintaining commercial appeal for broader audiences.
 
 The memoir follows a chronological arc from Bosco's early experiences at a demanding New Zealand vineyard kitchen (working 0900-0300 hours during wedding season with everything made from scratch) through his rapid career progression to Chef de Cuisine at age 24, transforming a failing 150-cover bistro. Key relationships include mentors like Chef Gavin, colleagues like Dave (a French-trained chef who became a close friend), and team members like Praveen, Sonny, and Jen who were part of his bistro transformation.
 
@@ -12,9 +12,9 @@ The project operates under strict voice and authenticity standards, with content
 
 ## Current State
 
-The manuscript (currently v1.3.0, ~18,500 words) has achieved publication readiness with a 94/100 editorial score. Recent completions include ChefTip #6 "The Baseline" (about maintaining standards regardless of circumstances) and ChefTip #5 "Goose & Gander" (leading by example and applying consistent rules). The "Coast or Climb" section chronicling the bistro transformation is complete, featuring the emotional peak of Praveen's parents visiting from India to see where their son worked.
+The manuscript is currently governed by writing plan v1.5.0. `STEPS TO FREEDOM` now occupies chapter 05 between `FOUR FLIGHTS` and `STARTING MONDAY`; `STARTING MONDAY` is chapter 06; and chapter 07 remains intentionally empty for the Grant's-kitchen bridge until that material has been reconstructed by interview. All later chapter files have moved forward by one number, extending the current numbered run to 24.
 
-Active development focuses on a new pre-kitchen origin section called "THE LONG ROAD TO NOWHERE," exploring Bosco's early adult experiences before entering the culinary industry. The opening chapter "CATCH YA ON THE FLIPSIDE" (~1,900 words) has been completed and approved. Work continues on "THE LIBRARY" chapter about the friendship with Dave, with multiple iterations addressing voice consistency and historical accuracy around kitchen hierarchy and timeline details.
+Active development continues across the pre-kitchen origin arc, the unreconstructed Grant's-kitchen bridge, and `THE LIBRARY`, the chapter about the friendship with Dave. `STEPS TO FREEDOM` is retained both as the integrated chapter text and as a dated approval-candidate reconstruction artifact so its development status remains visible.
 
 ---
 

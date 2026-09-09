@@ -85,8 +85,13 @@ Full timeline anchors: `CLAUDE.md` §6.
 
 ## Known open items (not settled — do not treat as canon)
 
-- The 05/06 chapter-file gap (parole officer, culinary school, Grant's
-  kitchen) — drafted only in `drafts/TheEarlyDays.md`, unpromoted.
+- `chapters/05_StepsToFreedom.md` is integrated at the author's direction as the
+  current approval candidate, but its dated reconstruction source remains marked
+  **READY FOR AUTHOR ASSESSMENT — NOT CANON**. Integration and numbering do not
+  silently convert unresolved wording into final canon.
+- Chapter 07 remains intentionally empty for the Grant's-kitchen bridge. Recovery
+  material exists in `drafts/TheEarlyDays.md` and archived proposed drafts, but
+  it has not yet been reconstructed by interview or promoted.
 - ChefTips #2, #3, #4 — content and placement undecided.
 - PART ZERO (childhood before incarceration) — raised, unscoped.
 - Whether to bring an in-repo `context/canon.md`-equivalent into automatic

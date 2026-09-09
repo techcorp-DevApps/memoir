@@ -8,7 +8,7 @@
 
 > **Project**: Culinary memoir chronicling a professional kitchen journey across New Zealand and Australia
 > **Author**: Bosco
-> **Current Version**: v1.3.0 (~18,500 words)
+> **Current Version**: v1.5.0
 > **Status**: Publication-ready foundation with active development on origin arc
 
 ---
@@ -94,8 +94,9 @@ The full profile lives at `/context/chef-writer-context-profile.md`. Key element
 | MAGIC TRICK | — | ✓ complete |
 | FRESH FOR UNLOCK | — | ✓ Draft v0.4 |
 | FOUR FLIGHTS | — | ✓ Complete — `chapters/04_FourFlights.md` |
-| STARTING MONDAY | — | ✓ Complete — `chapters/05_StartingMonday.md` |
-| *[gap at 06 — Grant's kitchen]* | — | drafted inside `drafts/TheEarlyDays.md`, not split out. Culinary school first day now sits inside `05_StartingMonday.md` |
+| STEPS TO FREEDOM | — | Approval candidate integrated for assessment — `chapters/05_StepsToFreedom.md` |
+| STARTING MONDAY | — | ✓ Complete — `chapters/06_StartingMonday.md` |
+| *[gap at 07 — Grant's kitchen]* | — | Intentional. Recovery material exists, but the chapter has not yet been reconstructed by interview. |
 | CHICKEN AND MASH | — | ✓ Complete |
 | EARNING THE RIGHT | (intro) | ✓ Complete |
 | SET UP YOUR STATION | #11 (free) | ✓ Complete |
@@ -117,11 +118,11 @@ The full profile lives at `/context/chef-writer-context-profile.md`. Key element
 
 ### Active Development
 
-**THE LONG ROAD TO NOWHERE** — Pre-kitchen origin section:
+**Origin arc** — Pre-kitchen section:
 - `0.1 CATCH YA ON THE FLIPSIDE` — ✓ Approved
 - `0.2 MAGIC TRICK` — ✓ Draft v0.4
 - `0.3 FRESH FOR UNLOCK` — In progress
-- Remaining origin chapters: Prison details, parole officer, culinary school, Grant's kitchen
+- Remaining origin gap: Grant's kitchen at chapter 07
 
 **THE LIBRARY** — Dave friendship arc (placeholder)
 
@@ -131,7 +132,7 @@ The full profile lives at `/context/chef-writer-context-profile.md`. Key element
   retrospective slots; they may land anywhere up to the close of the career arc
 - Chef Gavin proper introduction — placeholder marked in the v1.2.0 draft set
 - Leaving the industry narrative
-- Bridge content for Dave/Italian kitchen arc — `chapters/22_Dave.md` is a stub
+- Bridge content for Dave/Italian kitchen arc — `chapters/23_Dave.md` is a stub
 - **PART ZERO** — childhood to early teens, before incarceration. Sits in front of
   `01_CatchYaOnTheFlipSide.md`. Raised 30 Aug 2026, unscoped
 - **PART SEVEN — after the ladder.** Jackson, the family's grief, Madison growing
@@ -139,9 +140,11 @@ The full profile lives at `/context/chef-writer-context-profile.md`. Key element
 - RETURN TO YULARA — scoped (Segments 1–11), drafted to
   `drafts/YULARA_ReturnToYulara_v1.0.md`. **One chapter** (ruled 30 Aug).
   Interview paused at Segment 11; tenure's end and further flagship dishes
-  outstanding. `chapters/23_ReturnToYulara.md` remains a stub — only Bosco promotes
-- **Numbering**: files run 01–23 with a gap at 06. Alignment plus stub files for
-  unwritten chapters is ruled but **not executed** — see the ledger, B11
+  outstanding. `chapters/24_ReturnToYulara.md` remains a stub — only Bosco promotes
+- **Numbering**: the current run is 01–24. STEPS TO FREEDOM occupies 05,
+  STARTING MONDAY occupies 06, and **07 remains intentionally empty** for the
+  unreconstructed Grant's-kitchen bridge. See
+  `planning/chapter-numbering_2026-09-09.md`.
 
 ---
 
@@ -517,7 +520,7 @@ Applies to every session. A thorough investigation still gets a short report.
 *Version: 1.6.1*
 
 **Current open decisions: `planning/decision-ledger_2026-08-30.md`.**
-**Current plan: `planning/writing-plan_v1.4.0.md`.**
+**Current plan: `planning/writing-plan_v1.5.0.md`.**
 
 **Structural ruling, 30 Aug 2026:** the manuscript has **no fixed extent** — it has
 grown at both ends. The **ChefTip ladder closes at §23, before the book does.** The
