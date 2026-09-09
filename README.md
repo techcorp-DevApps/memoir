@@ -1,4 +1,4 @@
-# Diary of a Chef
+# The Long Road To Nowhere
 
 A culinary memoir chronicling a professional kitchen journey across New Zealand and Australia.
 
@@ -57,9 +57,13 @@ Practical lessons numbered by cost—higher number means cheaper lesson. #1 is t
 
 ## Current Status
 
-**Version**: 1.3.0  
-**Word Count**: ~18,500  
-**Editorial Score**: 94/100
+**Version**: 1.5.0
+
+**Numbering**: Chapters 01–24, with chapter 07 intentionally reserved for the
+unreconstructed Grant's-kitchen bridge.
+
+**Current origin sequence**: `04_FourFlights.md` → `05_StepsToFreedom.md` →
+`06_StartingMonday.md` → gap at 07 → `08_Chicken&Mash.md`.
 
 ---
 

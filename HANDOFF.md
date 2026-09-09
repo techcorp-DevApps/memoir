@@ -1,5 +1,12 @@
 # HANDOFF — Cowork → Claude Code
 
+> **CURRENT-STATE NOTICE — 2026-09-09:** This handoff is retained as historical
+> recovery evidence. Its unexecuted numbering instructions are superseded by
+> `planning/chapter-numbering_2026-09-09.md` and
+> `planning/writing-plan_v1.5.0.md`. The current chapter run is 01–24, with
+> STEPS TO FREEDOM at 05, STARTING MONDAY at 06, and an intentional gap at 07
+> for the unreconstructed Grant's-kitchen bridge.
+
 **From:** a Cowork session, 30–31 August 2026
 **To:** Claude Code (cloud), with write access to `TechCorp-DevApps/memoir`
 **Read this first, then `context/SOURCES.md`, then `planning/decision-ledger_2026-08-30.md`.**

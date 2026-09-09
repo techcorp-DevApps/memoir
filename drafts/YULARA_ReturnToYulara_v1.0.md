@@ -6,10 +6,10 @@ source: interviews/return-to-yulara/transcript.md (Segments 1–11, session INCO
 voice_reference: example-writer-style.md
 editorial_review: reviews/drafts/Return-to-Yulara-v0.8.md — adopted in full
 continuity_read:
-  - chapters/17_ProductionKitchen.md
-  - chapters/18_TheBaseline.md
-  - chapters/19_CoastOrClimb.md
-  - chapters/20_Goose&Gander.md
+  - chapters/18_ProductionKitchen.md
+  - chapters/19_TheBaseline.md
+  - chapters/20_CoastOrClimb.md
+  - chapters/21_Goose&Gander.md
 handover: interviews/return-to-yulara/RETURN-TO-YULARA-INTERVIEW-HANDOVER.md
 new_continuity_fact: Kuniya — supplied by owner; spelling unverified
 supersedes: drafts/YULARA_ReturnToYulara_v0.9.md
