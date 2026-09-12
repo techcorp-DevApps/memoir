@@ -44,6 +44,12 @@ The writing process follows a structured interview-extraction-drafting methodolo
 
 Each piece must adhere to the established "chef-writer-context-profile" with specific rhythm, terminology usage, and emotional progression patterns. Reflective Memory Entries follow a structure of atmospheric opening, flashback setup, crisis centerpiece, emotional aftermath, and understated conclusion. ChefTips integrate instructional content naturally into narrative flow rather than feeling like separate numbered segments.
 
+Author ruling, 12 September 2026: where a substantial memoir chapter carries a
+ChefTip, preserve the chapter's narrative development and an explicit transition
+into the tip. `chapters/12_TheOnion.md` is the current reference. ChefTips #10,
+#9 and #8 require contextual story space between them rather than remaining an
+automatic consecutive run.
+
 Quality control involves comprehensive editorial reviews scoring multiple dimensions including structural positioning, voice adherence, character development, and integration readiness. Content must pass pre-publication editorial standards, with early drafts often requiring significant revision to achieve the necessary emotional weight and historical accuracy.
 
 ---
