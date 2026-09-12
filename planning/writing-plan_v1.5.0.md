@@ -119,7 +119,7 @@ not a chapter ready for promotion.
 | 2 | **EARNING THE RIGHT** | (intro) | `chapters/09_EarningTheRight.md` | ✓ Complete |
 | 3 | **SET UP YOUR STATION** | **#11** (free) | `chapters/10_SetUpYourStation.md` | ✓ Complete |
 | 4 | **FAT SAM** | — | `chapters/11_FatSam.md` | ✓ Complete |
-| 5 | **THE ONION WILL NOT WAIT FOR YOU** | **#10** | `chapters/12_TheOnion.md` | ✓ Complete |
+| 5 | **THE ONION WILL NOT WAIT FOR YOU** | **#10** | `chapters/12_TheOnion.md` | ✓ Author-revised 2026-09-12 — expanded chapter with explicit transition into ChefTip #10 |
 | 6 | **NEVER TAKE YOUR EYES OFF THE STOCKPOT** | **#9** | `chapters/13_TheStockPot.md` | ✓ Complete |
 | 7 | **HOT TRAYS DON'T ANNOUNCE THEMSELVES** | **#8** | `chapters/14_HotTrays.md` | ✓ Complete |
 | 8 | **THE ONES WHO STAY** | — | `chapters/15_TheOnesWhoStay.md` | ✓ Complete |

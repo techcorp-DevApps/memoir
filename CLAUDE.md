@@ -101,7 +101,7 @@ The full profile lives at `/context/chef-writer-context-profile.md`. Key element
 | EARNING THE RIGHT | (intro) | ✓ Complete |
 | SET UP YOUR STATION | #11 (free) | ✓ Complete |
 | FAT SAM | — | ✓ Complete |
-| THE ONION WILL NOT WAIT FOR YOU | #10 | ✓ Complete |
+| THE ONION WILL NOT WAIT FOR YOU | #10 | ✓ Author-revised 2026-09-12 — expanded narrative and restored ChefTip bridge |
 | NEVER TAKE YOUR EYES OFF THE STOCKPOT | #9 | ✓ Complete |
 | HOT TRAYS DON'T ANNOUNCE THEMSELVES | #8 | ✓ Complete |
 | THE ONES WHO STAY | — | ✓ Complete |
@@ -174,6 +174,15 @@ ChefTips are numbered by **cost** — higher number = cheaper lesson.
 4. **Humiliation/Realisation** — Internal monologue, shame, public calling-out
 5. **Reflection** — What it taught about craft, presence, standards
 6. **ChefTip Block** — `## ChefTip #X` with the quotable rule in *italics* and expansion
+
+**Author ruling — 12 September 2026:** A substantial memoir chapter that carries
+a ChefTip must retain both functions: the lived narrative develops first, then a
+clear bridge leads into the explicit tip. Do not compress the chapter into the
+ChefTip or remove the ChefTip transition while revising the narrative. The
+author-revised `chapters/12_TheOnion.md` is the current reference for this
+relationship. The broader ChefTip sequence must leave room for chapter and scene
+growth; #10, #9 and #8 are not to remain an automatically back-to-back run when
+that structural redistribution is completed.
 
 ---
 

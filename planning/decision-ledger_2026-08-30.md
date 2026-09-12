@@ -816,6 +816,20 @@ Bosco's direct confirmation). Matrix rows 1 and 19 close **DONE**, and row 19's
 validation wording was corrected to match the plans rather than left to be
 re-tripped over by a later batch.
 
+### B44 · THE ONION WILL NOT WAIT FOR YOU / ChefTip #10 — AUTHOR-REVISED
+
+**Ruling, 12 September 2026.** The author-revised chapter replaces the former
+short, comedy-heavy version in `chapters/12_TheOnion.md`. The chapter now retains
+substantial vineyard narrative, the apprentice experience of being shown a
+basic technique as though it should already have been known, and a deliberate
+transition into ChefTip #10.
+
+Do not collapse the narrative and tip into one short lesson-entry in later edits.
+Do not restore the former invented service theatrics, generic panic, or dialogue.
+The author's revised wording is the current source. The intended wider structural
+direction remains to create contextual narrative space between ChefTips #10, #9
+and #8; this ruling updates #10 but does not by itself relocate #9 or #8.
+
 ---
 
 ## Also on the list, not blocking
