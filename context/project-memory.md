@@ -59,3 +59,17 @@ Quality control involves comprehensive editorial reviews scoring multiple dimens
 The project utilizes detailed context profiles and writing plans to maintain consistency across sessions. Professional editorial review processes include scoring tables, section-by-section verification, and pre-publication checklists. Document creation tools generate both markdown and docx versions for different review and distribution needs.
 
 The memoir draws from Bosco's extensive experience across New Zealand vineyard kitchens, Australian resort fine dining, Italian restaurants in Melbourne, and independent bistro operations. Technical knowledge spans French culinary training, molecular gastronomy, and traditional kitchen brigade systems, providing authentic foundation for both instructional and narrative content.
+
+
+## Editorial Repetition, Scene Economy & Vividness (Author ruling — 13 September 2026)
+
+Repetition in memoir writing is unacceptable when it repeats vocabulary, scene explication, technical explanation, imagery, or narrative meaning already established in an adjacent or recently read chapter.
+
+A repeated word or passage must not be replaced mechanically with an arbitrary synonym. Revise, recast, or remove it only when the new wording carries the same contextual purpose and has not already been used nearby. If a replacement adds no value, cut the duplication.
+
+Every return to material must add new information, perspective, consequence, or sensory specificity. Do not repeat groundwork the reader has already earned. A retrospective flashback is acceptable when an earlier established scene is substantially distant and the current passage requires that scene to function.
+
+The desired descriptive standard is precise, concrete hospitality vocabulary that lets the reader picture the kitchen, food, or travel scene from the words alone, with Anthony Bourdain as a craft reference. This is an influence on vividness and scene construction, not an instruction to imitate his voice. The narrator’s actual vocabulary, humour, profanity, factual boundaries, and natural cadence remain authoritative. Do not make the prose ornate or generic in pursuit of vividness.
+
+Before delivering a revision, read the relevant preceding and following chapters and test for lexical, conceptual, image-level, and scene-level overlap. Monitor repeated intensifiers and distinctive words such as “considerable”, “substantial”, “awkward” and “awkwardness” as examples, while treating the rule as broader than a banned-word list.
+
