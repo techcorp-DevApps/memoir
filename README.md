@@ -47,7 +47,7 @@ Practical lessons numbered by cost—higher number means cheaper lesson. #1 is t
 ```
 ├── CLAUDE.md                 # AI assistant context file
 ├── /chapters/                # Chapter files by part
-├── /context/                 # Voice profile and project memory
+├── /context/                 # Voice, vocabulary, canon and project memory
 ├── /drafts/                  # Work in progress
 ├── /planning/                # Structure and timeline documents
 ├── /README.md/
@@ -69,7 +69,7 @@ unreconstructed Grant's-kitchen bridge.
 
 ## AI Assistance
 
-This project uses AI-assisted writing with strict voice profile adherence and quality standards. See `CLAUDE.md` for full context and guidelines.
+This project uses AI-assisted writing with strict voice and vocabulary profile adherence and quality standards. See `CLAUDE.md` for full context and guidelines. Substantive memoir work uses both `context/chef-writer-context-profile.md` and its companion `context/vocabulary-context-profile.md`.
 
 ---
 
