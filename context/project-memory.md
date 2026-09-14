@@ -14,6 +14,12 @@ The project operates under strict voice and authenticity standards, with content
 
 The manuscript is currently governed by writing plan v1.5.0. `STEPS TO FREEDOM` now occupies chapter 05 between `FOUR FLIGHTS` and `STARTING MONDAY`; `STARTING MONDAY` is chapter 06; and chapter 07 remains intentionally empty for the Grant's-kitchen bridge until that material has been reconstructed by interview. All later chapter files have moved forward by one number, extending the current numbered run to 24.
 
+Author ruling, 14 September 2026: the recovered **I CAN COOK BETTER THAN YOU**
+piece is no longer an unplaced standalone draft. It is integrated as the opening
+of `chapters/09_EarningTheRight.md`, followed by the approved bridge into the
+existing **EARNING THE RIGHT** material. The recovered draft remains provenance
+evidence only.
+
 Active development continues across the pre-kitchen origin arc, the unreconstructed Grant's-kitchen bridge, and `THE LIBRARY`, the chapter about the friendship with Dave. `STEPS TO FREEDOM` is retained both as the integrated chapter text and as a dated approval-candidate reconstruction artifact so its development status remains visible.
 
 ---
@@ -72,4 +78,3 @@ Every return to material must add new information, perspective, consequence, or 
 The desired descriptive standard is precise, concrete hospitality vocabulary that lets the reader picture the kitchen, food, or travel scene from the words alone, with Anthony Bourdain as a craft reference. This is an influence on vividness and scene construction, not an instruction to imitate his voice. The narrator’s actual vocabulary, humour, profanity, factual boundaries, and natural cadence remain authoritative. Do not make the prose ornate or generic in pursuit of vividness.
 
 Before delivering a revision, read the relevant preceding and following chapters and test for lexical, conceptual, image-level, and scene-level overlap. Monitor repeated intensifiers and distinctive words such as “considerable”, “substantial”, “awkward” and “awkwardness” as examples, while treating the rule as broader than a banned-word list.
-

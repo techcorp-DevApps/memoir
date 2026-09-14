@@ -67,6 +67,12 @@ Full timeline anchors: `CLAUDE.md` §6.
 
 ## Structural rulings that affect canon checks
 
+- **I CAN COOK BETTER THAN YOU placement (2026-09-14).** The recovered piece is
+  integrated as the opening of `chapters/09_EarningTheRight.md`; it is not a
+  separate current chapter. Its verified recovered draft remains provenance
+  evidence. The approved bridge moves from the earned confidence of the manifesto
+  into the apprenticeship account beginning “There's a moment when you stop being
+  the problem.”
 - **B30 (binding).** No career chapter foreshadows Jackson's death — no shadow,
   no dramatic irony, anywhere before §23 closes the ChefTip ladder. The
   Jackson material sits *after* §23, not inside it.

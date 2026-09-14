@@ -116,7 +116,7 @@ not a chapter ready for promotion.
 | # | Section | ChefTip | File | Status |
 |---:|---|---|---|---|
 | 1 | **CHICKEN AND MASH** | — | `chapters/08_Chicken&Mash.md` | ✓ Complete |
-| 2 | **EARNING THE RIGHT** | (intro) | `chapters/09_EarningTheRight.md` | ✓ Complete |
+| 2 | **EARNING THE RIGHT** | (intro) | `chapters/09_EarningTheRight.md` | ✓ Complete — **I CAN COOK BETTER THAN YOU** integrated as its opening by author ruling, 2026-09-14 |
 | 3 | **SET UP YOUR STATION** | **#11** (free) | `chapters/10_SetUpYourStation.md` | ✓ Complete |
 | 4 | **FAT SAM** | — | `chapters/11_FatSam.md` | ✓ Complete |
 | 5 | **THE ONION WILL NOT WAIT FOR YOU** | **#10** | `chapters/12_TheOnion.md` | ✓ Author-revised 2026-09-12 — expanded chapter with explicit transition into ChefTip #10 |
@@ -242,7 +242,7 @@ What is known:
   original is truncated at the same point, so the closing quote's tail and
   attribution are not recoverable from it. **§23 needs ledger B31 and nothing
   else. Do not rewrite it.**
-- **§19 and §20 are found.** Both were marked ✓ Complete with no file for the same
+- **§19 and §20 were found.** Both were marked ✓ Complete with no file for the same
   reason, and both turned up on 30 Aug in the original pre-memoir blog source:
   **I CAN COOK BETTER THAN YOU** (~900w) and **THE PEOPLE WHO LAUGH WHILE YOU'RE
   DROWNING** (~1,400w). Complete, never migrated. Both are filed at
@@ -250,11 +250,13 @@ What is known:
   `drafts/20_ThePeopleWhoLaugh_v1.2.0.md` and were **verified byte-exact against
   the v1.2.0 full manuscript on 31 Aug** — 1,083 and 1,136 words, zero
   differences in either. **B29 closed for both.** Nothing further is owed on
-  their text; they await only placement and the numbering pass.
+  their text. **§19 I CAN COOK BETTER THAN YOU was integrated as the opening of
+  `chapters/09_EarningTheRight.md` by author ruling on 2026-09-14.** Its recovered
+  draft remains provenance evidence. §20 still awaits placement and the numbering pass.
   See `reviews/source-recovery-assessment_2026-08-30.md`.
-- **§19 carries the real ChefTip origin story** — the blog framing the device
-  actually came from. `08_EarningTheRight.md` currently introduces ChefTips with a
-  weaker invented framing. The two collide if §19 is restored. Ledger **B27**.
+- **§19 placement is resolved.** The author selected integration at the beginning
+  of **EARNING THE RIGHT**. The necessary bridge into the existing chapter is now
+  part of `chapters/09_EarningTheRight.md`; the former collision is closed. Ledger **B27**.
 - **Leaving the industry is not a standalone chapter.** It is a build with
   progression and suspense to the decision.
 - **Chapters continue after the ChefTip ladder closes.** How many is not known and

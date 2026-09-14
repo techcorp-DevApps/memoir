@@ -34,7 +34,7 @@ current interview process. No stub prose has been invented to fill it.
 | 06 | STARTING MONDAY | Existing chapter; renumbered and duplicate opening removed |
 | 07 | — | Intentional gap: Grant's kitchen, not yet reconstructed by interview |
 | 08 | CHICKEN AND MASH | Renumbered from 07 |
-| 09 | EARNING THE RIGHT | Renumbered from 08 |
+| 09 | EARNING THE RIGHT | Renumbered from 08; **I CAN COOK BETTER THAN YOU** integrated as opening by author ruling 2026-09-14 |
 | 10 | SET UP YOUR STATION | Renumbered from 09 |
 | 11 | FAT SAM | Renumbered from 10 |
 | 12 | THE ONION WILL NOT WAIT FOR YOU | Renumbered from 11 |

@@ -19,6 +19,11 @@ discover that the hard way again. It was discovered the hard way on 30 August 20
 ✓ Complete in both planning documents with no file in 79 commits of history. All
 three existed — in a v1.2.0 draft set that had never been committed.
 
+**Placement update, 14 Sep 2026:** recovered §19 **I CAN COOK BETTER THAN YOU**
+has now been integrated into `chapters/09_EarningTheRight.md` by author ruling.
+`drafts/19_ICanCookBetterThanYou_v1.2.0.md` remains the verified recovery source,
+not a separate current manuscript chapter.
+
 ---
 
 ## Project-only — NOT in this repo, should be

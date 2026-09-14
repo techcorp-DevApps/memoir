@@ -115,7 +115,7 @@ Before delivering a revision, read the relevant preceding and following chapters
 | STARTING MONDAY | — | ✓ Complete — `chapters/06_StartingMonday.md` |
 | *[gap at 07 — Grant's kitchen]* | — | Intentional. Recovery material exists, but the chapter has not yet been reconstructed by interview. |
 | CHICKEN AND MASH | — | ✓ Complete |
-| EARNING THE RIGHT | (intro) | ✓ Complete |
+| EARNING THE RIGHT | (intro) | ✓ Complete — integrates **I CAN COOK BETTER THAN YOU** by author ruling, 2026-09-14 |
 | SET UP YOUR STATION | #11 (free) | ✓ Complete |
 | FAT SAM | — | ✓ Complete |
 | THE ONION WILL NOT WAIT FOR YOU | #10 | ✓ Author-revised 2026-09-12 — expanded narrative and restored ChefTip bridge |
@@ -129,7 +129,7 @@ Before delivering a revision, read the relevant preceding and following chapters
 | COAST OR CLIMB | — | ✓ Complete |
 | GOOSE & GANDER | #5 | ✓ Complete |
 | THE FRENCH CHEF IN AN ITALIAN KITCHEN | — | ✓ Complete |
-| I CAN COOK BETTER THAN YOU | — | ✓ Written — **recovered 2026-08-30** to `drafts/19_ICanCookBetterThanYou_v1.2.0.md`. Never previously committed |
+| I CAN COOK BETTER THAN YOU | — | ✓ Integrated into `chapters/09_EarningTheRight.md` by author ruling, 2026-09-14. The recovered draft remains provenance evidence, not a separate current chapter. |
 | THE PEOPLE WHO LAUGH WHILE YOU'RE DROWNING | — | ✓ Written — **recovered 2026-08-30** to `drafts/20_ThePeopleWhoLaugh_v1.2.0.md`. Never previously committed |
 | YOU'RE ONLY AS GOOD AS YOUR LAST SERVICE | #1 | ✓ Written — **recovered 2026-08-30** to `drafts/23_YoureOnlyAsGoodAsYourLastService_v1.2.0.md`. Closing quote truncated. **Jackson material deliberately NOT in it — see below** |
 

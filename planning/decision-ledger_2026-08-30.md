@@ -374,6 +374,13 @@ sausages** are in; *"my boy"* is **"my girl"** — a partner, not a son, which
 new opening and a bridge into §20 — which **largely dissolves B27**, since there is
 no longer a collision with `08_EarningTheRight.md`.
 
+**B27 CLOSED — author ruling, 2026-09-14.** Bosco selected the beginning of
+**EARNING THE RIGHT** as the earned placement for **I CAN COOK BETTER THAN YOU**.
+The recovered piece is integrated into `chapters/09_EarningTheRight.md`, followed
+by the approved confidence-to-apprenticeship bridge and the preserved existing
+chapter. The recovered draft remains provenance evidence; it is no longer an
+unplaced standalone manuscript chapter.
+
 ### New blockers from the recovery
 
 **B30 · Does the Jackson material go into §23? — ANSWERED: NO. It comes after.**
