@@ -21,6 +21,7 @@
 | **Tone** | Blunt, confident, profane with intent |
 | **Quality Bar** | Must generate "emotional rush, goosebumps, weight" |
 | **Voice Profile** | See `/context/chef-writer-context-profile.md` (v2.3.0) |
+| **Vocabulary Profile** | See `/context/vocabulary-context-profile.md` (v1.0.0), used alongside the voice profile |
 | **Historical Accuracy** | Non-negotiable — ages, timelines, names must be precise |
 
 ---
@@ -49,7 +50,11 @@ Content succeeds when it transports Bosco back to actual moments—when reading 
 
 ## 2. Voice Profile Summary
 
-The full profile lives at `/context/chef-writer-context-profile.md`. Key elements:
+The full voice profile lives at `/context/chef-writer-context-profile.md`. The companion vocabulary profile lives at `/context/vocabulary-context-profile.md` and governs lexical precision, technical terminology, sensory specificity, register, semantic boundaries, repetition control, and vocabulary revision checks. It strengthens word choice without replacing the author's voice, rhythm, factual authority, or approved wording.
+
+Read both profiles before substantive drafting, revision, consolidation, or lexical review. The vocabulary profile uses Anthony Bourdain's *Kitchen Confidential* as a craft reference for precise, concrete hospitality vocabulary. It is an influence on descriptive accuracy and range, never a licence to imitate Bourdain, import his persona, invent detail, or overwrite Bosco's established vocabulary.
+
+Key voice elements:
 
 ### Identity Blend
 - Equal parts **shit-kicker apprentice**, hardened line cook, and self-aware adult looking back
@@ -384,7 +389,8 @@ Each piece must pass:
 ├── README.md                          # Project overview for GitHub
 │
 ├── /context/
-│   ├── chef-writer-context-profile.md # Voice profile v2.1.0
+│   ├── chef-writer-context-profile.md # Voice profile v2.3.0
+│   ├── vocabulary-context-profile.md  # Lexical and vocabulary profile v1.0.0
 │   └── project-memory.md              # Condensed learnings & state
 │
 ├── /planning/
@@ -452,7 +458,8 @@ Each piece must pass:
 1. Review this CLAUDE.md for current state and standards
 2. Check `/planning/manuscript-structure.md` for what's complete vs pending
 3. Read `/context/chef-writer-context-profile.md` for voice requirements
-4. Identify specific task (new chapter, revision, interview, etc.)
+4. Read `/context/vocabulary-context-profile.md` for vocabulary and lexical requirements
+5. Identify specific task (new chapter, revision, interview, etc.)
 
 ### Writing New Content
 
