@@ -1,6 +1,6 @@
 # SOURCES — where the manuscript actually lives
 
-Updated 2026-09-09.
+Updated 2026-09-14.
 
 The manuscript is not all in this repository, and this file exists so nobody has to
 discover that the hard way again. It was discovered the hard way on 30 August 2026.
@@ -78,13 +78,15 @@ material is unverified until Bosco confirms them.
 ## Reading order for a new session
 
 1. `CLAUDE.md` — state, characters, timeline anchors
-2. `context/canon.md` — settled canon facts mirrored in-repo (added 2026-09-02,
+2. `context/chef-writer-context-profile.md` — current author voice and narrative behaviour
+3. `context/vocabulary-context-profile.md` — companion lexical, technical and repetition guidance; subordinate to author and voice authority
+4. `context/canon.md` — settled canon facts mirrored in-repo (added 2026-09-02,
    REM-036); `CLAUDE.md` remains authoritative if the two ever disagree
-3. `planning/decision-ledger_2026-08-30.md` — **every open decision, keyed**
-4. `planning/writing-plan_v1.5.0.md` — current plan, numbering and the book's shape
-5. `reviews/manuscript-audit_2026-08-30.md` — repo vs planning discrepancies
-6. `reviews/source-recovery-assessment_2026-08-30.md` — what was recovered and what diverged
-7. `archive/README.md` — what the archived v1.2.0 manuscript is authoritative for, and what it is not
+5. `planning/decision-ledger_2026-08-30.md` — **every open decision, keyed**
+6. `planning/writing-plan_v1.5.0.md` — current plan, numbering and the book's shape
+7. `reviews/manuscript-audit_2026-08-30.md` — repo vs planning discrepancies
+8. `reviews/source-recovery-assessment_2026-08-30.md` — what was recovered and what diverged
+9. `archive/README.md` — what the archived v1.2.0 manuscript is authoritative for, and what it is not
 
 **Superseded, do not quote as current:** `planning/writing-plan_v1.3.0.md`,
 `planning/manuscript-structure_v1.3.0.md` (both close at #23),
