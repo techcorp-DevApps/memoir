@@ -1,0 +1,61 @@
+name: Publication chapter proofs
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - publication-formatting-20260916
+    paths:
+      - publication/tools/**
+      - .github/workflows/publication-formatting.yml
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install publication dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libreoffice-writer poppler-utils fonts-ebgaramond
+          python -m pip install --upgrade pip
+          python -m pip install python-docx pillow
+
+      - name: Generate chapter DOCX/PDF proofs and preflight
+        run: python publication/tools/generate_publication.py
+
+      - name: Upload proof and raster-QA artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: memoir-publication-proofs
+          path: |
+            publication/chapters/
+            publication/qa/
+            publication/publication-formatting-manifest.csv
+            publication/publication-formatting-manifest.md
+          if-no-files-found: error
+          retention-days: 14
+
+      - name: Commit generated derivative outputs to branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add publication/chapters publication/publication-formatting-manifest.csv publication/publication-formatting-manifest.md
+          if git diff --cached --quiet; then
+            echo "No generated changes to commit."
+            exit 0
+          fi
+          git commit -m "Generate publication chapter proofs"
+          git push origin HEAD:publication-formatting-20260916
