@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 from __future__ import annotations
-import csv, re, shutil, subprocess, tempfile
+import csv, re, shutil, subprocess
 from pathlib import Path
 from docx import Document
 from PIL import Image
@@ -21,7 +21,12 @@ def run(cmd):
 
 def norm(s: str) -> str:
     s = s.replace('\u00ad', '').replace('•', ' ')
+    # Scene-break glyphs are formatting-only constructs, not manuscript prose.
     s = re.sub(r'(?<!\*)\*\s*\*\s*\*(?!\*)', ' ', s)
+    # PDF extractors can insert spacing around em dashes and after a hyphen that
+    # falls at a rendered line ending. Normalise only those extraction artefacts.
+    s = re.sub(r'\s*—\s*', '—', s)
+    s = re.sub(r'-\s+(?=[A-Za-z0-9])', '-', s)
     return re.sub(r'\s+', ' ', s).strip()
 
 
@@ -31,13 +36,8 @@ def docx_visible(path: Path) -> str:
 
 
 def pdf_visible(path: Path) -> str:
-    with tempfile.NamedTemporaryFile(suffix='.txt', delete=False) as f:
-        tmp = Path(f.name)
-    try:
-        run(['pdftotext', str(path), str(tmp)])
-        return tmp.read_text('utf-8', errors='replace')
-    finally:
-        tmp.unlink(missing_ok=True)
+    reader = PdfReader(str(path))
+    return '\n'.join((page.extract_text() or '') for page in reader.pages)
 
 
 def normalize_trim(pdf: Path):
