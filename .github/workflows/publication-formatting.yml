@@ -7,6 +7,7 @@ on:
       - publication-formatting-20260916
     paths:
       - publication/tools/**
+      - publication/qa/VISUAL_QA_APPROVED.txt
       - .github/workflows/publication-formatting.yml
 
 permissions:
@@ -31,10 +32,13 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y libreoffice-writer poppler-utils fonts-ebgaramond
           python -m pip install --upgrade pip
-          python -m pip install python-docx pillow
+          python -m pip install python-docx pillow pypdf
 
-      - name: Generate chapter DOCX/PDF proofs and preflight
+      - name: Generate chapter DOCX/PDF proofs
         run: python publication/tools/generate_publication.py
+
+      - name: Normalize trim and verify outputs
+        run: python publication/tools/postprocess_publication.py
 
       - name: Upload proof and raster-QA artifact
         uses: actions/upload-artifact@v4
