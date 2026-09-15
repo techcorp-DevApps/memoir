@@ -1,0 +1,23 @@
+Publication visual QA approval
+Date: 2026-09-16
+Scope: all generated individual chapter publication proofs on publication-formatting-20260916
+Pages inspected: 105 of 105 at native 144-dpi raster resolution
+Status: PASS
+
+Checks completed:
+- no clipping or overflow detected;
+- no unintended blank pages;
+- no page numbers / folios present;
+- no visible font substitution or missing glyphs;
+- no stranded numbered ChefTip heading/rule blocks detected;
+- scene breaks render consistently;
+- no unacceptable justification or word-spacing defect requiring a formatting correction was identified;
+- exact-trim 6 x 9 PDF raster set inspected;
+- the run-4 raster set was SHA-256 compared against the inspected raster set: 105/105 images byte-identical.
+
+Retained source/layout concern, not changed by formatting:
+- chapters/03_FreshForUnlock.md contains the additional H1 GENERAL POPULATION. It is rendered consistently but remains a manuscript-structure issue requiring author authority if it is ever to be changed.
+
+Blocked/excluded material is not covered by this approval:
+- chapters/12_TheOnion.md and chapters/13_TheStockPot.md are not emitted because the 2026-09-15 publication instruction supersedes the standalone sources with an exact consolidated Onion/Stockpot chapter whose complete authoritative prose is not currently retrievable.
+- chapters/23_Dave.md and chapters/24_ReturnToYulara.md are planning placeholders and are not treated as current completed publication chapters.
