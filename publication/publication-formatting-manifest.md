@@ -5,12 +5,13 @@
 - Generated pages: 105
 - Trim: exact 6 × 9 inches (432 × 648 pt PDF MediaBox/CropBox)
 - Individual chapter folios: none
-- Human 100% visual QA: **PASS**
+- Human 100% visual QA: **PASS** for the 2026-09-16 generated proof set
 - Source conflict: consolidated THE ONION WILL NOT WAIT FOR YOU / Stockpot text required by the 2026-09-15 publication instruction is not present as an exact authoritative source in the repository or retrievable account-library file, so the two older standalone files are intentionally not emitted.
+- Chapter 01 source was replaced on 2026-09-17 with the author-approved final manuscript. The existing repository publication proof for Chapter 01 predates that source and is therefore not current; the approved six-page DOCX/PDF review pair remains the governing publication derivative until those binary files are replaced.
 
 | Order | Title | Source | Pages | DOCX text | PDF text | Raster preflight | Visual QA | Concern |
 |---:|---|---|---:|---|---|---|---|---|
-| 01 | CATCH YA ON THE FLIPSIDE | `chapters/01_CatchYaOnTheFlipSide.md` | 7 | PASS | PASS | PASS; font=PASS | PASS_100_PERCENT |  |
+| 01 | CATCH YA ON THE FLIPSIDE | `chapters/01_CatchYaOnTheFlipSide.md` | 7 | STALE | STALE | STALE | SUPERSEDED | Repository publication proof predates author-approved 2026-09-17 source; approved replacement review pair is 6 pages |
 | 02 | MAGIC TRICK | `chapters/02_MagicTrick.md` | 4 | PASS | PASS | PASS; font=PASS | PASS_100_PERCENT |  |
 | 03 | FRESH FOR UNLOCK | `chapters/03_FreshForUnlock.md` | 6 | PASS | PASS | PASS; font=PASS | PASS_100_PERCENT | source contains additional H1 GENERAL POPULATION; structural status remains for author review |
 | 04 | FOUR FLIGHTS | `chapters/04_FourFlights.md` | 7 | PASS | PASS | PASS; font=PASS | PASS_100_PERCENT |  |
