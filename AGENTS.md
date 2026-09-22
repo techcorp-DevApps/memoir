@@ -117,10 +117,11 @@ Before delivering a revision, read the relevant preceding and following chapters
 ## Manuscript boundaries
 
 Preserve current chapter numbering and intentional gaps. By author ruling dated
-22 September 2026, the former chapter 03 was absorbed into the extended chapter
-02. The authoritative opening sequence is now FOUR FLIGHTS at chapter 02 and
-STEPS TO FREEDOM at chapter 03; verify the current numbering record before any
-further renumbering.
+22 September 2026, the authoritative completed opening sequence is:
+01 MAGIC TRICK; 02 FOUR FLIGHTS; 03 STEPS TO FREEDOM; 04 STARTING MONDAY.
+The former chapter 03 was absorbed into the extended chapter 02, and the chapter
+that followed it became chapter 03. Verify the current numbering record before
+any further renumbering.
 Keep STARTING MONDAY protected and honour the established post-release chronology.
 
 Only Bosco authorises promotion into chapters/. Draft presence, temporary

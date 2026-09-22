@@ -24,13 +24,15 @@ has now been integrated into `chapters/09_EarningTheRight.md` by author ruling.
 `drafts/19_ICanCookBetterThanYou_v1.2.0.md` remains the verified recovery source,
 not a separate current manuscript chapter.
 
-**Opening-sequence update, 22 Sep 2026:** by author ruling, the former chapter 03
-was absorbed into the extended chapter 02. The current source-of-truth files are
-`chapters/02_FourFlights.md` and `chapters/03_StepsToFreedom.md`. The latter
-corrects the prison routine: the narrator did not read; he made matchwork at
-night and trained heavily with Ivian through yard laps, sparring and sit-ups in
-their house. Legacy numbered chapter files remain provenance only and must not
-be treated as the current sequence.
+**Opening-sequence update, 22 Sep 2026:** the author-directed completed sequence
+is 01 MAGIC TRICK, 02 FOUR FLIGHTS, 03 STEPS TO FREEDOM and 04 STARTING MONDAY.
+The current source-of-truth files are `chapters/01_MagicTrick.md`,
+`chapters/02_FourFlights.md`, `chapters/03_StepsToFreedom.md` and
+`chapters/04_StartingMonday.md`. Chapter 03 corrects the prison routine: the
+narrator did not read; he made matchwork at night and trained heavily with Ivian
+through yard laps, sparring and sit-ups in their house. Current print proofs are
+filed under `publication/chapters/`. Legacy numbered files remain provenance
+only and must not be treated as the current sequence.
 
 ---
 

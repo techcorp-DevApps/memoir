@@ -9,6 +9,18 @@
 - Source conflict: consolidated THE ONION WILL NOT WAIT FOR YOU / Stockpot text required by the 2026-09-15 publication instruction is not present as an exact authoritative source in the repository or retrievable account-library file, so the two older standalone files are intentionally not emitted.
 - Chapter 01 source was replaced on 2026-09-17 with the author-approved final manuscript. The existing repository publication proof for Chapter 01 predates that source and is therefore not current; the approved six-page DOCX/PDF review pair remains the governing publication derivative until those binary files are replaced.
 
+## Current author-directed opening sequence — 22 September 2026
+
+| Order | Title | Source | PDF | Pages | Status |
+|---:|---|---|---|---:|---|
+| 01 | MAGIC TRICK | `chapters/01_MagicTrick.md` | `publication/chapters/01_MAGIC_TRICK.pdf` | 4 | COMPLETE |
+| 02 | FOUR FLIGHTS | `chapters/02_FourFlights.md` | `publication/chapters/02_FOUR_FLIGHTS.pdf` | 12 | COMPLETE; text/font/raster/visual QA PASS |
+| 03 | STEPS TO FREEDOM | `chapters/03_StepsToFreedom.md` | `publication/chapters/03_STEPS_TO_FREEDOM.pdf` | 9 | COMPLETE; text/font/raster/visual QA PASS |
+| 04 | STARTING MONDAY | `chapters/04_StartingMonday.md` | `publication/chapters/04_STARTING_MONDAY.pdf` | 7 | COMPLETE |
+
+The table below is the historical 16 September formatting batch register and
+retains its original filenames for provenance.
+
 | Order | Title | Source | Pages | DOCX text | PDF text | Raster preflight | Visual QA | Concern |
 |---:|---|---|---:|---|---|---|---|---|
 | 01 | CATCH YA ON THE FLIPSIDE | `chapters/01_CatchYaOnTheFlipSide.md` | 7 | STALE | STALE | STALE | SUPERSEDED | Repository publication proof predates author-approved 2026-09-17 source; approved replacement review pair is 6 pages |

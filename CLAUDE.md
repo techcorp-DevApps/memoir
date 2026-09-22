@@ -108,11 +108,11 @@ Before delivering a revision, read the relevant preceding and following chapters
 | Section | ChefTip | Status |
 |---------|---------|--------|
 | CATCH YA ON THE FLIPSIDE | — | ✓ complete |
-| MAGIC TRICK | — | ✓ complete |
+| MAGIC TRICK | — | ✓ Complete — `chapters/01_MagicTrick.md` (author ruling, 2026-09-22) |
 | FRESH FOR UNLOCK | — | ✓ Draft v0.4 |
 | FOUR FLIGHTS | — | ✓ Complete — `chapters/02_FourFlights.md` (author ruling, 2026-09-22) |
 | STEPS TO FREEDOM | — | ✓ Complete — `chapters/03_StepsToFreedom.md` (author ruling, 2026-09-22) |
-| STARTING MONDAY | — | ✓ Complete — `chapters/06_StartingMonday.md` |
+| STARTING MONDAY | — | ✓ Complete — `chapters/04_StartingMonday.md` (author ruling, 2026-09-22) |
 | *[gap at 07 — Grant's kitchen]* | — | Intentional. Recovery material exists, but the chapter has not yet been reconstructed by interview. |
 | CHICKEN AND MASH | — | ✓ Complete |
 | EARNING THE RIGHT | (intro) | ✓ Complete — integrates **I CAN COOK BETTER THAN YOU** by author ruling, 2026-09-14 |
@@ -136,10 +136,10 @@ Before delivering a revision, read the relevant preceding and following chapters
 ### Active Development
 
 **Origin arc** — Pre-kitchen section:
-- `0.1 CATCH YA ON THE FLIPSIDE` — ✓ Approved
-- `0.2 MAGIC TRICK` — ✓ Draft v0.4
-- `0.3 FRESH FOR UNLOCK` — In progress
-- Remaining origin gap: Grant's kitchen at chapter 07
+- `01 MAGIC TRICK` — ✓ Complete
+- `02 FOUR FLIGHTS` — ✓ Complete
+- `03 STEPS TO FREEDOM` — ✓ Complete
+- `04 STARTING MONDAY` — ✓ Complete
 
 **THE LIBRARY** — Dave friendship arc (placeholder)
 
@@ -158,10 +158,11 @@ Before delivering a revision, read the relevant preceding and following chapters
   `drafts/YULARA_ReturnToYulara_v1.0.md`. **One chapter** (ruled 30 Aug).
   Interview paused at Segment 11; tenure's end and further flagship dishes
   outstanding. `chapters/24_ReturnToYulara.md` remains a stub — only Bosco promotes
-- **Numbering**: the author-directed opening sequence now places FOUR FLIGHTS at
-  02 and STEPS TO FREEDOM at 03. The former chapter 03 was merged into the
-  extended chapter 02. Downstream renumbering must follow the governing record,
-  not legacy filenames. See `planning/chapter-numbering_2026-09-22.md`.
+- **Numbering**: the author-directed completed opening sequence is 01 MAGIC
+  TRICK; 02 FOUR FLIGHTS; 03 STEPS TO FREEDOM; 04 STARTING MONDAY. The former
+  chapter 03 was merged into the extended chapter 02. Downstream renumbering
+  must follow the governing record, not legacy filenames. See
+  `planning/chapter-numbering_2026-09-22.md`.
 
 ---
 
