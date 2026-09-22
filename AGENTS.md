@@ -25,7 +25,7 @@ handoff. Current entry points include:
 - context/SOURCES.md
 - planning/writing-plan_v1.5.0.md
 - planning/decision-ledger_2026-08-30.md
-- planning/chapter-numbering_2026-09-09.md
+- planning/chapter-numbering_2026-09-22.md
 
 Check for supersession notices and newer author rulings. HANDOFF.md is historical
 recovery evidence, not a current task queue. Read the actual target material
@@ -116,9 +116,11 @@ Before delivering a revision, read the relevant preceding and following chapters
 
 ## Manuscript boundaries
 
-Preserve current chapter numbering and intentional gaps. At setup, STEPS TO
-FREEDOM is chapter 05, STARTING MONDAY is 06, and 07 is reserved for the
-unreconstructed Grant's-kitchen bridge; verify current planning before changes.
+Preserve current chapter numbering and intentional gaps. By author ruling dated
+22 September 2026, the former chapter 03 was absorbed into the extended chapter
+02. The authoritative opening sequence is now FOUR FLIGHTS at chapter 02 and
+STEPS TO FREEDOM at chapter 03; verify the current numbering record before any
+further renumbering.
 Keep STARTING MONDAY protected and honour the established post-release chronology.
 
 Only Bosco authorises promotion into chapters/. Draft presence, temporary

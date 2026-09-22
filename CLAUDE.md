@@ -110,8 +110,8 @@ Before delivering a revision, read the relevant preceding and following chapters
 | CATCH YA ON THE FLIPSIDE | — | ✓ complete |
 | MAGIC TRICK | — | ✓ complete |
 | FRESH FOR UNLOCK | — | ✓ Draft v0.4 |
-| FOUR FLIGHTS | — | ✓ Complete — `chapters/04_FourFlights.md` |
-| STEPS TO FREEDOM | — | Approval candidate integrated for assessment — `chapters/05_StepsToFreedom.md` |
+| FOUR FLIGHTS | — | ✓ Complete — `chapters/02_FourFlights.md` (author ruling, 2026-09-22) |
+| STEPS TO FREEDOM | — | ✓ Complete — `chapters/03_StepsToFreedom.md` (author ruling, 2026-09-22) |
 | STARTING MONDAY | — | ✓ Complete — `chapters/06_StartingMonday.md` |
 | *[gap at 07 — Grant's kitchen]* | — | Intentional. Recovery material exists, but the chapter has not yet been reconstructed by interview. |
 | CHICKEN AND MASH | — | ✓ Complete |
@@ -158,10 +158,10 @@ Before delivering a revision, read the relevant preceding and following chapters
   `drafts/YULARA_ReturnToYulara_v1.0.md`. **One chapter** (ruled 30 Aug).
   Interview paused at Segment 11; tenure's end and further flagship dishes
   outstanding. `chapters/24_ReturnToYulara.md` remains a stub — only Bosco promotes
-- **Numbering**: the current run is 01–24. STEPS TO FREEDOM occupies 05,
-  STARTING MONDAY occupies 06, and **07 remains intentionally empty** for the
-  unreconstructed Grant's-kitchen bridge. See
-  `planning/chapter-numbering_2026-09-09.md`.
+- **Numbering**: the author-directed opening sequence now places FOUR FLIGHTS at
+  02 and STEPS TO FREEDOM at 03. The former chapter 03 was merged into the
+  extended chapter 02. Downstream renumbering must follow the governing record,
+  not legacy filenames. See `planning/chapter-numbering_2026-09-22.md`.
 
 ---
 

@@ -1,6 +1,6 @@
 # SOURCES — where the manuscript actually lives
 
-Updated 2026-09-14.
+Updated 2026-09-22.
 
 The manuscript is not all in this repository, and this file exists so nobody has to
 discover that the hard way again. It was discovered the hard way on 30 August 2026.
@@ -23,6 +23,14 @@ three existed — in a v1.2.0 draft set that had never been committed.
 has now been integrated into `chapters/09_EarningTheRight.md` by author ruling.
 `drafts/19_ICanCookBetterThanYou_v1.2.0.md` remains the verified recovery source,
 not a separate current manuscript chapter.
+
+**Opening-sequence update, 22 Sep 2026:** by author ruling, the former chapter 03
+was absorbed into the extended chapter 02. The current source-of-truth files are
+`chapters/02_FourFlights.md` and `chapters/03_StepsToFreedom.md`. The latter
+corrects the prison routine: the narrator did not read; he made matchwork at
+night and trained heavily with Ivian through yard laps, sparring and sit-ups in
+their house. Legacy numbered chapter files remain provenance only and must not
+be treated as the current sequence.
 
 ---
 
