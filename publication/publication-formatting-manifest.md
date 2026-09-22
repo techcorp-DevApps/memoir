@@ -7,16 +7,16 @@
 - Individual chapter folios: none
 - Human 100% visual QA: **PASS** for the 2026-09-16 generated proof set
 - Source conflict: consolidated THE ONION WILL NOT WAIT FOR YOU / Stockpot text required by the 2026-09-15 publication instruction is not present as an exact authoritative source in the repository or retrievable account-library file, so the two older standalone files are intentionally not emitted.
-- Chapter 01 source was replaced on 2026-09-17 with the author-approved final manuscript. The existing repository publication proof for Chapter 01 predates that source and is therefore not current; the approved six-page DOCX/PDF review pair remains the governing publication derivative until those binary files are replaced.
+- The current four-chapter opening sequence totals 38 pages. On 22 September 2026, Chapter 01 was replaced from the author-supplied corrected ten-page proof, and Chapters 01 and 04 were typeset against the Chapter 02 standard. Chapters 02 and 03 already use that trim, text area and EB Garamond 12 optical cut and were preserved byte-for-byte. The historical batch totals and legacy rows below are retained for provenance.
 
 ## Current author-directed opening sequence — 22 September 2026
 
 | Order | Title | Source | PDF | Pages | Status |
 |---:|---|---|---|---:|---|
-| 01 | MAGIC TRICK | `chapters/01_MagicTrick.md` | `publication/chapters/01_MAGIC_TRICK.pdf` | 4 | COMPLETE |
+| 01 | MAGIC TRICK | `chapters/01_MagicTrick.md` | `publication/chapters/01_MAGIC_TRICK.pdf` | 10 | COMPLETE; author-supplied corrected prose, text/font/visual QA PASS |
 | 02 | FOUR FLIGHTS | `chapters/02_FourFlights.md` | `publication/chapters/02_FOUR_FLIGHTS.pdf` | 12 | COMPLETE; text/font/raster/visual QA PASS |
 | 03 | STEPS TO FREEDOM | `chapters/03_StepsToFreedom.md` | `publication/chapters/03_STEPS_TO_FREEDOM.pdf` | 9 | COMPLETE; text/font/raster/visual QA PASS |
-| 04 | STARTING MONDAY | `chapters/04_StartingMonday.md` | `publication/chapters/04_STARTING_MONDAY.pdf` | 7 | COMPLETE |
+| 04 | STARTING MONDAY | `chapters/04_StartingMonday.md` | `publication/chapters/04_STARTING_MONDAY.pdf` | 7 | COMPLETE; source text/font/visual QA PASS |
 
 The table below is the historical 16 September formatting batch register and
 retains its original filenames for provenance.
