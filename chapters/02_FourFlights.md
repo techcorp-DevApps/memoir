@@ -100,11 +100,15 @@ Not because he’d hit me. I’d been hit before. I’d be hit again.
 
 Because I no longer had any breakfast. And he’d come into my house to do it.
 
-Some guys outside the cell pulled the door shut.
+Some guys outside the cell pulled the door shut, keeping watch, giving us space to figure things out. You didn’t interfere; you just made sure no one else did either. He was a Black Power prospect and I was a skinhead. We weren’t going to be mates, but I was confident in myself and I definitely wasn’t afraid of a bare-knuckle fight. So that’s what he got.
 
-Keeping watch. Giving us space to figure things out. You didn’t interfere. You just made sure no one else did either. He was a Black Power prospect. I was a skinhead. We weren’t going to be mates. But I was confident in myself. And I definitely wasn’t afraid of a bare-knuckle fight. So that’s what he got. Two minutes. Maybe less. When it was over, he had a black eye. His nose was bleeding. Split lip to match the one he’d given me. I wasn’t any worse off than when he’d walked in. Just a gash on my knuckles from his front teeth. The door opened. I threw him out. There was a brief look from the others—checking my condition, confirming the outcome. That was it. Once it was finished, it was considered sorted. No retaliation required unless the attack was unprovoked. This wasn’t unprovoked. Not by the logic of the place. He’d been sent to establish dominance. It hadn’t worked out that way. That was between him and the gang now. Nothing to do with me anymore. The kid next door kept his music down until unlock after that. Whether it was because of the fight or something else, I never found out. Problem solved either way. My cellmate was shell-shocked. He’d watched the whole thing from three feet away. The sudden escalation. The violence. The blood.
+Two minutes, maybe less. When it was over, he had a black eye, his nose was bleeding and he had a split lip to match the one he’d given me. I wasn’t any worse off than when he’d walked in, just a gash on my knuckles from his front teeth. The door opened and I threw him out. There was a brief look from the others—checking my condition, confirming the outcome. That was it.
 
-It didn’t help with his unease about where he’d landed, put it that way. He wasn’t dragged into it. He just had another piece of the place to process from the bottom bunk.
+Once it was finished, it was considered sorted, with no retaliation required unless the attack was unprovoked. This wasn’t unprovoked, not by the logic of the place. He’d been sent to establish dominance, but it hadn’t worked out that way. That was between him and the patch he was chasing now, nothing to do with me anymore.
+
+The kid next door kept his music down until unlock after that. Whether it was because of the fight or something else, I never found out. Problem solved either way.
+
+My cellmate was shell-shocked. He’d watched the whole thing from three feet away: the sudden escalation, the violence, the blood. It didn’t help with his unease about where he’d landed, put it that way. He wasn’t dragged into it; he just had another piece of the place to process from the bottom bunk.
 
 After that, I started doing yard time with one of the boys.
 
