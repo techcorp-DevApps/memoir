@@ -48,7 +48,7 @@ Shaved my head clean. Fresh for unlock in the morning.
 
 It wasn’t fashion. I was a skinhead. The haircut was part of the uniform. It told people where I stood and who I considered my own.
 
-If you weren’t white or European, I didn’t want your friendship, your company or anything else from you. I wanted the wing to know exactly what I was when the door opened in the morning. First unlock. I stepped out of the cell with a fresh head and prison blues. The wing was already moving—guys shuffling to showers, queuing for breakfast, filling thermoses. I spotted a couple of whiteboys across the space. Silent recognition. A nod that said I see you without saying anything at all. The politics were already understood: find your people, acknowledge the connection, don’t make a performance of it. I went to the yard first chance I got. Wasn’t about to be seen as weak or afraid of anything. Tried to get my celly to come with me—fresh air, movement, break up the monotony—but he wasn’t keen. Wouldn’t even consider it. This concerned me. If he was seen as weak, and I was celled up with him, that weakness could transfer by proxy. Association is currency in there. The wrong association costs you. A couple of days went by. Nothing exciting. There were some lads in the cells across the wing— Perko, Waitane—celled up together, seemed to know each other from outside. They’d noticed I had cigarettes in the yard. Made their way over one afternoon.
+If you weren’t white or European, I didn’t want your friendship, your company or anything else from you. I wanted the wing to know exactly what I was when the door opened in the morning. First unlock. I stepped out of the cell with a fresh head and prison blues. The wing was already moving—guys shuffling to showers, queuing for breakfast, filling thermoses. I spotted a couple of whiteboys across the wing. Silent recognition. A nod that said I see you without saying anything at all. I went to the yard first chance I got. Wasn’t about to be seen as weak or afraid of anything. Tried to get my celly to come with me—fresh air, movement, break up the monotony—but he wasn’t keen. Wouldn’t even consider it. This concerned me. If he was seen as weak, and I was celled up with him, that weakness could transfer by proxy. Association is currency in there. The wrong association costs you. A couple of days went by. Nothing exciting. There were some lads in the cells across the wing— Perko, Waitane—celled up together, seemed to know each other from outside. They’d noticed I had cigarettes in the yard. Made their way over one afternoon.
 
 “Can we get some tobacco, bro?”
 
@@ -64,21 +64,21 @@ I laughed.
 
 Turns out those were valuable commodities inside. Things to do while you’re locked down twenty hours a day. You can build things. Pass time. Keep your hands busy and your mind from eating itself. The understanding of that would come in time. There was a young guy in the cell next to mine. Maybe nineteen. Prospecting for Black Power—one of the gangs running through the prison system. Cocky little fucker. Thought he was harder than he was because he was chasing a Patch
 
-A few days in a row, I got woken up early by his music thumping through the wall.
-
 Rap. Loud. Before unlock.
+
+Having to listen to that shit was one thing, but after a few days of being woken by it thumping through the fucken wall, I’d had enough.
 
 When we got let out one morning, I stopped by his cell on the way to breakfast.
 
-“Hey. Can you keep it down until unlock? Waking me up early, bruva.”
+“Hey. Can you keep it down until unlock?”
 
-He didn’t take kindly to that.
+“Waking me up early, bruva.”
 
-A whiteboy telling him what to do—that’s how he heard it. Didn’t matter that I was asking, not telling. Didn’t matter that I’d been respectful about it.
+“Don’t tell me what to fucken do.”
 
-He heard disrespect. That was enough.
+“Not telling ya what to do.”
 
-I told him I wasn’t telling him what to do. I was asking him to be respectful of others since we all had to live there.
+“I’m asking ya nicely since we all gotta live here.”
 
 Didn’t matter.
 
@@ -142,7 +142,15 @@ I couldn’t be associated with that.
 
 But there was a spare bunk in my mate Ivian’s cell. And a TV. So I got myself moved to his house instead.
 
-I had known Ivian outside, but not well enough that I would have called him a close mate. Sharing a house inside changed that quickly. We went to breakfast, came back to the wing, cleaned, walked the yard, watched television and got locked down together. We both had wing-cleaning work— mopping floors, emptying bins, the usual shit. It bought us extra unlock time and more milk. Outside that sounds like fuck all. In there, extra time with the door open and something more than the standard ration was a decent little win. Perko and Waitane were around all the time as well. In classification they had been the two Māori lads I would not give tobacco to. General population meant I actually had to get to know them. Perko was a funny cunt. Bright, kind, full of energy. Easy to get on with once I actually bothered. Waitane was quiet as fuck. Half Māori, no gang affiliation, in for domestic assault. He kept to himself. Perko did most of the talking. I got to know Waitane properly in there. Joel was the kingpin. Most senior inmate in that wing. In for arson and attempted murder. I knew him from outside. In there, that mattered. General population had its moments. One of them started with a pool game. Jay was Māori. About five foot tall, compact muscle packed into a very small frame. Built like a fucking bulldozer. I knew fuck all about him outside. In the wing he was a cocky fuckwit who moved around like he owned the place.
+I’d known Ivian outside, but sharing a house inside made us close quickly. We both had wing-cleaning work—mopping floors, emptying bins, the usual shit—which bought us extra unlock time and more milk. Outside that sounds like fuck all. In there, it was a decent little win. We worked together, walked the yard, watched television and got locked down together.
+
+When I wasn’t with Ivian, I’d spend time with Perko and Waitane. With nothing but time, we got to know each other well. Perko was a funny cunt, full of energy and easy company once I actually bothered. He did most of the talking. Waitane was quiet as fuck, which suited me.
+
+Anything serious between inmates went through Joel. He was in for arson and attempted murder, and I knew him from outside. In there, that mattered.
+
+Jay a five foot tall, fucken bulldozer, Māori lad with compact muscle packed into a very small frame. \
+I knew fuck all about him. \
+In the wing he was a cocky fuckwit who moved around like he owned the place.
 
 It was one of those hot days where the wing felt overfilled. No air con. Concrete holding the heat. Everyone shorter with each other than usual.
 

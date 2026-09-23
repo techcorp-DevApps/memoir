@@ -18,6 +18,8 @@
 | 03 | STEPS TO FREEDOM | `chapters/03_StepsToFreedom.md` | `publication/chapters/03_STEPS_TO_FREEDOM.pdf` | 9 | COMPLETE; text/font/raster/visual QA PASS |
 | 04 | STARTING MONDAY | `chapters/04_StartingMonday.md` | `publication/chapters/04_STARTING_MONDAY.pdf` | 7 | COMPLETE; source text/font/visual QA PASS |
 
+Chapter 02 received the author-approved Ivian/Perko/Waitane/Joel/Jay, music, and prospect dialogue updates on 23 September 2026. The prior 12-page proof is archived at `publication/chapters/surperseeded/20260923_070555_02_FOUR_FLIGHTS.pdf`. The replacement remains 12 pages and was checked against the updated source and rendered on every page.
+
 The table below is the historical 16 September formatting batch register and
 retains its original filenames for provenance.
 

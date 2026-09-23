@@ -22,7 +22,7 @@ def read_source(path):
         source = source.split('\n---\n', 1)[1].lstrip()
     lines = source.splitlines()
     assert lines[0] == '# FOUR FLIGHTS'
-    body = '\n'.join(lines[1:]).strip()
+    body = '\n'.join(lines[1:]).strip().replace('\\\n', '\n')
     paragraphs = [re.sub(r'\s+', ' ', p).strip() for p in re.split(r'\n\s*\n', body)]
     # Controlled paragraph flow at existing sentence boundaries. Words and
     # punctuation remain exact; these avoid forced, oversized word spacing.
@@ -92,7 +92,7 @@ def build(source, output, report):
         if p in ('* * *', '---'):
             records.append(dict(kind='scene',height=40));first=True
             continue
-        for line in balance(p, 0 if first else INDENT):
+        for line in balance(p, (INDENT + 7.2) if p == '“Don’t tell me what to fucken do.”' else (0 if first else INDENT)):
             # Spoken paragraphs retain natural word spacing. This prevents
             # short exchanges being stretched to fill a justified measure.
             if p.startswith(('“','"')):
