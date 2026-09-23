@@ -7,14 +7,14 @@
 - Individual chapter folios: none
 - Human 100% visual QA: **PASS** for the 2026-09-16 generated proof set
 - Source conflict: consolidated THE ONION WILL NOT WAIT FOR YOU / Stockpot text required by the 2026-09-15 publication instruction is not present as an exact authoritative source in the repository or retrievable account-library file, so the two older standalone files are intentionally not emitted.
-- The current four-chapter opening sequence totals 38 pages. On 22 September 2026, Chapter 01 was replaced from the author-supplied corrected ten-page proof, and Chapters 01 and 04 were typeset against the Chapter 02 standard. Chapters 02 and 03 already use that trim, text area and EB Garamond 12 optical cut and were preserved byte-for-byte. The historical batch totals and legacy rows below are retained for provenance.
+- The current four-chapter opening sequence totals 41 pages. On 22 September 2026, Chapter 01 was replaced from the author-supplied corrected ten-page proof, and Chapters 01 and 04 were typeset against the Chapter 02 standard. Chapter 03 retains its proof. Chapter 02 was revised on 23 September 2026 with the author-supplied passage and dialogue paragraphing; its prior proof is archived in `publication/chapters/surperseeded/`. The historical batch totals and legacy rows below are retained for provenance.
 
 ## Current author-directed opening sequence — 22 September 2026
 
 | Order | Title | Source | PDF | Pages | Status |
 |---:|---|---|---|---:|---|
 | 01 | MAGIC TRICK | `chapters/01_MagicTrick.md` | `publication/chapters/01_MAGIC_TRICK.pdf` | 10 | COMPLETE; author-supplied corrected prose, text/font/visual QA PASS |
-| 02 | FOUR FLIGHTS | `chapters/02_FourFlights.md` | `publication/chapters/02_FOUR_FLIGHTS.pdf` | 12 | COMPLETE; text/font/raster/visual QA PASS |
+| 02 | FOUR FLIGHTS | `chapters/02_FourFlights.md` | `publication/chapters/02_FOUR_FLIGHTS.pdf` | 15 | AUTHOR-DIRECTED; text/font and page-boundary preflight PASS; full visual QA pending |
 | 03 | STEPS TO FREEDOM | `chapters/03_StepsToFreedom.md` | `publication/chapters/03_STEPS_TO_FREEDOM.pdf` | 9 | COMPLETE; text/font/raster/visual QA PASS |
 | 04 | STARTING MONDAY | `chapters/04_StartingMonday.md` | `publication/chapters/04_STARTING_MONDAY.pdf` | 7 | COMPLETE; source text/font/visual QA PASS |
 

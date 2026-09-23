@@ -48,7 +48,21 @@ Shaved my head clean. Fresh for unlock in the morning.
 
 It wasn’t fashion. I was a skinhead. The haircut was part of the uniform. It told people where I stood and who I considered my own.
 
-If you weren’t white or European, I didn’t want your friendship, your company or anything else from you. I wanted the wing to know exactly what I was when the door opened in the morning. First unlock. I stepped out of the cell with a fresh head and prison blues. The wing was already moving—guys shuffling to showers, queuing for breakfast, filling thermoses. I spotted a couple of whiteboys across the space. Silent recognition. A nod that said I see you without saying anything at all. The politics were already understood: find your people, acknowledge the connection, don’t make a performance of it. I went to the yard first chance I got. Wasn’t about to be seen as weak or afraid of anything. Tried to get my celly to come with me—fresh air, movement, break up the monotony—but he wasn’t keen. Wouldn’t even consider it. This concerned me. If he was seen as weak, and I was celled up with him, that weakness could transfer by proxy. Association is currency in there. The wrong association costs you. A couple of days went by. Nothing exciting. There were some lads in the cells across the wing— Perko, Waitane—celled up together, seemed to know each other from before. They’d noticed I had cigarettes in the yard. Made their way over one afternoon. “Can we get some tobacco, bruva?” They were Māori. That was enough for me. I didn’t give them the time of day. They were willing to trade. Offered matchsticks, glue, sandpaper. I laughed. “What the fuck would I want that for?” Turns out those were valuable commodities inside. Things to do while you’re locked down twenty hours a day. You can build things. Pass time. Keep your hands busy and your mind from eating itself. I didn’t take the trade. But I understood it better after that. There was a young guy in the cell next to mine. Maybe nineteen. Prospecting for Black Power—one of the gangs running through the prison system. Cocky little fucker. Thought he was harder than he was because he had patches to chase.
+If you weren’t white or European, I didn’t want your friendship, your company or anything else from you. I wanted the wing to know exactly what I was when the door opened in the morning. First unlock. I stepped out of the cell with a fresh head and prison blues. The wing was already moving—guys shuffling to showers, queuing for breakfast, filling thermoses. I spotted a couple of whiteboys across the space. Silent recognition. A nod that said I see you without saying anything at all. The politics were already understood: find your people, acknowledge the connection, don’t make a performance of it. I went to the yard first chance I got. Wasn’t about to be seen as weak or afraid of anything. Tried to get my celly to come with me—fresh air, movement, break up the monotony—but he wasn’t keen. Wouldn’t even consider it. This concerned me. If he was seen as weak, and I was celled up with him, that weakness could transfer by proxy. Association is currency in there. The wrong association costs you. A couple of days went by. Nothing exciting. There were some lads in the cells across the wing— Perko, Waitane—celled up together, seemed to know each other from outside. They’d noticed I had cigarettes in the yard. Made their way over one afternoon.
+
+“Can we get some tobacco, bro?”
+
+“I'm not your fucken bro”
+
+They were Māori. That was enough for me. I didn’t give them the time of day. They offered a trade.
+
+“We've got Matchsticks, glue, sandpaper happy to swap.”
+
+I laughed.
+
+“What the fuck would I want that for?”
+
+Turns out those were valuable commodities inside. Things to do while you’re locked down twenty hours a day. You can build things. Pass time. Keep your hands busy and your mind from eating itself. The understanding of that would come in time. There was a young guy in the cell next to mine. Maybe nineteen. Prospecting for Black Power—one of the gangs running through the prison system. Cocky little fucker. Thought he was harder than he was because he was chasing a Patch
 
 A few days in a row, I got woken up early by his music thumping through the wall.
 
@@ -174,11 +188,25 @@ His face went hard.
 
 He dropped his leg from the table and wrapped his hand around one of the snooker balls.
 
-Still didn’t faze me. “I’m talking to you. Ya can see we’re in the middle of a game. Ya come in, stretch on the table when I’m about to take a shot, move the balls around—why the fuck don’t you use one of the benches?” His jaw locked. Eyes fixed on me. He came forward with the snooker ball clenched in his hand. “Watch your fucken mouth, white boy, before I cave your fucken head in.” He launched the ball at the concrete floor. The crack went through the wing. Every head turned. The ball bounced a couple of times before I caught it. I laughed. Continued on with the game. Nothing more came of it. Not that day. The next morning, the nurses collected me. I’d been waiting to get my ears drained. My left ear was basically blocked solid with wax because of a narrow ear canal. I could barely hear through it. The infirmary still had locked doors everywhere, but it felt less like the wing. More clinical. Quieter. I was sitting in the waiting area when I saw him in my peripheral. Joel. Near enough seven foot tall. Arms the size of most people’s quads. Long hair tied back in a neat short ponytail. Clean-shaven. Old-school iron cross lad—not patched, but closely affiliated with the Road Knights. A screw was walking him up the stairs. They reached the reinforced glass door. The screw unlocked it, let Joel through, then kept walking down the hallway and disappeared. Joel sat down next to me. That was the pull he had. He knew where I was. He knew we could speak in private. And he’d been knowingly escorted through the prison to do exactly that. We had a quick yarn. I asked how his ma was. He asked how I was settling in. Then the reason he was there. “So, bruva—what’s this shit with Jay you got going on?”
+Still didn’t faze me.
+
+“I’m talking to you. Ya can see we’re in the middle of a game. Ya come in, stretch on the table when I’m about to take a shot, move the balls around—why the fuck don’t you use one of the benches?”
+
+His jaw locked. Eyes fixed on me. He came forward with the snooker ball clenched in his hand.
+
+“Watch your fucken mouth, white boy, before I cave your fucken head in.”
+
+He launched the ball at the concrete floor. The crack went through the wing. Every head turned. The ball bounced a couple of times before I caught it. I laughed. Continued on with the game. Nothing more came of it. Not that day. The next morning, the nurses collected me. I’d been waiting to get my ears drained. My left ear was basically blocked solid with wax because of a narrow ear canal. I could barely hear through it. The infirmary still had locked doors everywhere, but it felt less like the wing. More clinical. Quieter. I was sitting in the waiting area when I saw him in my peripheral. Joel. Near enough seven foot tall. Arms the size of most people’s quads. Long hair tied back in a neat short ponytail. Clean-shaven. Old-school iron cross lad—not patched, but closely affiliated with the Road Knights. A screw was walking him up the stairs. They reached the reinforced glass door. The screw unlocked it, let Joel through, then kept walking down the hallway and disappeared. Joel sat down next to me. That was the pull he had. He knew where I was. He knew we could speak in private. And he’d been knowingly escorted through the prison to do exactly that. We had a quick yarn. I asked how his ma was. He asked how I was settling in. Then the reason he was there.
+
+“So, bruva—what’s this shit with Jay you got going on?”
 
 Nothing really, I told him. The fuckwit came in from yard, stretched out over the pool table, fucked our game up. I told him to get the fuck on and he threw his toys out of the cot.
 
-“Hahaha. Good man.” He paused. “But he’s pissed, bruva. He’s come to me for permission to take care of things on the way to mess for dinner.”
+“Hahaha. Good man.”
+
+He paused.
+
+“But he’s pissed, bruva. He’s come to me for permission to take care of things on the way to mess for dinner.”
 
 Permission.
 
@@ -210,7 +238,9 @@ All good, bruva. If that’s what you want, then you know I’m not gonna argue.
 
 The screw appeared from around the corner with the timed precision you could set your watch to. Said nothing as he passed. Unlocked the door.
 
-Joel leaned in. “Drop back to the end of the line on the way to mess tonight. Don’t get hot-headed with this cunt. Don’t turn your back to him, don’t stop walking up the stairs. Give him the apology. He’s a ticking time bomb and may not even follow orders. Be ready.”
+Joel leaned in.
+
+“Drop back to the end of the line on the way to mess tonight. Don’t get hot-headed with this cunt. Don’t turn your back to him, don’t stop walking up the stairs. Give him the apology. He’s a ticking time bomb and may not even follow orders. Be ready.”
 
 He stood. Turned back as he followed the screw out the door.
 
@@ -218,7 +248,17 @@ He stood. Turned back as he followed the screw out the door.
 
 “Heil.”
 
-Until then, Jay had been the five-foot cocky fuckwit who’d fucked with a pool game and lost his temper. Now I knew he’d gone to the most senior inmate in the wing asking permission to stab me and throw me down four flights of stairs. That night, Ivian kept close as we went to dinner. My connection to Joel was the only reason I was still walking. Four flights to the mess hall, Jay somewhere behind me. He came up the stairs and shouldered into me. “You fucken lucky cunt.” I kept walking. Didn’t stop. Didn’t turn my back. Yeah, look, Jay—I apologise for any disrespect. It won’t happen again. “Next time I don’t give a fuck.” “I’ll cave your fucken head in right there in the wing.” He stormed ahead, pushing through the others. That was it. An apology I didn’t mean, over a fucking pool game, to a man who’d wanted me dead that morning. The rest of Jay’s story came later. He’d prospected for Mongrel Mob, then decided they were weak—not hard enough to match the version he’d built up in his head—so he started his own gang. I hadn’t known any of that when I mouthed off at him over the pool table. Realistically, knowing it probably wouldn’t have changed what I said. On those stairs, though, I was following Joel’s orders: keep walking, don’t get hot-headed, don’t turn my back, apologise. So I did. I stayed out of Jay’s way after that. I’d learned what my pride was worth in there. Exactly one walk up four flights of stairs. It wasn’t long before the same young prospect from classification was out trying to prove something again. The black eye from the last time was still fading yellow around the edges, which apparently hadn’t taught him much. Whatever justification he’d found for himself, this time he started on Waitane. Waitane wanted no part of it. One evening after dinner, during rec, he went to the prospect’s cell to put an end to it without a fight. The prospect came at him instead. Waitane dipped underneath him, showed the left just long enough to draw the response, then sent the right hook through fucken hard.
+Until then, Jay had been the five-foot cocky fuckwit who’d fucked with a pool game and lost his temper. Now I knew he’d gone to the most senior inmate in the wing asking permission to stab me and throw me down four flights of stairs. That night, Ivian kept close as we went to dinner. My connection to Joel was the only reason I was still walking. Four flights to the mess hall, Jay somewhere behind me. He came up the stairs and shouldered into me.
+
+“You fucken lucky cunt.”
+
+I kept walking. Didn’t stop. Didn’t turn my back. Yeah, look, Jay—I apologise for any disrespect. It won’t happen again.
+
+“Next time I don’t give a fuck.”
+
+“I’ll cave your fucken head in right there in the wing.”
+
+He stormed ahead, pushing through the others. That was it. An apology I didn’t mean, over a fucking pool game, to a man who’d wanted me dead that morning. The rest of Jay’s story came later. He’d prospected for Mongrel Mob, then decided they were weak—not hard enough to match the version he’d built up in his head—so he started his own gang. I hadn’t known any of that when I mouthed off at him over the pool table. Realistically, knowing it probably wouldn’t have changed what I said. On those stairs, though, I was following Joel’s orders: keep walking, don’t get hot-headed, don’t turn my back, apologise. So I did. I stayed out of Jay’s way after that. I’d learned what my pride was worth in there. Exactly one walk up four flights of stairs. It wasn’t long before the same young prospect from classification was out trying to prove something again. The black eye from the last time was still fading yellow around the edges, which apparently hadn’t taught him much. Whatever justification he’d found for himself, this time he started on Waitane. Waitane wanted no part of it. One evening after dinner, during rec, he went to the prospect’s cell to put an end to it without a fight. The prospect came at him instead. Waitane dipped underneath him, showed the left just long enough to draw the response, then sent the right hook through fucken hard.
 
 The fuckwit wanted a fight. This one barely had time to become one. His nose got blown out in the process. Waitane’s white prison-issue T-shirt was covered in blood. So was the cell wall.
 
