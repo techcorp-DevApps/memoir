@@ -24,6 +24,11 @@ has now been integrated into `chapters/09_EarningTheRight.md` by author ruling.
 `drafts/19_ICanCookBetterThanYou_v1.2.0.md` remains the verified recovery source,
 not a separate current manuscript chapter.
 
+**Opening-piece update, 25 Sep 2026:** author-approved Chapter 00, ONE THING LED TO ANOTHER,
+is filed at `chapters/00_OneThingLedToAnother.md` before MAGIC TRICK. Its exit
+transition is approved for use now and scheduled for review once the opening
+narrative chapters are complete. See `planning/chapter-numbering_2026-09-22.md`.
+
 **Opening-sequence update, 22 Sep 2026:** the author-directed completed sequence
 is 01 MAGIC TRICK, 02 FOUR FLIGHTS, 03 STEPS TO FREEDOM and 04 STARTING MONDAY.
 The current source-of-truth files are `chapters/01_MagicTrick.md`,
