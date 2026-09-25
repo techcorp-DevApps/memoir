@@ -13,16 +13,26 @@ supersedes: "chapter-numbering_2026-09-09.md"
 
 The original chapter 03 was merged into the now-extended chapter 02. The chapter
 that followed it—previously numbered 04—is now chapter 03. STARTING MONDAY
-follows as chapter 04.
+follows as chapter 04. On 25 September 2026, the author approved the opening
+piece ONE THING LED TO ANOTHER as chapter 00, before MAGIC TRICK.
 
-## Authoritative completed opening sequence
+## Author-directed opening sequence
 
 | Number | Chapter | Status |
 |---:|---|---|
+| 00 | ONE THING LED TO ANOTHER | APPROVED FOR USE — EXIT BRIDGE PROVISIONAL |
 | 01 | MAGIC TRICK | COMPLETE — AUTHOR-DIRECTED |
 | 02 | FOUR FLIGHTS | COMPLETE — AUTHOR-DIRECTED |
 | 03 | STEPS TO FREEDOM | COMPLETE — AUTHOR-DIRECTED |
 | 04 | STARTING MONDAY | COMPLETE — AUTHOR-DIRECTED |
+
+## Chapter 00 source and deferred review
+
+- `chapters/00_OneThingLedToAnother.md` is the approved source, assembled from the
+  author-edited writing block 73146. The authorised typo correction is
+  `on dthe ring` → `on the ring`; no other prose was revised.
+- Revisit the exit transition once the opening narrative chapters are complete.
+  Approval for use applies now; the exit review remains open.
 
 ## Publication files
 
