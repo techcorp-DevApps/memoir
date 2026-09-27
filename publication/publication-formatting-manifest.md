@@ -7,18 +7,21 @@
 - Individual chapter folios: none
 - Human 100% visual QA: **PASS** for the 2026-09-16 generated proof set
 - Source conflict: consolidated THE ONION WILL NOT WAIT FOR YOU / Stockpot text required by the 2026-09-15 publication instruction is not present as an exact authoritative source in the repository or retrievable account-library file, so the two older standalone files are intentionally not emitted.
-- The current four-chapter opening sequence totals 38 pages. On 22 September 2026, Chapter 01 was replaced from the author-supplied corrected ten-page proof, and Chapters 01 and 04 were typeset against the Chapter 02 standard. Chapter 03 retains its proof. Chapter 02 was revised on 23 September 2026 with the author-supplied passage and dialogue paragraphing; its prior proof is archived in `publication/chapters/surperseeded/`. The historical batch totals and legacy rows below are retained for provenance.
+- The current five-piece opening sequence totals 42 pages. Chapter 00 is the author-approved four-page PDF as it stands, placed before Chapter 01 on 26 September 2026. On 22 September 2026, Chapter 01 was replaced from the author-supplied corrected ten-page proof, and Chapters 01 and 04 were typeset against the Chapter 02 standard. Chapter 03 retains its proof. Chapter 02 was revised on 23 September 2026 with the author-supplied passage and dialogue paragraphing; its prior proof is archived in `publication/chapters/surperseeded/`. The historical batch totals and legacy rows below are retained for provenance.
 
-## Current author-directed opening sequence — 22 September 2026
+## Current author-directed opening sequence
 
 | Order | Title | Source | PDF | Pages | Status |
 |---:|---|---|---|---:|---|
+| 00 | ONE THING LED TO ANOTHER | `chapters/00_OneThingLedToAnother.md` | `publication/chapters/00_ONE_THING_LED_TO_ANOTHER.pdf` | 4 | AUTHOR-APPROVED AS IS; exact source text, font, trim and all-page visual checks PASS |
 | 01 | MAGIC TRICK | `chapters/01_MagicTrick.md` | `publication/chapters/01_MAGIC_TRICK.pdf` | 10 | COMPLETE; author-supplied corrected prose, text/font/visual QA PASS |
 | 02 | FOUR FLIGHTS | `chapters/02_FourFlights.md` | `publication/chapters/02_FOUR_FLIGHTS.pdf` | 12 | AUTHOR-DIRECTED; prose/font/trim/line checks PASS; all-page agent visual QA PASS |
 | 03 | STEPS TO FREEDOM | `chapters/03_StepsToFreedom.md` | `publication/chapters/03_STEPS_TO_FREEDOM.pdf` | 9 | COMPLETE; text/font/raster/visual QA PASS |
 | 04 | STARTING MONDAY | `chapters/04_StartingMonday.md` | `publication/chapters/04_STARTING_MONDAY.pdf` | 7 | COMPLETE; source text/font/visual QA PASS |
 
 Chapter 02 received the author-approved Ivian/Perko/Waitane/Joel/Jay, music, and prospect dialogue updates on 23 September 2026. The prior 12-page proof is archived at `publication/chapters/surperseeded/20260923_070555_02_FOUR_FLIGHTS.pdf`. The replacement remains 12 pages and was checked against the updated source and rendered on every page.
+
+Chapter 00's PDF retains its earlier review metadata. The author's 26 September instruction explicitly approves this exact current file for use. Its PDF text matches `chapters/00_OneThingLedToAnother.md` after layout whitespace is removed; the PDF itself was not changed.
 
 The table below is the historical 16 September formatting batch register and
 retains its original filenames for provenance.

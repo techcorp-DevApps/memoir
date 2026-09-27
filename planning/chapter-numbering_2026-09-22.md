@@ -36,6 +36,7 @@ piece ONE THING LED TO ANOTHER as chapter 00, before MAGIC TRICK.
 
 ## Publication files
 
+- `publication/chapters/00_ONE_THING_LED_TO_ANOTHER.pdf` (author-approved as is on 26 September 2026)
 - `publication/chapters/01_MAGIC_TRICK.pdf`
 - `publication/chapters/02_FOUR_FLIGHTS.pdf`
 - `publication/chapters/03_STEPS_TO_FREEDOM.pdf`
