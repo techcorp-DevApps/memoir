@@ -80,3 +80,9 @@ All rights reserved. This is a work in progress toward publication.
 ---
 
 *"You're only as good as your last service."*
+
+## Current source-control notice (9 October 2026)
+
+The numbered opening sequence above describes the **last author-directed, committed publication sequence**; it is not an exhaustive inventory of newer childhood manuscript work. Newer HENDO v0.9 and untitled childhood Chapter 02 v0.21 are held as separate **working/submission** material in the account library and Google Drive. Their overlap, placement, factual review and approval are unresolved. Do not silently replace, renumber, or publish existing chapters based on their draft filenames.
+
+See [Cross-source control register](planning/source-control/2026-10-09_cross-source-register.md) for the four-source directory map and outstanding author-approval gates. Historical publication QA and numbering decisions remain retained as dated evidence.
