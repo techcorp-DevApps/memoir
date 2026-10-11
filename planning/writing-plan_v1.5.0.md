@@ -10,6 +10,11 @@ paired_document: "planning/manuscript-structure_v1.3.0.md — historical and sup
 
 # Writing Plan v1.5.0
 
+> **Authority note — 11 October 2026:** opening numbering below records the 9 September state.
+> The [22 September ruling](chapter-numbering_2026-09-22.md) supersedes that opening sequence.
+> See the [Phase 2 checkpoint](source-control/2026-10-11_phase-2-reconciliation.md) for source reconciliation.
+> This note does not renumber files or reopen approved editorial decisions.
+
 ## What changed from v1.4.0
 
 Bosco's ruling, 9 September 2026:

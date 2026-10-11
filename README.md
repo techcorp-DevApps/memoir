@@ -1,5 +1,11 @@
 # The Long Road To Nowhere
 
+> **Current navigation:** use [the 22 September opening-sequence ruling](planning/chapter-numbering_2026-09-22.md)
+> and the [Phase 2 source-reconciliation checkpoint](planning/source-control/2026-10-11_phase-2-reconciliation.md).
+> Older numbering and the structural outline below retain historical context;
+> they do not override later author rulings. Phase 2 remains open.
+
+
 A culinary memoir chronicling a professional kitchen journey across New Zealand and Australia.
 
 ---
