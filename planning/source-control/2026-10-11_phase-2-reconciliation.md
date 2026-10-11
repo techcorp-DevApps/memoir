@@ -52,3 +52,17 @@ distinct source/anchor hash pairs.
 
 Existing approved editorial choices remain binding. No unresolved source is
 promoted merely because its version number or modification date is higher.
+
+## Comparison addendum S1
+
+`TLRN-P2-20261011-v0.1-S1` supplements the immutable checkpoint in the same
+private register locations. It reviews all 18 narrative sections of the historical
+complete DOCX master and retains exact section-to-baseline token differences.
+Of the initial 140 distinct pairs, 22 have formatting-equivalent extracted text,
+eight differ only in spacing, and three differ only under explicit encoding
+repair. The remaining 107 contain changed wording or extraction discrepancies
+and retain unresolved authority/semantic gates.
+
+A repeat listing of 13 Drive folders and five paginated account collections
+found no missing original entries; additions matched recorded writes. This
+location-preservation check does not certify full Phase 2 closure.
