@@ -7,8 +7,8 @@
 
 ## Steps completed
 - [x] setup-author (2026-11-14)
-- [ ] setup-book
+- [x] setup-book (2026-11-14)
 - [ ] setup-voice
 
 ## Current step
-setup-book
+setup-voice

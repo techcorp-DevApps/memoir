@@ -3,10 +3,10 @@
   "subtitle": "",
   "title_history": "Began as a blog (Diary of an Apprentice), became Diary of a Chef, then widened into a life-long memoir. 'The Long Road To Nowhere' was the original first chapter's title; it broke the chapter naming convention and was promoted to book title, where it fits the road travelled.",
   "genre": "narrative",
-  "preset": null,
+  "preset": "biography",
   "language": "en",
   "language_note": "Australian/NZ English spelling. Output language for all skill responses.",
-  "target_reader": null,
+  "target_reader": "Someone struggling who believes life won't change — and Madz, one day.",
   "version": "0.1",
   "source_of_truth": "GitHub techcorp-DevApps/memoir. CLAUDE.md §5–6 authoritative for canon; context/ and planning/ govern voice and structure. This config summarises and points; it never overrides those files.",
   "author_profile": {
@@ -49,6 +49,21 @@
     "outline_file": "outline.md",
     "chapters_dir": "chapters/"
   },
-  "preset_digest": null,
-  "writing_log": []
+  "preset_digest": "Biography / narrative non-fiction (memoir). Identity: a true life read through the author's interpretation. Vocabulary: central claim → the interpretation; chapter goal → revelatory moment; scene → reconstructed moment; character arc → the subject's trajectory. Demolish vectors in order: evidence, alternative interpretation, selection bias, authorial intrusion, presentism, gaps (reconstruction vs documented fact). Write pattern: the scene (concrete, sourced, puts the reader in the room) → the context → the significance. Project overrides: CLAUDE.md voice rules, ChefTip and Reflective Memory patterns, canon, and B30 take precedence.",
+  "writing_log": [],
+  "book_profile": {
+    "premise": "Most people believe their life is shaped by big, deliberate choices. The truth is that one thing leads to another, and decisions made in the moment, with no thought for the future self, build the road. Integrity, loyalty, honesty and respect hold steady the whole way, but you only learn how to apply them by living.",
+    "premise_extended": "This is not just a story about kitchens, careers, mistakes, or second chances. It is a reflection on the people, choices, challenges, and moments that shape who we become—or, more importantly, who I have become. From a difficult and uncertain beginning, the story moves through the intensity of professional kitchens, personal battles, unexpected friendships, and the pursuit of something better. Honest, sometimes confronting, and often darkly humorous, this is a story about resilience, loyalty, pride, and the lessons found in both failure and success. It captures the reality behind the chef’s jacket — the pressure, the personalities, the sacrifices, and the moments of connection that stay long after the service ends. More than a culinary journey, it is a story about rebuilding, learning, and discovering that sometimes the road to somewhere meaningful feels like the long road to nowhere while you’re on it.",
+    "readers": [
+      "Someone struggling who believes nothing goes to plan or life won't get better than this moment.",
+      "Madz — the full, uncensored account of how he became her and Jacks' father, and of grief from his side.",
+      "The author — a purpose on the days it doesn't feel like there is one."
+    ],
+    "promise": "None, by design. You control nothing until you're living it; you can mitigate risk and steer toward a road worth living on, and failure is where the lessons are.",
+    "differentiation": "Competition not read by the author. Draft: a whole life, not only the career; uncensored crime and drug years; ChefTips ranked by what each lesson cost; grief from a father's side, with vulnerability shown to children as strength.",
+    "structure": "Life stage: Childhood; Pre-adolescent (father's death); Adolescent (love, loss, friendship, crime, drug use, survival); Young adult (jail, early career, mid career, first child); Adult (second child, late career, death of son, spiral into old habits and criminal circles, learning to grieve); Present day (recovery of self, making the most of life).",
+    "title_usage": "'The Long Road To Nowhere' is used only as the book title — never as a part, chapter or section name.",
+    "write_first": "WE ARE ONLY BUT HUMAN — grief as a person, adult, father, partner and human; allowing yourself to be vulnerable, especially to children, is the strongest thing you can do for them and yourself.",
+    "hardest_chapter": "Jackson's death. Not avoided — 'it ain't ever fucken easy.'"
+  }
 }

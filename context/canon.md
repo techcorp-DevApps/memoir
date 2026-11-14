@@ -59,6 +59,7 @@ file's scene detail is not.
 | Fine-dining covers (resort) | Fifty covers on a big night — `18_TheBaseline.md:7` |
 | School leaving age | 13 |
 | Jackson's age at death | 7 |
+| Narrator's age at Jackson's death | 34 (author, 2026-11-14) |
 | Cause of death | Severe asthma attack, sudden, the morning after |
 | Madison's age at that time | 4, just turned |
 | Madison's age now | 10 |

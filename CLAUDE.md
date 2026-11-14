@@ -308,6 +308,7 @@ uses is the author's call — do not normalise one into the other.
 | Fine-dining covers (resort) | Fifty covers on a big night — `18_TheBaseline.md:7` |
 | School leaving age | 13 |
 | Jackson's age at death | 7 |
+| Narrator's age at Jackson's death | 34 (author, 2026-11-14) |
 | Cause of death | Severe asthma attack, sudden, the morning after |
 | Madison's age at that time | 4, just turned |
 | Madison's age now | 10 |
@@ -328,6 +329,7 @@ uses is the author's call — do not normalise one into the other.
 - Jackson's death — very late in the career, after every anchor above.
   ~6 years before Madison's current age of 10. The catalyst for not returning
   to the industry.
+  Narrator was **34** (author, 2026-11-14).
   **Year not established. Do not derive it from Madison's age — "now" in a
   memoir is not the date the note was written.**
 
