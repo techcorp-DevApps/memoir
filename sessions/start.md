@@ -2,13 +2,13 @@
 
 > Created: 2026-11-14
 > Last updated: 2026-11-14
-> Status: open
+> Status: complete
 > Mode: hybrid — pre-filled from context/ and planning/, author confirms and fills gaps
 
 ## Steps completed
 - [x] setup-author (2026-11-14)
 - [x] setup-book (2026-11-14)
-- [ ] setup-voice
+- [x] setup-voice (2026-11-14)
 
 ## Current step
-setup-voice
+complete

@@ -36,21 +36,46 @@
     }
   },
   "author_voice": {
-    "tone": "",
-    "register": "",
-    "pov": "",
-    "rhythm": "",
-    "vocabulary": "",
-    "signature_phrases": [],
-    "avoid": [],
-    "reference_authors": []
+    "voice_source": "context/voice-baseline.json (19 chapters, ~23k words) + context/chef-writer-context-profile.md v2.3.0 + author interview 2026-11-14",
+    "tone": "Blunt, confident, unfiltered; profane with intent; dark humour as survival; love shown through insults, presence and actions",
+    "register": "Conversational — a chef telling it straight at knock-off",
+    "pov": "First person, past-tense dominant; present tense for punch and universal truths; frequent direct 'you'",
+    "rhythm": "Short and punchy — median 6 words, 38% under 5, ~1% over 30; over half of paragraphs single-line; staccato beats with occasional long build-ups",
+    "vocabulary": "Everyday speech plus precise kitchen terms; AU/NZ spelling; concrete over ornate (see context/vocabulary-context-profile.md)",
+    "signature_phrases": [
+      "Really.",
+      "Fucking.",
+      "Hard."
+    ],
+    "signature_moves": "Stand-up build (setup → escalation → payoff); em-dashes; blockquoted chef dialogue; sentence-initial And/But; hindsight cutting into the moment",
+    "emotional_temperature": "Hot on the surface, restrained underneath",
+    "grief_register": "UNCHANGED. The voice does not soften, slow or swear less for Jackson, grief or vulnerability material — 'my language is my language.' Reference sample: project doc 'TheUniverse', written shortly after Jackson's death for memory's sake.",
+    "avoid": [
+      "sanitised or HR-safe language",
+      "softening or masking profanity",
+      "sitcom chaos",
+      "over-sentimentalised hardship",
+      "stating emotions instead of rendering them",
+      "forced epiphanies or tidy lessons",
+      "narrator as superhero",
+      "ornate or generic prose"
+    ],
+    "reference_authors": [
+      "Anthony Bourdain (Kitchen Confidential) — craft reference for concrete kitchen vividness only; never imitate"
+    ],
+    "sounds_like": "A chef telling it straight at knock-off — Bourdain's precision with kitchen detail, in Bosco's own mouth."
   },
   "structure": {
     "outline_file": "outline.md",
     "chapters_dir": "chapters/"
   },
   "preset_digest": "Biography / narrative non-fiction (memoir). Identity: a true life read through the author's interpretation. Vocabulary: central claim → the interpretation; chapter goal → revelatory moment; scene → reconstructed moment; character arc → the subject's trajectory. Demolish vectors in order: evidence, alternative interpretation, selection bias, authorial intrusion, presentism, gaps (reconstruction vs documented fact). Write pattern: the scene (concrete, sourced, puts the reader in the room) → the context → the significance. Project overrides: CLAUDE.md voice rules, ChefTip and Reflective Memory patterns, canon, and B30 take precedence.",
-  "writing_log": [],
+  "writing_log": [
+    {
+      "date": "2026-11-14",
+      "event": "ghost-writer onboarding complete (hybrid: repo bootstrap + author interview)"
+    }
+  ],
   "book_profile": {
     "premise": "Most people believe their life is shaped by big, deliberate choices. The truth is that one thing leads to another, and decisions made in the moment, with no thought for the future self, build the road. Integrity, loyalty, honesty and respect hold steady the whole way, but you only learn how to apply them by living.",
     "premise_extended": "This is not just a story about kitchens, careers, mistakes, or second chances. It is a reflection on the people, choices, challenges, and moments that shape who we become—or, more importantly, who I have become. From a difficult and uncertain beginning, the story moves through the intensity of professional kitchens, personal battles, unexpected friendships, and the pursuit of something better. Honest, sometimes confronting, and often darkly humorous, this is a story about resilience, loyalty, pride, and the lessons found in both failure and success. It captures the reality behind the chef’s jacket — the pressure, the personalities, the sacrifices, and the moments of connection that stay long after the service ends. More than a culinary journey, it is a story about rebuilding, learning, and discovering that sometimes the road to somewhere meaningful feels like the long road to nowhere while you’re on it.",
