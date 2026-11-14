@@ -1,0 +1,54 @@
+{
+  "title": "The Long Road To Nowhere",
+  "subtitle": "",
+  "title_history": "Began as a blog (Diary of an Apprentice), became Diary of a Chef, then widened into a life-long memoir. 'The Long Road To Nowhere' was the original first chapter's title; it broke the chapter naming convention and was promoted to book title, where it fits the road travelled.",
+  "genre": "narrative",
+  "preset": null,
+  "language": "en",
+  "language_note": "Australian/NZ English spelling. Output language for all skill responses.",
+  "target_reader": null,
+  "version": "0.1",
+  "source_of_truth": "GitHub techcorp-DevApps/memoir. CLAUDE.md §5–6 authoritative for canon; context/ and planning/ govern voice and structure. This config summarises and points; it never overrides those files.",
+  "author_profile": {
+    "who_they_are": "Bosco. Career chef, from apprentice to award-winning chef, teacher, leader and parent, across New Zealand and Australia. Reached the kitchen through an unconventional youth: father's death at 11, foster care, on his own around 15, left school at 13, crime and heavy drug use, sentenced at 19 (18 charges, concurrent). Then roughly three years in a NZ vineyard kitchen under Chef (Geoffrey Welham), Chef de Cuisine at 24, turned around a failing 150-cover bistro, later Melbourne Italian fine dining.",
+    "authority": "Lived all of it. Commercial-kitchen experience from the pass and the rail, not TV or foodie culture, plus a life that shows what in-the-moment decisions cost the future self.",
+    "relationship_with_subject": "Witness first, expert second. Inside each moment and also the adult looking back with hindsight. The ChefTips carry the expert layer.",
+    "reader_relationship": "Conversation, with some teaching. Direct 'you' address. Kitchen people should recognise themselves, and outsiders get dragged into the kitchen. Provokes the reader's own 'how did I get here?'",
+    "emotional_core": "Integrity, loyalty, honesty and respect never change. What changes is the understanding of how they are applied, given and expected, which life only supplies once it has been lived. 00_ONE_THING_LED_TO_ANOTHER establishes this: decisions in the moment rarely consider their future impact.",
+    "the_risk": [
+      "His father's death at 11 and its aftermath, never spoken about in the family. Ma will read it and still blames herself. Likely to solidify what he has always said on the matter.",
+      "The hardest: the death of his son Jackson at age 7, in his arms (severe asthma attack). Only one piece exists so far, 'TheUniverse', a brief snapshot of the evening before."
+    ],
+    "handling_rules": [
+      "B30 (binding): no career chapter foreshadows Jackson's death. That material sits after §23 closes the ChefTip ladder.",
+      "Father and Jackson chapters are interview-first. Nothing is drafted until the author has told it his way, at his pace.",
+      "Composites and disguises per CLAUDE.md §5 (e.g. Marco composite stays undisclosed)."
+    ],
+    "key_relationships": "Ma, Steven/CJ (brother), father ('the old man'), Jackson (son), Madison (daughter), Chef/Geoffrey Welham, Fat Sam, Dave, Si, Ivian; bistro brigade Praveen, Sonny, Jen. Full registry: CLAUDE.md §5 and context/canon.md.",
+    "depth_sources": {
+      "canon": "context/canon.md (mirror of CLAUDE.md §5–6)",
+      "voice_and_worldview": "context/chef-writer-context-profile.md",
+      "vocabulary": "context/vocabulary-context-profile.md",
+      "voice_metrics": "context/voice-baseline.json",
+      "project_state": "context/project-memory.md",
+      "structure": "planning/writing-plan_v1.5.0.md, planning/chapter-numbering_2026-09-22.md",
+      "decisions": "planning/decision-ledger_2026-08-30.md"
+    }
+  },
+  "author_voice": {
+    "tone": "",
+    "register": "",
+    "pov": "",
+    "rhythm": "",
+    "vocabulary": "",
+    "signature_phrases": [],
+    "avoid": [],
+    "reference_authors": []
+  },
+  "structure": {
+    "outline_file": "outline.md",
+    "chapters_dir": "chapters/"
+  },
+  "preset_digest": null,
+  "writing_log": []
+}
